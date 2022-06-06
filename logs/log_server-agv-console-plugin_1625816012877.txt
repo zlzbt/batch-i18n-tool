@@ -1,0 +1,4 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-agv-console-plugin\config\locale\en-US.js: 
+>>>>agvConsole.robotTimer.robotTask 的更新记录：[object Object]  ---> [object Object] 
+>>>>agvConsole.stateType.wcs 的更新记录：[object Object]  ---> [object Object] 
+>>>>agvConsole.wcs.job 的更新记录：[object Object]  ---> [object Object] 

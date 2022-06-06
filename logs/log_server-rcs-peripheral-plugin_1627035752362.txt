@@ -1,0 +1,287 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-rcs-peripheral-plugin\config\locale\en-US.js: 
+>>>>menu.device 的更新记录：Device Management  ---> Device Management 
+>>>>rcsPeripheral.menu.peripheralList 的更新记录：Device List  ---> Device List 
+>>>>rcsPeripheral.menu.autoPath 的更新记录：Automatic Path  ---> Automatic Path 
+>>>>rcsPeripheral.menu.automatedPathEdit 的更新记录：Automation Path Edit  ---> Automation Path Edit 
+>>>>rcsPeripheral.menu.autoDischargeCargo 的更新记录：Automatic Unloading Point  ---> Automatic Unloading Point 
+>>>>rcsPeripheral.menu.interactiveDevice 的更新记录：Interactive Device Management  ---> Interactive Device Management 
+>>>>rcsPeripheral.menu.interactiveDeviceAdd 的更新记录：Interactive Device Management Add  ---> Interactive Device Management Add 
+>>>>rcsPeripheral.menu.interactiveDeviceEdit 的更新记录：Interactive Device Management Edit  ---> Interactive Device Management Edit 
+>>>>rcsPeripheral.menu.interactiveDeviceView 的更新记录：Interactive Device Management View  ---> Interactive Device Management View 
+>>>>rcsPeripheral.base.exportOperateAll 的更新记录：Export All  ---> Export All 
+>>>>rcsPeripheral.base.exportOperate 的更新记录：Export  ---> Export 
+>>>>rcsPeripheral.base.otherParams 的更新记录：Other Fields  ---> Other Fields 
+>>>>rcsPeripheral.base.otherValue 的更新记录：Field Value  ---> Field Value 
+>>>>rcsPeripheral.deviceList.exportOperateAll 的更新记录：Export All  ---> Export All 
+>>>>rcsPeripheral.deviceList.exportOperate 的更新记录：Export  ---> Export 
+>>>>rcsPeripheral.deviceList.onlineState 的更新记录：System State  ---> System State 
+>>>>rcsPeripheral.deviceList.deviceBasicType 的更新记录：Device Type  ---> Device Type 
+>>>>rcsPeripheral.deviceList.btn.import 的更新记录：Import  ---> Import 
+>>>>rcsPeripheral.deviceList.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>rcsPeripheral.deviceList.op 的更新记录：Operate  ---> Operate 
+>>>>rcsPeripheral.deviceList.op.edit 的更新记录：Operate  ---> Operate 
+>>>>rcsPeripheral.deviceList.id 的更新记录：Device ID  ---> Device ID 
+>>>>rcsPeripheral.deviceList.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>rcsPeripheral.deviceList.warehouseCode 的更新记录：Warehouse Code  ---> Warehouse Code 
+>>>>rcsPeripheral.deviceList.warehouseName 的更新记录：Warehouse Name  ---> Warehouse Name 
+>>>>rcsPeripheral.deviceList.equipmentCode 的更新记录：Equipment Code  ---> Equipment Code 
+>>>>rcsPeripheral.deviceList.equipmentClassification 的更新记录：Equipment Distinction  ---> Equipment Distinction 
+>>>>rcsPeripheral.deviceList.equipmentName 的更新记录：Equipment Name  ---> Equipment Name 
+>>>>rcsPeripheral.deviceList.enabled 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>rcsPeripheral.deviceList.outInWarehouseMode 的更新记录：In / Out Mode  ---> In / Out Mode 
+>>>>rcsPeripheral.deviceList.carrierCapacity 的更新记录：Carrying Capacity  ---> Carrying Capacity 
+>>>>rcsPeripheral.deviceList.skipCommand 的更新记录：Jump Instruction Set  ---> Jump Instruction Set 
+>>>>rcsPeripheral.deviceList.state 的更新记录：Status  ---> Status 
+>>>>rcsPeripheral.deviceList.createdUser 的更新记录：User Created  ---> User Created 
+>>>>rcsPeripheral.deviceList.createdApp 的更新记录：CreatedApp  ---> CreatedApp 
+>>>>rcsPeripheral.deviceList.createdTime 的更新记录：CreatedTime  ---> CreatedTime 
+>>>>rcsPeripheral.deviceList.lastUpdatedUser 的更新记录：LastUpdatedUser  ---> LastUpdatedUser 
+>>>>rcsPeripheral.deviceList.lastUpdatedApp 的更新记录：LastUpdatedApp  ---> LastUpdatedApp 
+>>>>rcsPeripheral.deviceList.lastUpdatedTime 的更新记录：LastUpdatedTime  ---> LastUpdatedTime 
+>>>>rcsPeripheral.deviceEdit.title 的更新记录：Equipment Code  ---> Equipment Code 
+>>>>rcsPeripheral.deviceEdit.id 的更新记录：Device ID  ---> Device ID 
+>>>>rcsPeripheral.deviceEdit.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>rcsPeripheral.deviceEdit.equipmentCode 的更新记录：Equipment Code  ---> Equipment Code 
+>>>>rcsPeripheral.deviceEdit.equipmentClassification 的更新记录：Equipment Distinction  ---> Equipment Distinction 
+>>>>rcsPeripheral.deviceEdit.state 的更新记录：Status  ---> Status 
+>>>>rcsPeripheral.deviceEdit.enabled 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>rcsPeripheral.deviceEdit.outInWarehouseMode 的更新记录：In / Out Mode  ---> In / Out Mode 
+>>>>rcsPeripheral.deviceEdit.carrierCapacity 的更新记录：Carrying Capacity  ---> Carrying Capacity 
+>>>>rcsPeripheral.deviceEdit.back 的更新记录：Return  ---> Return 
+>>>>rcsPeripheral.deviceEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>rcsPeripheral.automatedPath.exportOperateAll 的更新记录：Export All  ---> Export All 
+>>>>rcsPeripheral.automatedPath.exportOperate 的更新记录：Export  ---> Export 
+>>>>rcsPeripheral.automatedPath.onlineState 的更新记录：System State  ---> System State 
+>>>>rcsPeripheral.automatedPath.id 的更新记录：ID  ---> ID 
+>>>>rcsPeripheral.automatedPath.startPointCode 的更新记录：Starting Point Code  ---> Starting Point Code 
+>>>>rcsPeripheral.automatedPath.endPointEquipmentCode 的更新记录：Terminal Equipment Code  ---> Terminal Equipment Code 
+>>>>rcsPeripheral.automatedPath.automatedPathCode 的更新记录：Automatic Path Code  ---> Automatic Path Code 
+>>>>rcsPeripheral.automatedPath.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>rcsPeripheral.automatedPath.warehouseCode 的更新记录：Warehouse Code  ---> Warehouse Code 
+>>>>rcsPeripheral.automatedPath.warehouseName 的更新记录：Warehouse Name  ---> Warehouse Name 
+>>>>rcsPeripheral.automatedPath.enabled 的更新记录：Status  ---> Status 
+>>>>rcsPeripheral.automatedPath.startWorkClassification 的更新记录：Start Job Differentiation  ---> Start Job Differentiation 
+>>>>rcsPeripheral.automatedPath.startPointEquipmentId 的更新记录：Start Device Id  ---> Start Device Id 
+>>>>rcsPeripheral.automatedPath.startPointEquipmentCode 的更新记录：Starting Equipment Code  ---> Starting Equipment Code 
+>>>>rcsPeripheral.automatedPath.startPointCommand 的更新记录：Start Interactive Instruction Set  ---> Start Interactive Instruction Set 
+>>>>rcsPeripheral.automatedPath.startPointRollbackMode 的更新记录：Start Rollback Mode  ---> Start Rollback Mode 
+>>>>rcsPeripheral.automatedPath.endPointCode 的更新记录：End Point Code  ---> End Point Code 
+>>>>rcsPeripheral.automatedPath.endWorkClassification 的更新记录：Terminal Job Differentiation  ---> Terminal Job Differentiation 
+>>>>rcsPeripheral.automatedPath.endPointEquipmentId 的更新记录：End Device ID  ---> End Device ID 
+>>>>rcsPeripheral.automatedPath.endPointCommand 的更新记录：Terminal Interaction Instruction Set  ---> Terminal Interaction Instruction Set 
+>>>>rcsPeripheral.automatedPath.endPointRollbackMode 的更新记录：End Rollback Mode  ---> End Rollback Mode 
+>>>>rcsPeripheral.automatedPath.state 的更新记录：Status  ---> Status 
+>>>>rcsPeripheral.automatedPath.op 的更新记录：Operate  ---> Operate 
+>>>>rcsPeripheral.automatedPath.op.delete 的更新记录：Delete  ---> Delete 
+>>>>rcsPeripheral.automatedPath.op.edit 的更新记录：Edit  ---> Edit 
+>>>>rcsPeripheral.autoDischargeCargo.exportOperateAll 的更新记录：Export All  ---> Export All 
+>>>>rcsPeripheral.autoDischargeCargo.exportOperate 的更新记录：Export  ---> Export 
+>>>>rcsPeripheral.autoDischargeCargo.onlineState 的更新记录：System State  ---> System State 
+>>>>rcsPeripheral.autoDischargeCargo.pathId 的更新记录：ID  ---> ID 
+>>>>rcsPeripheral.autoDischargeCargo.equipmentCode 的更新记录：Target Equipment Code  ---> Target Equipment Code 
+>>>>rcsPeripheral.autoDischargeCargo.pointCode 的更新记录：Point Code  ---> Point Code 
+>>>>rcsPeripheral.autoDischargeCargo.agvPointCode 的更新记录：Robot Direct Entry Point Code  ---> Robot Direct Entry Point Code 
+>>>>rcsPeripheral.autoDischargeCargo.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>rcsPeripheral.autoDischargeCargo.warehouseCode 的更新记录：Warehouse Code  ---> Warehouse Code 
+>>>>rcsPeripheral.autoDischargeCargo.warehouseName 的更新记录：Warehouse Name  ---> Warehouse Name 
+>>>>rcsPeripheral.autoDischargeCargo.equipmentId 的更新记录：Target Device Id  ---> Target Device Id 
+>>>>rcsPeripheral.autoDischargeCargo.state 的更新记录：Status  ---> Status 
+>>>>rcsPeripheral.automatedPathEdit.title 的更新记录：Edit  ---> Edit 
+>>>>rcsPeripheral.automatedPathEdit.op 的更新记录：Operate  ---> Operate 
+>>>>rcsPeripheral.automatedPathEdit.op.edit 的更新记录：Edit  ---> Edit 
+>>>>rcsPeripheral.automatedPathEdit.op.delete 的更新记录：Delete  ---> Delete 
+>>>>rcsPeripheral.automatedPathEdit.back 的更新记录：Return  ---> Return 
+>>>>rcsPeripheral.automatedPathEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>rcsPeripheral.automatedPathEdit.id 的更新记录：ID  ---> ID 
+>>>>rcsPeripheral.automatedPathEdit.automatedPathCode 的更新记录：Automatic Path Code  ---> Automatic Path Code 
+>>>>rcsPeripheral.automatedPathEdit.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>rcsPeripheral.automatedPathEdit.warehouseCode 的更新记录：Warehouse Code  ---> Warehouse Code 
+>>>>rcsPeripheral.automatedPathEdit.warehouseName 的更新记录：Warehouse Name  ---> Warehouse Name 
+>>>>rcsPeripheral.automatedPathEdit.enabled 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>rcsPeripheral.automatedPathEdit.startPointCode 的更新记录：Starting Point Code  ---> Starting Point Code 
+>>>>rcsPeripheral.automatedPathEdit.startWorkClassification 的更新记录：Start Job Differentiation  ---> Start Job Differentiation 
+>>>>rcsPeripheral.automatedPathEdit.startPointEquipmentId 的更新记录：Start Device Id  ---> Start Device Id 
+>>>>rcsPeripheral.automatedPathEdit.startPointEquipmentCode 的更新记录：Starting Equipment Code  ---> Starting Equipment Code 
+>>>>rcsPeripheral.automatedPathEdit.startPointCommand 的更新记录：Start Interactive Instruction Set  ---> Start Interactive Instruction Set 
+>>>>rcsPeripheral.automatedPathEdit.startPointRollbackMode 的更新记录：Start Rollback Mode  ---> Start Rollback Mode 
+>>>>rcsPeripheral.automatedPathEdit.endPointCode 的更新记录：End Point Code  ---> End Point Code 
+>>>>rcsPeripheral.automatedPathEdit.endWorkClassification 的更新记录：Terminal Job Differentiation  ---> Terminal Job Differentiation 
+>>>>rcsPeripheral.automatedPathEdit.endPointEquipmentId 的更新记录：End Device ID  ---> End Device ID 
+>>>>rcsPeripheral.automatedPathEdit.endPointCommand 的更新记录：Terminal Interaction Instruction Set  ---> Terminal Interaction Instruction Set 
+>>>>rcsPeripheral.automatedPathEdit.endPointRollbackMode 的更新记录：End Rollback Mode  ---> End Rollback Mode 
+>>>>rcsPeripheral.automatedPathEdit.state 的更新记录：Data Status  ---> Data Status 
+>>>>rcsPeripheral.interactiveDevice.unknownReason 的更新记录：Unknown Reason  ---> Unknown Reason 
+>>>>rcsPeripheral.interactiveDevice.success 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>rcsPeripheral.interactiveDevice.add 的更新记录：Add  ---> Add 
+>>>>rcsPeripheral.interactiveDevice.enable 的更新记录：Enable  ---> Enable 
+>>>>rcsPeripheral.interactiveDevice.disable 的更新记录：Disable  ---> Disable 
+>>>>rcsPeripheral.interactiveDevice.delete 的更新记录：Delete  ---> Delete 
+>>>>rcsPeripheral.interactiveDevice.onlineState 的更新记录：System State  ---> System State 
+>>>>rcsPeripheral.interactiveDevice.deviceBasicType 的更新记录：Equipment_Type  ---> Equipment_Type 
+>>>>rcsPeripheral.interactiveDevice.btn.import 的更新记录：Import  ---> Import 
+>>>>rcsPeripheral.interactiveDevice.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>rcsPeripheral.interactiveDevice.op 的更新记录：Operate  ---> Operate 
+>>>>rcsPeripheral.interactiveDevice.op.view 的更新记录：View  ---> View 
+>>>>rcsPeripheral.interactiveDevice.op.edit 的更新记录：Edit  ---> Edit 
+>>>>rcsPeripheral.interactiveDevice.deviceCode 的更新记录：Equipment Code  ---> Equipment Code 
+>>>>rcsPeripheral.interactiveDevice.deviceName 的更新记录：Equipment Name  ---> Equipment Name 
+>>>>rcsPeripheral.interactiveDevice.deviceType 的更新记录：Device Type  ---> Device Type 
+>>>>rcsPeripheral.interactiveDevice.warehouse 的更新记录：Warehouse  ---> Warehouse 
+>>>>rcsPeripheral.interactiveDevice.currentPosition 的更新记录：Current Position  ---> Current Position 
+>>>>rcsPeripheral.interactiveDevice.typeOfHandlingService 的更新记录：Transport Business Type  ---> Transport Business Type 
+>>>>rcsPeripheral.interactiveDevice.enableState 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>rcsPeripheral.interactiveDevice.id 的更新记录：Device ID  ---> Device ID 
+>>>>rcsPeripheral.interactiveDevice.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>rcsPeripheral.interactiveDevice.warehouseCode 的更新记录：Warehouse Code  ---> Warehouse Code 
+>>>>rcsPeripheral.interactiveDevice.warehouseName 的更新记录：Warehouse Name  ---> Warehouse Name 
+>>>>rcsPeripheral.interactiveDevice.equipmentCode 的更新记录：Equipment Code  ---> Equipment Code 
+>>>>rcsPeripheral.interactiveDevice.equipmentClassification 的更新记录：Equipment Distinction  ---> Equipment Distinction 
+>>>>rcsPeripheral.interactiveDevice.equipmentName 的更新记录：Equipment Name  ---> Equipment Name 
+>>>>rcsPeripheral.interactiveDevice.enabled 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>rcsPeripheral.interactiveDevice.deleteModal.title 的更新记录：Batch Delete  ---> Batch Delete 
+>>>>rcsPeripheral.interactiveDeviceAdd.basicSetting 的更新记录：Basic Configuration  ---> Basic Configuration 
+>>>>rcsPeripheral.interactiveDeviceAdd.mapAssociated 的更新记录：Map Associated  ---> Map Associated 
+>>>>rcsPeripheral.interactiveDeviceAdd.deviceCode 的更新记录：Equipment Code  ---> Equipment Code 
+>>>>rcsPeripheral.interactiveDeviceAdd.deviceName 的更新记录：Equipment Name  ---> Equipment Name 
+>>>>rcsPeripheral.interactiveDeviceAdd.deviceType 的更新记录：Device Type  ---> Device Type 
+>>>>rcsPeripheral.interactiveDeviceAdd.enableState 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>rcsPeripheral.interactiveDeviceAdd.zone 的更新记录：Warehouse  ---> Warehouse 
+>>>>rcsPeripheral.interactiveDeviceAdd.whetherOnline 的更新记录：Whether Online  ---> Whether Online 
+>>>>rcsPeripheral.interactiveDeviceAdd.businessType 的更新记录：Business Type  ---> Business Type 
+>>>>rcsPeripheral.interactiveDeviceAdd.subjectionDevice 的更新记录：Subjection Device  ---> Subjection Device 
+>>>>rcsPeripheral.interactiveDeviceAdd.agvTypeRestriction 的更新记录：AGV Type Restriction  ---> AGV Type Restriction 
+>>>>rcsPeripheral.interactiveDeviceAdd.locationConfigurationMode 的更新记录：Location Configuration Mode  ---> Location Configuration Mode 
+>>>>rcsPeripheral.interactiveDeviceAdd.currentPosition 的更新记录：Current Position  ---> Current Position 
+>>>>rcsPeripheral.interactiveDeviceAdd.ip 的更新记录：IP  ---> IP 
+>>>>rcsPeripheral.interactiveDeviceAdd.communicationType 的更新记录：Communication Protocol  ---> Communication Protocol 
+>>>>rcsPeripheral.interactiveDeviceAdd.longLimit 的更新记录：Length limit  ---> Length limit 
+>>>>rcsPeripheral.interactiveDeviceAdd.carryingCapacity 的更新记录：Carrying Capacity  ---> Carrying Capacity 
+>>>>rcsPeripheral.interactiveDeviceAdd.highLimit 的更新记录：High Limit  ---> High Limit 
+>>>>rcsPeripheral.interactiveDeviceAdd.wideLimit 的更新记录：Wide Limit  ---> Wide Limit 
+>>>>rcsPeripheral.interactiveDeviceAdd.numberOfFloorLevels 的更新记录：Number Of Floor Levels  ---> Number Of Floor Levels 
+>>>>rcsPeripheral.interactiveDeviceAdd.operationDirection 的更新记录：Operation Direction  ---> Operation Direction 
+>>>>rcsPeripheral.interactiveDeviceAdd.rules.max.message.deviceCode 的更新记录：Maximum length cannot exceed 30 digits  ---> Maximum length cannot exceed 30 digits 
+>>>>rcsPeripheral.interactiveDeviceAdd.rules.max.message.deviceName 的更新记录：Maximum length cannot exceed 60 digits  ---> Maximum length cannot exceed 60 digits 
+>>>>rcsPeripheral.interactiveDeviceAdd.rules.max.message.subjectionDevice 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>rcsPeripheral.interactiveDeviceAdd.rules.max.message.communicationType 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>rcsPeripheral.interactiveDeviceAdd.rules.max.message.ip 的更新记录：Maximum length cannot exceed 100 digits  ---> Maximum length cannot exceed 100 digits 
+>>>>rcsPeripheral.interactiveDeviceAdd.return 的更新记录：Return  ---> Return 
+>>>>rcsPeripheral.interactiveDeviceAdd.submit 的更新记录：Submit  ---> Submit 
+>>>>rcsPeripheral.interactiveDeviceAdd.floorSet 的更新记录：Floor Setting  ---> Floor Setting 
+>>>>rcsPeripheral.interactiveDeviceAdd.deviceJumpSetting 的更新记录：Device Jump Setting  ---> Device Jump Setting 
+>>>>rcsPeripheral.interactiveDeviceAdd.floor 的更新记录：Floor  ---> Floor 
+>>>>rcsPeripheral.interactiveDeviceAdd.floorDescription 的更新记录：Floor Description  ---> Floor Description 
+>>>>rcsPeripheral.interactiveDeviceAdd.upToTheReservoir 的更新记录：Up To The Reservoir  ---> Up To The Reservoir 
+>>>>rcsPeripheral.interactiveDeviceAdd.exit 的更新记录：Exit  ---> Exit 
+>>>>rcsPeripheral.interactiveDeviceAdd.entrance 的更新记录：Entrance  ---> Entrance 
+>>>>rcsPeripheral.interactiveDeviceAdd.entryInteractionLocation 的更新记录：Entry Interaction Location  ---> Entry Interaction Location 
+>>>>rcsPeripheral.interactiveDeviceAdd.exitInteractionLocation 的更新记录：Exit Interaction Location  ---> Exit Interaction Location 
+>>>>rcsPeripheral.interactiveDeviceAdd.equipmentLocation 的更新记录：Equipment Location  ---> Equipment Location 
+>>>>rcsPeripheral.interactiveDeviceAdd.state 的更新记录：Status  ---> Status 
+>>>>rcsPeripheral.interactiveDeviceAdd.initialLayer 的更新记录：Initial Layer  ---> Initial Layer 
+>>>>rcsPeripheral.interactiveDeviceAdd.targetLayer 的更新记录：Target Layer  ---> Target Layer 
+>>>>rcsPeripheral.interactiveDeviceAdd.initialLocation 的更新记录：Initial Location  ---> Initial Location 
+>>>>rcsPeripheral.interactiveDeviceAdd.targetLocation 的更新记录：Target Location  ---> Target Location 
+>>>>rcsPeripheral.interactiveDeviceAdd.interfaceType 的更新记录：Interface Type  ---> Interface Type 
+>>>>rcsPeripheral.interactiveDeviceAdd.startingPoint 的更新记录：Start Interactive Instruction Set  ---> Start Interactive Instruction Set 
+>>>>rcsPeripheral.interactiveDeviceAdd.op 的更新记录：Operate  ---> Operate 
+>>>>rcsPeripheral.interactiveDeviceAdd.op.edit 的更新记录：Edit  ---> Edit 
+>>>>rcsPeripheral.interactiveDeviceAdd.op.enable 的更新记录：Effective  ---> Effective 
+>>>>rcsPeripheral.interactiveDeviceAdd.op.disable 的更新记录：Invalid  ---> Invalid 
+>>>>rcsPeripheral.interactiveDeviceAdd.editFloor.title 的更新记录：Edit Floor Settings  ---> Edit Floor Settings 
+>>>>rcsPeripheral.interactiveDeviceAdd.editDevice.title 的更新记录：Edit Device Jump Settings  ---> Edit Device Jump Settings 
+>>>>rcsPeripheral.interactiveDeviceEdit.basicSetting 的更新记录：Basic Configuration  ---> Basic Configuration 
+>>>>rcsPeripheral.interactiveDeviceEdit.mapAssociated 的更新记录：Map Associated  ---> Map Associated 
+>>>>rcsPeripheral.interactiveDeviceEdit.deviceCode 的更新记录：Equipment Code  ---> Equipment Code 
+>>>>rcsPeripheral.interactiveDeviceEdit.deviceName 的更新记录：Equipment Name  ---> Equipment Name 
+>>>>rcsPeripheral.interactiveDeviceEdit.deviceType 的更新记录：Device Type  ---> Device Type 
+>>>>rcsPeripheral.interactiveDeviceEdit.enableState 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>rcsPeripheral.interactiveDeviceEdit.zone 的更新记录：Warehouse  ---> Warehouse 
+>>>>rcsPeripheral.interactiveDeviceEdit.whetherOnline 的更新记录：Whether Online  ---> Whether Online 
+>>>>rcsPeripheral.interactiveDeviceEdit.businessType 的更新记录：Business Type  ---> Business Type 
+>>>>rcsPeripheral.interactiveDeviceEdit.subjectionDevice 的更新记录：Subjection Device  ---> Subjection Device 
+>>>>rcsPeripheral.interactiveDeviceEdit.agvTypeRestriction 的更新记录：AGV Type Restriction  ---> AGV Type Restriction 
+>>>>rcsPeripheral.interactiveDeviceEdit.locationConfigurationMode 的更新记录：Location Configuration Mode  ---> Location Configuration Mode 
+>>>>rcsPeripheral.interactiveDeviceEdit.currentPosition 的更新记录：Current Position  ---> Current Position 
+>>>>rcsPeripheral.interactiveDeviceEdit.ip 的更新记录：IP  ---> IP 
+>>>>rcsPeripheral.interactiveDeviceEdit.communicationType 的更新记录：Communication Protocol  ---> Communication Protocol 
+>>>>rcsPeripheral.interactiveDeviceEdit.longLimit 的更新记录：Length limit  ---> Length limit 
+>>>>rcsPeripheral.interactiveDeviceEdit.carryingCapacity 的更新记录：Carrying Capacity  ---> Carrying Capacity 
+>>>>rcsPeripheral.interactiveDeviceEdit.highLimit 的更新记录：High Limit  ---> High Limit 
+>>>>rcsPeripheral.interactiveDeviceEdit.wideLimit 的更新记录：Wide Limit  ---> Wide Limit 
+>>>>rcsPeripheral.interactiveDeviceEdit.numberOfFloorLevels 的更新记录：Number Of Floor Levels  ---> Number Of Floor Levels 
+>>>>rcsPeripheral.interactiveDeviceEdit.operationDirection 的更新记录：Operation Direction  ---> Operation Direction 
+>>>>rcsPeripheral.interactiveDeviceEdit.rules.max.message.deviceCode 的更新记录：Maximum length cannot exceed 30 digits  ---> Maximum length cannot exceed 30 digits 
+>>>>rcsPeripheral.interactiveDeviceEdit.rules.max.message.deviceName 的更新记录：Maximum length cannot exceed 60 digits  ---> Maximum length cannot exceed 60 digits 
+>>>>rcsPeripheral.interactiveDeviceEdit.rules.max.message.subjectionDevice 的更新记录：Maximum length cannot exceed 60 digits  ---> Maximum length cannot exceed 60 digits 
+>>>>rcsPeripheral.interactiveDeviceEdit.rules.max.message.communicationType 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>rcsPeripheral.interactiveDeviceEdit.rules.max.message.ip 的更新记录：Maximum length cannot exceed 100 digits  ---> Maximum length cannot exceed 100 digits 
+>>>>rcsPeripheral.interactiveDeviceEdit.return 的更新记录：Return  ---> Return 
+>>>>rcsPeripheral.interactiveDeviceEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>rcsPeripheral.interactiveDeviceEdit.floorSet 的更新记录：Floor Setting  ---> Floor Setting 
+>>>>rcsPeripheral.interactiveDeviceEdit.deviceJumpSetting 的更新记录：Device Jump Setting  ---> Device Jump Setting 
+>>>>rcsPeripheral.interactiveDeviceEdit.floor 的更新记录：Floor  ---> Floor 
+>>>>rcsPeripheral.interactiveDeviceEdit.floorDescription 的更新记录：Floor Description  ---> Floor Description 
+>>>>rcsPeripheral.interactiveDeviceEdit.upToTheReservoir 的更新记录：Up To The Reservoir  ---> Up To The Reservoir 
+>>>>rcsPeripheral.interactiveDeviceEdit.exit 的更新记录：Exit  ---> Exit 
+>>>>rcsPeripheral.interactiveDeviceEdit.entrance 的更新记录：Entrance  ---> Entrance 
+>>>>rcsPeripheral.interactiveDeviceEdit.entryInteractionLocation 的更新记录：Entry Interaction Location  ---> Entry Interaction Location 
+>>>>rcsPeripheral.interactiveDeviceEdit.exitInteractionLocation 的更新记录：Exit Interaction Location  ---> Exit Interaction Location 
+>>>>rcsPeripheral.interactiveDeviceEdit.equipmentLocation 的更新记录：Equipment Location  ---> Equipment Location 
+>>>>rcsPeripheral.interactiveDeviceEdit.state 的更新记录：Status  ---> Status 
+>>>>rcsPeripheral.interactiveDeviceEdit.initialLayer 的更新记录：Initial Layer  ---> Initial Layer 
+>>>>rcsPeripheral.interactiveDeviceEdit.targetLayer 的更新记录：Target Layer  ---> Target Layer 
+>>>>rcsPeripheral.interactiveDeviceEdit.initialLocation 的更新记录：Initial Location  ---> Initial Location 
+>>>>rcsPeripheral.interactiveDeviceEdit.targetLocation 的更新记录：Target Location  ---> Target Location 
+>>>>rcsPeripheral.interactiveDeviceEdit.interfaceType 的更新记录：Interface Type  ---> Interface Type 
+>>>>rcsPeripheral.interactiveDeviceEdit.startingPoint 的更新记录：Start Interactive Instruction Set  ---> Start Interactive Instruction Set 
+>>>>rcsPeripheral.interactiveDeviceEdit.op 的更新记录：Operate  ---> Operate 
+>>>>rcsPeripheral.interactiveDeviceEdit.op.edit 的更新记录：Edit  ---> Edit 
+>>>>rcsPeripheral.interactiveDeviceEdit.op.enable 的更新记录：Effective  ---> Effective 
+>>>>rcsPeripheral.interactiveDeviceEdit.op.disable 的更新记录：Invalid  ---> Invalid 
+>>>>rcsPeripheral.interactiveDeviceEdit.editFloor.title 的更新记录：Edit Floor Settings  ---> Edit Floor Settings 
+>>>>rcsPeripheral.interactiveDeviceEdit.editDevice.title 的更新记录：Edit Device Jump Settings  ---> Edit Device Jump Settings 
+>>>>rcsPeripheral.interactiveDeviceView.basicSetting 的更新记录：Basic Configuration  ---> Basic Configuration 
+>>>>rcsPeripheral.interactiveDeviceView.mapAssociated 的更新记录：Map Associated  ---> Map Associated 
+>>>>rcsPeripheral.interactiveDeviceView.deviceCode 的更新记录：Equipment Code  ---> Equipment Code 
+>>>>rcsPeripheral.interactiveDeviceView.deviceName 的更新记录：Equipment Name  ---> Equipment Name 
+>>>>rcsPeripheral.interactiveDeviceView.deviceType 的更新记录：Device Type  ---> Device Type 
+>>>>rcsPeripheral.interactiveDeviceView.enableState 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>rcsPeripheral.interactiveDeviceView.zone 的更新记录：Warehouse  ---> Warehouse 
+>>>>rcsPeripheral.interactiveDeviceView.whetherOnline 的更新记录：Whether Online  ---> Whether Online 
+>>>>rcsPeripheral.interactiveDeviceView.businessType 的更新记录：Business Type  ---> Business Type 
+>>>>rcsPeripheral.interactiveDeviceView.subjectionDevice 的更新记录：Subjection Device  ---> Subjection Device 
+>>>>rcsPeripheral.interactiveDeviceView.agvTypeRestriction 的更新记录：AGV Type Restriction  ---> AGV Type Restriction 
+>>>>rcsPeripheral.interactiveDeviceView.locationConfigurationMode 的更新记录：Location Configuration Mode  ---> Location Configuration Mode 
+>>>>rcsPeripheral.interactiveDeviceView.currentPosition 的更新记录：Current Position  ---> Current Position 
+>>>>rcsPeripheral.interactiveDeviceView.ip 的更新记录：IP  ---> IP 
+>>>>rcsPeripheral.interactiveDeviceView.communicationType 的更新记录：Communication Protocol  ---> Communication Protocol 
+>>>>rcsPeripheral.interactiveDeviceView.longLimit 的更新记录：Length limit  ---> Length limit 
+>>>>rcsPeripheral.interactiveDeviceView.carryingCapacity 的更新记录：Carrying Capacity  ---> Carrying Capacity 
+>>>>rcsPeripheral.interactiveDeviceView.highLimit 的更新记录：High Limit  ---> High Limit 
+>>>>rcsPeripheral.interactiveDeviceView.wideLimit 的更新记录：Wide Limit  ---> Wide Limit 
+>>>>rcsPeripheral.interactiveDeviceView.numberOfFloorLevels 的更新记录：Number Of Floor Levels  ---> Number Of Floor Levels 
+>>>>rcsPeripheral.interactiveDeviceView.operationDirection 的更新记录：Operation Direction  ---> Operation Direction 
+>>>>rcsPeripheral.interactiveDeviceView.rules.max.message.deviceCode 的更新记录：Maximum length cannot exceed 30 digits  ---> Maximum length cannot exceed 30 digits 
+>>>>rcsPeripheral.interactiveDeviceView.rules.max.message.deviceName 的更新记录：Maximum length cannot exceed 60 digits  ---> Maximum length cannot exceed 60 digits 
+>>>>rcsPeripheral.interactiveDeviceView.rules.max.message.communicationType 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>rcsPeripheral.interactiveDeviceView.rules.max.message.ip 的更新记录：Maximum length cannot exceed 100 digits  ---> Maximum length cannot exceed 100 digits 
+>>>>rcsPeripheral.interactiveDeviceView.return 的更新记录：Return  ---> Return 
+>>>>rcsPeripheral.interactiveDeviceView.submit 的更新记录：Next Step  ---> Next Step 
+>>>>rcsPeripheral.interactiveDeviceView.floorSet 的更新记录：Floor Setting  ---> Floor Setting 
+>>>>rcsPeripheral.interactiveDeviceView.deviceJumpSetting 的更新记录：Device Jump Setting  ---> Device Jump Setting 
+>>>>rcsPeripheral.interactiveDeviceView.floor 的更新记录：Floor  ---> Floor 
+>>>>rcsPeripheral.interactiveDeviceView.floorDescription 的更新记录：Floor Description  ---> Floor Description 
+>>>>rcsPeripheral.interactiveDeviceView.upToTheReservoir 的更新记录：Up To The Reservoir  ---> Up To The Reservoir 
+>>>>rcsPeripheral.interactiveDeviceView.exit 的更新记录：Exit  ---> Exit 
+>>>>rcsPeripheral.interactiveDeviceView.entrance 的更新记录：Entrance  ---> Entrance 
+>>>>rcsPeripheral.interactiveDeviceView.entryInteractionLocation 的更新记录：Entry Interaction Location  ---> Entry Interaction Location 
+>>>>rcsPeripheral.interactiveDeviceView.exitInteractionLocation 的更新记录：Exit Interaction Location  ---> Exit Interaction Location 
+>>>>rcsPeripheral.interactiveDeviceView.equipmentLocation 的更新记录：Equipment Location  ---> Equipment Location 
+>>>>rcsPeripheral.interactiveDeviceView.state 的更新记录：Status  ---> Status 
+>>>>rcsPeripheral.interactiveDeviceView.initialLayer 的更新记录：Initial Layer  ---> Initial Layer 
+>>>>rcsPeripheral.interactiveDeviceView.targetLayer 的更新记录：Target Layer  ---> Target Layer 
+>>>>rcsPeripheral.interactiveDeviceView.initialLocation 的更新记录：Initial Location  ---> Initial Location 
+>>>>rcsPeripheral.interactiveDeviceView.targetLocation 的更新记录：Target Location  ---> Target Location 
+>>>>rcsPeripheral.interactiveDeviceView.interfaceType 的更新记录：Interface Type  ---> Interface Type 
+>>>>rcsPeripheral.interactiveDeviceView.startingPoint 的更新记录：Start Interactive Instruction Set  ---> Start Interactive Instruction Set 

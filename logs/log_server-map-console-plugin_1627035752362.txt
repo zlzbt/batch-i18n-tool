@@ -1,0 +1,124 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-map-console-plugin\config\locale\en-US.js: 
+>>>>mapConsole.menu 的更新记录：Maintenance Platform  ---> Maintenance Platform 
+>>>>mapConsole.menu.console 的更新记录：Console  ---> Console 
+>>>>app.console.message.scs 的更新记录：Successful Operation  ---> Successful Operation 
+>>>>app.console.message.fail 的更新记录：Operation Failed  ---> Operation Failed 
+>>>>app.console.message.error.unknown 的更新记录：Unknown Cause  ---> Unknown Cause 
+>>>>app.console.options.yes 的更新记录：Yes  ---> Yes 
+>>>>app.console.options.no 的更新记录：No  ---> No 
+>>>>mapConsole.select.createArea 的更新记录：Create Area  ---> Create Area 
+>>>>mapConsole.select.createArea.form.areaType 的更新记录：Area Type  ---> Area Type 
+>>>>mapConsole.select.createArea.form.areaCode 的更新记录：Area Code  ---> Area Code 
+>>>>mapConsole.select.createArea.form.areaName 的更新记录：Area Name  ---> Area Name 
+>>>>mapConsole.select.createArea.form.superAreaId 的更新记录：Parent Area  ---> Parent Area 
+>>>>mapConsole.select.createArea.form.agvType 的更新记录：Robots Parked Types  ---> Robots Parked Types 
+>>>>mapConsole.select.createArea.form.workbinAgvEntry 的更新记录：Work bin agv entry  ---> Work bin agv entry 
+>>>>mapConsole.select.createArea.form.carryAgvEntry 的更新记录：Carry agv entry  ---> Carry agv entry 
+>>>>mapConsole.select.createArea.form.qlAgvZHeight 的更新记录：Ql agv z height  ---> Ql agv z height 
+>>>>mapConsole.select.createArea.form.agvSpeed 的更新记录：Driving Speed(mm/s)  ---> Driving Speed(mm/s) 
+>>>>mapConsole.select.createArea.form.agvRotate 的更新记录：Rotation Speed(Radian/S)  ---> Rotation Speed(Radian/S) 
+>>>>mapConsole.select.createArea.form.DispatchTime 的更新记录：Dispatch Time(S)  ---> Dispatch Time(S) 
+>>>>mapConsole.select.createArea.form.jsonData 的更新记录：Business Attribute  ---> Business Attribute 
+>>>>mapConsole.select.removeArea 的更新记录：Area Cancel  ---> Area Cancel 
+>>>>mapConsole.select.verifyGroundCode 的更新记录：Ground Code Validation  ---> Ground Code Validation 
+>>>>mapConsole.select.verifyGroundCode.form.agvNumber 的更新记录：Please Select The Number Of Verification Robots  ---> Please Select The Number Of Verification Robots 
+>>>>mapConsole.select.verifyGroundCode.form.multipleVehicles 的更新记录：Multiple Robots For Verification  ---> Multiple Robots For Verification 
+>>>>mapConsole.select.verifyGroundCode.form.oneVehicles 的更新记录：One Robot For Verification  ---> One Robot For Verification 
+>>>>mapConsole.select.verifyGroundCode.form.randomVehicles 的更新记录：Randomly assign an online idle robot.  ---> Randomly assign an online idle robot. 
+>>>>mapConsole.select.verifyGroundCode.form.designatedVehicles 的更新记录：Assign An Online Free Robot  ---> Assign An Online Free Robot 
+>>>>mapConsole.select.verifyGroundCode.form.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>mapConsole.search.mapCode 的更新记录：Map Code  ---> Map Code 
+>>>>mapConsole.search.barCode 的更新记录：Qr Code  ---> Qr Code 
+>>>>mapConsole.search.mapName 的更新记录：Code Point Name  ---> Code Point Name 
+>>>>mapConsole.options.empty 的更新记录：Empty  ---> Empty 
+>>>>mapConsole.chargerProps 的更新记录：Charger  ---> Charger 
+>>>>mapConsole.allTypeAgv 的更新记录：All  ---> All 
+>>>>mapConsole.notify.level.warning 的更新记录：Warning  ---> Warning 
+>>>>mapConsole.notify.level.danger 的更新记录：Error  ---> Error 
+>>>>mapConsole.notify.error.noUser 的更新记录：BFF did not find the current user, please refresh or login again!  ---> BFF did not find the current user, please refresh or login again! 
+>>>>mapConsole.props.pointCode 的更新记录：Point Encoding  ---> Point Encoding 
+>>>>mapConsole.props.pointName 的更新记录：Point Name  ---> Point Name 
+>>>>mapConsole.props.pointType 的更新记录：Code Point Type  ---> Code Point Type 
+>>>>mapConsole.props.barCode 的更新记录：Qr Code  ---> Qr Code 
+>>>>mapConsole.props.zoneCode 的更新记录：Zone Code  ---> Zone Code 
+>>>>mapConsole.props.rotatePointList 的更新记录：Commutation Point  ---> Commutation Point 
+>>>>mapConsole.props.waitPointList 的更新记录：Waiting Point  ---> Waiting Point 
+>>>>mapConsole.props.robotRotatable 的更新记录：Robot Rotatable  ---> Robot Rotatable 
+>>>>mapConsole.props.scanRange 的更新记录：Scan Range  ---> Scan Range 
+>>>>mapConsole.props.availableTopFace 的更新记录：Rack Direction  ---> Rack Direction 
+>>>>mapConsole.props.channelType 的更新记录：Channel Type  ---> Channel Type 
+>>>>mapConsole.props.channelNumber 的更新记录：Channel Number  ---> Channel Number 
+>>>>mapConsole.props.slamMapCode 的更新记录：Slam Map Code  ---> Slam Map Code 
+>>>>mapConsole.props.backup01 的更新记录：Standby parameter 01  ---> Standby parameter 01 
+>>>>mapConsole.props.backup02 的更新记录：Standby parameter 02  ---> Standby parameter 02 
+>>>>mapConsole.props.backup03 的更新记录：Standby parameter 03  ---> Standby parameter 03 
+>>>>mapConsole.props.startPointGuidanceMode 的更新记录：Start Point Guidance Mode  ---> Start Point Guidance Mode 
+>>>>mapConsole.props.endPointGuidanceMode 的更新记录：End Point Guidance Mode  ---> End Point Guidance Mode 
+>>>>mapConsole.props.reflectorInternalSpacing 的更新记录：Reflector Internal Spacing  ---> Reflector Internal Spacing 
+>>>>mapConsole.props.reflectorDistance 的更新记录：Reflector Distance  ---> Reflector Distance 
+>>>>mapConsole.props.barCodeHeight 的更新记录：QR Code Height  ---> QR Code Height 
+>>>>mapConsole.props.barCodeWidth 的更新记录：QR Code Width  ---> QR Code Width 
+>>>>mapConsole.props.stationCode 的更新记录：Workstation Code  ---> Workstation Code 
+>>>>mapConsole.props.chargerCode 的更新记录：Charger Point Code  ---> Charger Point Code 
+>>>>mapConsole.props.chargerPortType 的更新记录：Charging Port Type  ---> Charging Port Type 
+>>>>mapConsole.props.chargerType 的更新记录：Charger Type  ---> Charger Type 
+>>>>mapConsole.props.orientation 的更新记录：Orientation  ---> Orientation 
+>>>>mapConsole.props.stationOrientation 的更新记录：Working Face Orientation Of Rack  ---> Working Face Orientation Of Rack 
+>>>>mapConsole.props.mapCode 的更新记录：Map No.  ---> Map No. 
+>>>>mapConsole.props.mapName 的更新记录：Map Name  ---> Map Name 
+>>>>mapConsole.card.barCode 的更新记录：Code  ---> Code 
+>>>>mapConsole.card.type 的更新记录：Type  ---> Type 
+>>>>mapConsole.card.point 的更新记录：Coordinate  ---> Coordinate 
+>>>>mapConsole.tab.bucket 的更新记录：Rack  ---> Rack 
+>>>>mapConsole.tab.agv 的更新记录：Robot  ---> Robot 
+>>>>mapConsole.tab.map 的更新记录：Map  ---> Map 
+>>>>mapConsole.tab.chargingPile 的更新记录：Charger  ---> Charger 
+>>>>mapConsole.tab.lockpoint 的更新记录：Lock Point  ---> Lock Point 
+>>>>mapConsole.tab.quickLockPrefix 的更新记录：Manpower  ---> Manpower 
+>>>>mapConsole.tab.commonMessage 的更新记录：Message  ---> Message 
+>>>>mapConsole.error.unmatch 的更新记录：No Matching To Corresponding Method, Service Path: {0}, Method Name: {1}  ---> No Matching To Corresponding Method, Service Path: {0}, Method Name: {1} 
+>>>>mapConsole.error.warehouseMapNotExist 的更新记录：Warehouse [{0}] map code [{1}] does not exist  ---> Warehouse [{0}] map code [{1}] does not exist 
+>>>>mapConsole.message.createArea 的更新记录：Create area %s succeeded!  ---> Create area %s succeeded! 
+>>>>mapConsole.message.success 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>mapConsole.btn.btnEnable 的更新记录：Enable  ---> Enable 
+>>>>mapConsole.btn.btnDisable 的更新记录：Disable  ---> Disable 
+>>>>mapConsole.map.toolbar.select 的更新记录：Area Selection  ---> Area Selection 
+>>>>mapConsole.map.toolbar.qrcode 的更新记录：Ground Code  ---> Ground Code 
+>>>>mapConsole.map.toolbar.createPointArea 的更新记录：[object Object]  ---> [object Object] 
+>>>>mapConsole.map.toolbar.zoomIn 的更新记录：Zoom In  ---> Zoom In 
+>>>>mapConsole.map.toolbar.zoomOut 的更新记录：Zoom Out  ---> Zoom Out 
+>>>>mapConsole.map.toolbar.zoomReset 的更新记录：Reset  ---> Reset 
+>>>>mapConsole.map.toolbar.mapSetting 的更新记录：Setting  ---> Setting 
+>>>>mapConsole.map.setting.notify 的更新记录：Message Notification  ---> Message Notification 
+>>>>mapConsole.map.setting.zoneRender 的更新记录：Reservoir Area Scope  ---> Reservoir Area Scope 
+>>>>mapConsole.map.setting.attrInfo 的更新记录：Property Panel  ---> Property Panel 
+>>>>mapConsole.map.setting.highlightZone 的更新记录：Use Special Effects In Reservoir Area  ---> Use Special Effects In Reservoir Area 
+>>>>mapConsole.map.setting.agvLockPoints 的更新记录：Automatic Locking  ---> Automatic Locking 
+>>>>mapConsole.map.setting.areaType 的更新记录：Display Areas  ---> Display Areas 
+>>>>mapConsole.map.dock.autoHome 的更新记录：Robot Homing  ---> Robot Homing 
+>>>>mapConsole.map.dock.autoHome.cancelCurrentTask 的更新记录：Cancel Cuttent Job  ---> Cancel Cuttent Job 
+>>>>mapConsole.map.dock.autoHome.autoOffline 的更新记录：Automatic Downline  ---> Automatic Downline 
+>>>>mapConsole.map.dock.autoOnline 的更新记录：One-key Online  ---> One-key Online 
+>>>>mapConsole.map.dock.autoOffline 的更新记录：One-key Offline  ---> One-key Offline 
+>>>>mapConsole.map.dock.autoShutdown 的更新记录：Robot Shutdown   ---> Robot Shutdown  
+>>>>mapConsole.map.dock.autoStartup 的更新记录：Robot Start  ---> Robot Start 
+>>>>mapConsole.map.dock.oneKeyStop 的更新记录：Emergency Stop  ---> Emergency Stop 
+>>>>mapConsole.map.dock.oneKeyStoping 的更新记录：Emergency Stop  ---> Emergency Stop 
+>>>>mapConsole.map.dock.oneKeyRecovery 的更新记录：Emergency Stop Recovery  ---> Emergency Stop Recovery 
+>>>>mapConsole.map.forceAutoShutdown.tip 的更新记录：Current robot {agvCodes} got jobs not finished, please make sure jobs were all done and then do shutdown operation!  ---> Current robot {agvCodes} got jobs not finished, please make sure jobs were all done and then do shutdown operation! 
+>>>>mapConsole.map.forceAutoShutdown_success_v2.tip 的更新记录：Robot Shutdown Instruction Dispatch Successfully   ---> Robot Shutdown Instruction Dispatch Successfully  
+>>>>mapConsole.map.forceAutoShutdown_failure_v2.tip 的更新记录：Robot Shutdown Instruction Dispatch Mistakenly   ---> Robot Shutdown Instruction Dispatch Mistakenly  
+>>>>mapConsole.map.forceAutoShutdown.btn 的更新记录：Shutdown Now  ---> Shutdown Now 
+>>>>mapConsole.map.forceAutoShutdown_v2.btn 的更新记录：Ok  ---> Ok 
+>>>>mapConsole.map.toolbar.edit 的更新记录：Online Edit  ---> Online Edit 
+>>>>mapConsole.map.oneKeyStop.tip 的更新记录：After the next emergency stop operation, the robots in the whole field are suspended. Please confirm whether to continue the operation?  ---> After the next emergency stop operation, the robots in the whole field are suspended. Please confirm whether to continue the operation? 
+>>>>mapConsole.map.oneKeyRecovery.tip 的更新记录：After the emergency stop recovery command is issued, the robot in the whole field will resume transport. Please confirm whether to continue the operation?  ---> After the emergency stop recovery command is issued, the robot in the whole field will resume transport. Please confirm whether to continue the operation? 
+>>>>mapConsole.map.stop.tip 的更新记录：During robot emergency stop, suspend operation, please wait for recovery  ---> During robot emergency stop, suspend operation, please wait for recovery 
+>>>>mapConsole.map.recovery.tip 的更新记录：Robot emergency stop has been released, resume operation  ---> Robot emergency stop has been released, resume operation 
+>>>>mapConsole.map.charger.pile 的更新记录：Charger  ---> Charger 
+>>>>mapConsole.map.lockpoint.title 的更新记录：Lock Point  ---> Lock Point 
+>>>>mapConsole.map.lockpoint.type 的更新记录：Lock Point Type  ---> Lock Point Type 
+>>>>mapConsole.map.lockpoint.point 的更新记录：Lock Point  ---> Lock Point 
+>>>>mapConsole.map.lockpoint.release 的更新记录：Release Lock  ---> Release Lock 
+>>>>mapConsole.map.leftNav 的更新记录：[object Object]  ---> [object Object] 
+>>>>mapConsole.map.dropSearchType 的更新记录：[object Object]  ---> [object Object] 

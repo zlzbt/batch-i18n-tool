@@ -1,0 +1,1 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-interface-web-dev\server-plugins\server-logger-interface-plugin\config\locale\en-US.js: 

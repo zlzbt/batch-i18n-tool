@@ -1,0 +1,405 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-agv-basic-plugin\config\locale\en-US.js: 
+>>>>agvBasic.menu 的更新记录：Robot Management  ---> Robot Management 
+>>>>agvBasic.menu.edit 的更新记录：Robot Management Edit  ---> Robot Management Edit 
+>>>>agvBasic.menu.add 的更新记录：Robot Management Add  ---> Robot Management Add 
+>>>>agvBasic.menu.secondaryComponents 的更新记录：Secondary Components Management  ---> Secondary Components Management 
+>>>>agvBasic.menu.secondaryComponentsAdd 的更新记录：Secondary Components Management Add  ---> Secondary Components Management Add 
+>>>>agvBasic.menu.secondaryComponentsView 的更新记录：Secondary Components Management View  ---> Secondary Components Management View 
+>>>>agvBasic.menu.secondaryComponentsEdit 的更新记录：Secondary Components Management Edit  ---> Secondary Components Management Edit 
+>>>>operationScope.menu 的更新记录：Robot Operation Scope Management  ---> Robot Operation Scope Management 
+>>>>operationScope.menu.edit 的更新记录：Robot Operation Scope Management Edit  ---> Robot Operation Scope Management Edit 
+>>>>operationScope.menu.add 的更新记录：Robot Operation Scope Mmanagement Add  ---> Robot Operation Scope Mmanagement Add 
+>>>>transportEntity.menu 的更新记录：Robot Moving Target Management  ---> Robot Moving Target Management 
+>>>>transportEntity.menu.add 的更新记录：Robot Moving Target Management Add  ---> Robot Moving Target Management Add 
+>>>>transportEntity.menu.edit 的更新记录：Robot Moving Target Management Edit  ---> Robot Moving Target Management Edit 
+>>>>menu.robot 的更新记录：Robot  ---> Robot 
+>>>>agvBasic.common.operateSuccessfully 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>agvBasic.common.UnknownReason 的更新记录：Unknown Reason  ---> Unknown Reason 
+>>>>agvBasic.agv.title 的更新记录：Robot Management  ---> Robot Management 
+>>>>agvBasic.agv.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>agvBasic.agv.zoneId 的更新记录：Main Zone  ---> Main Zone 
+>>>>agvBasic.agv.zoneName 的更新记录：Main Zone Name  ---> Main Zone Name 
+>>>>agvBasic.agv.zoneCode 的更新记录：Main Zone Code  ---> Main Zone Code 
+>>>>agvBasic.agv.operationScopeId 的更新记录：Robot Operation Scope  ---> Robot Operation Scope 
+>>>>agvBasic.agv.operationScopeCode 的更新记录：Robot Operation Scope  ---> Robot Operation Scope 
+>>>>agvBasic.agv.agvTypeId 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvBasic.agv.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvBasic.agv.agvAppearanceId 的更新记录：Robot Part  ---> Robot Part 
+>>>>agvBasic.agv.agvAppearanceName 的更新记录：Robot Part Name  ---> Robot Part Name 
+>>>>agvBasic.agv.agvFrameCode 的更新记录：Frame Number  ---> Frame Number 
+>>>>agvBasic.agv.zoneCollection 的更新记录：Robot Operation Zone Set  ---> Robot Operation Zone Set 
+>>>>agvBasic.agv.dboxVersion 的更新记录：Dbox Version  ---> Dbox Version 
+>>>>agvBasic.agv.iotVersion 的更新记录：IOT Version  ---> IOT Version 
+>>>>agvBasic.agv.agvAppearanceCode 的更新记录：Robot Part Code  ---> Robot Part Code 
+>>>>agvBasic.agv.ip 的更新记录：IP Address  ---> IP Address 
+>>>>agvBasic.agv.driveUnitVersion 的更新记录：Current Upper Machine Version  ---> Current Upper Machine Version 
+>>>>agvBasic.agv.dspVersion 的更新记录：Current DSP Machine Version  ---> Current DSP Machine Version 
+>>>>agvBasic.agv.cameraVersion 的更新记录：Current Camera Version  ---> Current Camera Version 
+>>>>agvBasic.agv.batteryVersion 的更新记录：Current Battery Version  ---> Current Battery Version 
+>>>>agvBasic.agv.radarVersion 的更新记录：Current Radar Version  ---> Current Radar Version 
+>>>>agvBasic.agv.os 的更新记录：Operating System  ---> Operating System 
+>>>>agvBasic.agv.commandVersion 的更新记录：Current Command List Version  ---> Current Command List Version 
+>>>>agvBasic.agv.productVersion 的更新记录：Current Product Line  ---> Current Product Line 
+>>>>agvBasic.agv.bucketCode 的更新记录：Robot Integrated Rack Code  ---> Robot Integrated Rack Code 
+>>>>agvBasic.agv.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.agv.mac 的更新记录：MAC Address  ---> MAC Address 
+>>>>agvBasic.agv.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.agv.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.agv.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.agv.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.agv.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.agv.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.agv.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.agv.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.agv.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.agv.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.agv.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.agv.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.agv.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.agv.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.agv.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.agvEdit.title 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.agvEdit.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>agvBasic.agvEdit.zoneId 的更新记录：Main Zone  ---> Main Zone 
+>>>>agvBasic.agvEdit.zoneName 的更新记录：Main Zone Name  ---> Main Zone Name 
+>>>>agvBasic.agvEdit.zoneCode 的更新记录：Main Zone Code  ---> Main Zone Code 
+>>>>agvBasic.agvEdit.operationScopeId 的更新记录：Robot Operation Scope  ---> Robot Operation Scope 
+>>>>agvBasic.agvEdit.operationScopeCode 的更新记录：Robot Operation Scope  ---> Robot Operation Scope 
+>>>>agvBasic.agvEdit.agvTypeId 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvBasic.agvEdit.zoneCollection 的更新记录：Robot Operation Zone Set  ---> Robot Operation Zone Set 
+>>>>agvBasic.agvEdit.dboxVersion 的更新记录：Dbox Version  ---> Dbox Version 
+>>>>agvBasic.agvEdit.iotVersion 的更新记录：IOT Version  ---> IOT Version 
+>>>>agvBasic.agvEdit.commandVersion 的更新记录：Current Command List Version  ---> Current Command List Version 
+>>>>agvBasic.agvEdit.productVersion 的更新记录：Current Product Line  ---> Current Product Line 
+>>>>agvBasic.agvEdit.bucketCode 的更新记录：Robot Integrated Rack Code  ---> Robot Integrated Rack Code 
+>>>>agvBasic.agvEdit.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvBasic.agvEdit.agvAppearanceId 的更新记录：Robot Part  ---> Robot Part 
+>>>>agvBasic.agvEdit.agvAppearanceName 的更新记录：Robot Part Name  ---> Robot Part Name 
+>>>>agvBasic.agvEdit.agvFrameCode 的更新记录：Frame Number  ---> Frame Number 
+>>>>agvBasic.agvEdit.agvFrameCode.rules.max.message 的更新记录：Maximum length cannot exceed 40 digits  ---> Maximum length cannot exceed 40 digits 
+>>>>agvBasic.agvEdit.agvAppearanceCode 的更新记录：Robot Part Code  ---> Robot Part Code 
+>>>>agvBasic.agvEdit.ip 的更新记录：IP Address  ---> IP Address 
+>>>>agvBasic.agvEdit.ip.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvEdit.driveUnitVersion 的更新记录：Current Upper Machine Version  ---> Current Upper Machine Version 
+>>>>agvBasic.agvEdit.driveUnitVersion.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvEdit.dspVersion 的更新记录：Current DSP Machine Version  ---> Current DSP Machine Version 
+>>>>agvBasic.agvEdit.dspVersion.rules.max.massage 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvEdit.cameraVersion 的更新记录：Current Camera Version  ---> Current Camera Version 
+>>>>agvBasic.agvEdit.cameraVersion.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvEdit.batteryVersion 的更新记录：Current Battery Version  ---> Current Battery Version 
+>>>>agvBasic.agvEdit.batteryVersion.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvEdit.radarVersion 的更新记录：Current Radar Version  ---> Current Radar Version 
+>>>>agvBasic.agvEdit.radarVersion.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvEdit.os 的更新记录：Operating System  ---> Operating System 
+>>>>agvBasic.agvEdit.mac 的更新记录：MAC Address  ---> MAC Address 
+>>>>agvBasic.agvEdit.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.agvEdit.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.agvEdit.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.agvEdit.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.agvEdit.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.agvEdit.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.agvEdit.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.agvEdit.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.agvEdit.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.agvEdit.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.agvEdit.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.agvEdit.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.agvEdit.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.agvEdit.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.agvEdit.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.agvEdit.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.agvEdit.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.agvEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.secondaryComponents.title 的更新记录：Secondary Components Type Management  ---> Secondary Components Type Management 
+>>>>agvBasic.secondaryComponents.rollerNo 的更新记录：Roller Code  ---> Roller Code 
+>>>>agvBasic.secondaryComponents.rollerLayer 的更新记录：Roller Layer  ---> Roller Layer 
+>>>>agvBasic.secondaryComponents.rollerTeam 的更新记录：Roller Group  ---> Roller Group 
+>>>>agvBasic.secondaryComponents.installAngle 的更新记录：Install Angle  ---> Install Angle 
+>>>>agvBasic.secondaryComponents.workDirection 的更新记录：Work Direction  ---> Work Direction 
+>>>>agvBasic.secondaryComponents.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.secondaryComponents.deltaX 的更新记录：Delta X  ---> Delta X 
+>>>>agvBasic.secondaryComponents.deltaY 的更新记录：Delta Y  ---> Delta Y 
+>>>>agvBasic.secondaryComponents.maxHeight 的更新记录：Max Height  ---> Max Height 
+>>>>agvBasic.secondaryComponents.minHeight 的更新记录：Min Height  ---> Min Height 
+>>>>agvBasic.secondaryComponents.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.secondaryComponents.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.secondaryComponents.lastUpdatedUser 的更新记录：Last Updated User  ---> Last Updated User 
+>>>>agvBasic.secondaryComponents.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.secondaryComponents.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.secondaryComponents.op.view 的更新记录：View  ---> View 
+>>>>agvBasic.secondaryComponents.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.secondaryComponents.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.secondaryComponents.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.secondaryComponents.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.secondaryComponents.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.secondaryComponents.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.secondaryComponents.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.secondaryComponents.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.secondaryComponents.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.secondaryComponentsAdd.title 的更新记录：Add Secondary Components  ---> Add Secondary Components 
+>>>>agvBasic.secondaryComponentsAdd.rollerNo 的更新记录：Roller Code  ---> Roller Code 
+>>>>agvBasic.secondaryComponentsAdd.rollerLayer 的更新记录：Roller Layer  ---> Roller Layer 
+>>>>agvBasic.secondaryComponentsAdd.rollerTeam 的更新记录：Roller Group  ---> Roller Group 
+>>>>agvBasic.secondaryComponentsAdd.installAngle 的更新记录：Install Angle  ---> Install Angle 
+>>>>agvBasic.secondaryComponentsAdd.workDirection 的更新记录：Work Direction  ---> Work Direction 
+>>>>agvBasic.secondaryComponentsAdd.state 的更新记录：State  ---> State 
+>>>>agvBasic.secondaryComponentsAdd.deltaX 的更新记录：Delta X  ---> Delta X 
+>>>>agvBasic.secondaryComponentsAdd.deltaY 的更新记录：Delta Y  ---> Delta Y 
+>>>>agvBasic.secondaryComponentsAdd.maxHeight 的更新记录：Max Height  ---> Max Height 
+>>>>agvBasic.secondaryComponentsAdd.minHeight 的更新记录：Min Height  ---> Min Height 
+>>>>agvBasic.secondaryComponentsAdd.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.secondaryComponentsAdd.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.secondaryComponentsAdd.lastUpdatedUser 的更新记录：Last Updated User  ---> Last Updated User 
+>>>>agvBasic.secondaryComponentsAdd.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.secondaryComponentsAdd.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.secondaryComponentsAdd.op.view 的更新记录：View  ---> View 
+>>>>agvBasic.secondaryComponentsAdd.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.secondaryComponentsAdd.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.secondaryComponentsAdd.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.secondaryComponentsAdd.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.secondaryComponentsAdd.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.secondaryComponentsAdd.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.secondaryComponentsAdd.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.secondaryComponentsAdd.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.secondaryComponentsAdd.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.secondaryComponentsView.title 的更新记录：View Secondary Components  ---> View Secondary Components 
+>>>>agvBasic.secondaryComponentsView.rollerNo 的更新记录：Roller Code  ---> Roller Code 
+>>>>agvBasic.secondaryComponentsView.rollerLayer 的更新记录：Roller Layer  ---> Roller Layer 
+>>>>agvBasic.secondaryComponentsView.rollerTeam 的更新记录：Roller Group  ---> Roller Group 
+>>>>agvBasic.secondaryComponentsView.installAngle 的更新记录：Install Angle  ---> Install Angle 
+>>>>agvBasic.secondaryComponentsView.workDirection 的更新记录：Work Direction  ---> Work Direction 
+>>>>agvBasic.secondaryComponentsView.state 的更新记录：State  ---> State 
+>>>>agvBasic.secondaryComponentsView.deltaX 的更新记录：Delta X  ---> Delta X 
+>>>>agvBasic.secondaryComponentsView.deltaY 的更新记录：Delta Y  ---> Delta Y 
+>>>>agvBasic.secondaryComponentsView.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.secondaryComponentsView.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.secondaryComponentsView.lastUpdatedUser 的更新记录：Last Updated User  ---> Last Updated User 
+>>>>agvBasic.secondaryComponentsView.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.secondaryComponentsView.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.secondaryComponentsView.op.view 的更新记录：View  ---> View 
+>>>>agvBasic.secondaryComponentsView.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.secondaryComponentsView.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.secondaryComponentsView.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.secondaryComponentsView.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.secondaryComponentsView.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.secondaryComponentsView.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.secondaryComponentsView.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.secondaryComponentsView.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.secondaryComponentsView.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.secondaryComponentsView.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.secondaryComponentsEdit.title 的更新记录：Edit Secondary Components  ---> Edit Secondary Components 
+>>>>agvBasic.secondaryComponentsEdit.rollerNo 的更新记录：Roller Code  ---> Roller Code 
+>>>>agvBasic.secondaryComponentsEdit.rollerLayer 的更新记录：Roller Layer  ---> Roller Layer 
+>>>>agvBasic.secondaryComponentsEdit.rollerTeam 的更新记录：Roller Group  ---> Roller Group 
+>>>>agvBasic.secondaryComponentsEdit.installAngle 的更新记录：Install Angle  ---> Install Angle 
+>>>>agvBasic.secondaryComponentsEdit.workDirection 的更新记录：Work Direction  ---> Work Direction 
+>>>>agvBasic.secondaryComponentsEdit.state 的更新记录：State  ---> State 
+>>>>agvBasic.secondaryComponentsEdit.deltaX 的更新记录：Delta X  ---> Delta X 
+>>>>agvBasic.secondaryComponentsEdit.deltaY 的更新记录：Delta Y  ---> Delta Y 
+>>>>agvBasic.secondaryComponentsEdit.maxHeight 的更新记录：Max Height  ---> Max Height 
+>>>>agvBasic.secondaryComponentsEdit.minHeight 的更新记录：Min Height  ---> Min Height 
+>>>>agvBasic.secondaryComponentsEdit.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.secondaryComponentsEdit.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.secondaryComponentsEdit.lastUpdatedUser 的更新记录：Last Updated User  ---> Last Updated User 
+>>>>agvBasic.secondaryComponentsEdit.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.secondaryComponentsEdit.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.secondaryComponentsEdit.op.view 的更新记录：View  ---> View 
+>>>>agvBasic.secondaryComponentsEdit.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.secondaryComponentsEdit.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.secondaryComponentsEdit.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.secondaryComponentsEdit.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.secondaryComponentsEdit.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.secondaryComponentsEdit.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.secondaryComponentsEdit.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.secondaryComponentsEdit.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.secondaryComponentsEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.agvAdd.title 的更新记录：New  ---> New 
+>>>>agvBasic.agvAdd.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>agvBasic.agvAdd.zoneId 的更新记录：Main Zone  ---> Main Zone 
+>>>>agvBasic.agvAdd.zoneName 的更新记录：Main Zone Name  ---> Main Zone Name 
+>>>>agvBasic.agvAdd.zoneCode 的更新记录：Main Zone Code  ---> Main Zone Code 
+>>>>agvBasic.agvAdd.operationScopeId 的更新记录：Robot Operation Scope  ---> Robot Operation Scope 
+>>>>agvBasic.agvAdd.operationScopeCode 的更新记录：Robot Operation Scope  ---> Robot Operation Scope 
+>>>>agvBasic.agvAdd.agvTypeId 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvBasic.agvAdd.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvBasic.agvAdd.agvAppearanceId 的更新记录：Robot Part  ---> Robot Part 
+>>>>agvBasic.agvAdd.agvAppearanceName 的更新记录：Robot Part Name  ---> Robot Part Name 
+>>>>agvBasic.agvAdd.agvFrameCode 的更新记录：Frame Number  ---> Frame Number 
+>>>>agvBasic.agvAdd.agvFrameCode.rules.max.message 的更新记录：Maximum length cannot exceed 40 digits  ---> Maximum length cannot exceed 40 digits 
+>>>>agvBasic.agvAdd.agvAppearanceCode 的更新记录：Robot Part Code  ---> Robot Part Code 
+>>>>agvBasic.agvAdd.ip 的更新记录：IP Address  ---> IP Address 
+>>>>agvBasic.agvAdd.ip.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvAdd.driveUnitVersion 的更新记录：Current Upper Machine Version  ---> Current Upper Machine Version 
+>>>>agvBasic.agvAdd.driveUnitVersion.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvAdd.dspVersion 的更新记录：Current DSP Machine Version  ---> Current DSP Machine Version 
+>>>>agvBasic.agvAdd.dspVersion.rules.max.massage 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvAdd.cameraVersion 的更新记录：Current Camera Version  ---> Current Camera Version 
+>>>>agvBasic.agvAdd.cameraVersion.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvAdd.batteryVersion 的更新记录：Current Battery Version  ---> Current Battery Version 
+>>>>agvBasic.agvAdd.batteryVersion.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvAdd.radarVersion 的更新记录：Current Radar Version  ---> Current Radar Version 
+>>>>agvBasic.agvAdd.radarVersion.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>agvBasic.agvAdd.os 的更新记录：Operating System  ---> Operating System 
+>>>>agvBasic.agvAdd.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.agvAdd.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.agvAdd.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.agvAdd.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.agvAdd.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.agvAdd.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.agvAdd.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.agvAdd.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.agvAdd.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.agvAdd.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.agvAdd.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.agvAdd.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.agvAdd.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.agvAdd.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.agvAdd.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.agvAdd.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.agvAdd.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.agvAdd.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.operationScope.title 的更新记录：Robot Operation Scope Management  ---> Robot Operation Scope Management 
+>>>>agvBasic.operationScope.operationScopeCode 的更新记录：Robot Operation Scope Name  ---> Robot Operation Scope Name 
+>>>>agvBasic.operationScope.zoneCollection 的更新记录：Zone Collection  ---> Zone Collection 
+>>>>agvBasic.operationScope.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.operationScope.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.operationScope.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.operationScope.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.operationScope.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.operationScope.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.operationScope.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.operationScope.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.operationScope.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.operationScope.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.operationScope.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.operationScope.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.operationScope.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.operationScope.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.operationScope.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.operationScope.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.editOperationScope.title 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.editOperationScope.operationScopeCode 的更新记录：Robot Operation Scope Name  ---> Robot Operation Scope Name 
+>>>>agvBasic.editOperationScope.zoneCollection 的更新记录：Zone Collection  ---> Zone Collection 
+>>>>agvBasic.editOperationScope.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.editOperationScope.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.editOperationScope.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.editOperationScope.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.editOperationScope.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.editOperationScope.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.editOperationScope.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.editOperationScope.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.editOperationScope.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.editOperationScope.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.editOperationScope.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.editOperationScope.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.editOperationScope.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.editOperationScope.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.editOperationScope.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.editOperationScope.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.editOperationScope.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.editOperationScope.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.addOperationScope.title 的更新记录：New  ---> New 
+>>>>agvBasic.addOperationScope.operationScopeCode 的更新记录：Robot Operation Scope Name  ---> Robot Operation Scope Name 
+>>>>agvBasic.addOperationScope.zoneCollection 的更新记录：Zone Collection  ---> Zone Collection 
+>>>>agvBasic.addOperationScope.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.addOperationScope.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.addOperationScope.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.addOperationScope.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.addOperationScope.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.addOperationScope.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.addOperationScope.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.addOperationScope.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.addOperationScope.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.addOperationScope.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.addOperationScope.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.addOperationScope.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.addOperationScope.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.addOperationScope.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.addOperationScope.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.addOperationScope.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.addOperationScope.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.addOperationScope.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.transportEntity.checkoutBarCodeFlag 的更新记录：Check Rack Code Flag  ---> Check Rack Code Flag 
+>>>>agvBasic.transportEntity.title 的更新记录：Robot Moving Target Management  ---> Robot Moving Target Management 
+>>>>agvBasic.transportEntity.zoneId 的更新记录：Zone  ---> Zone 
+>>>>agvBasic.transportEntity.zoneName 的更新记录：Zone Name  ---> Zone Name 
+>>>>agvBasic.transportEntity.zoneCode 的更新记录：Zone Code  ---> Zone Code 
+>>>>agvBasic.transportEntity.agvTypeId 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvBasic.transportEntity.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvBasic.transportEntity.transportEntity 的更新记录：Robot Moving Target  ---> Robot Moving Target 
+>>>>agvBasic.transportEntity.transportEntityCode 的更新记录：Moving Target Type Code  ---> Moving Target Type Code 
+>>>>agvBasic.transportEntity.supportTransferJobToRbt 的更新记录：Transfer Job To Robot  ---> Transfer Job To Robot 
+>>>>agvBasic.transportEntity.notSupport 的更新记录：Not Support  ---> Not Support 
+>>>>agvBasic.transportEntity.support 的更新记录：Support  ---> Support 
+>>>>agvBasic.transportEntity.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.transportEntity.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.transportEntity.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.transportEntity.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.transportEntity.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.transportEntity.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.transportEntity.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.transportEntity.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.transportEntity.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.transportEntity.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.transportEntity.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.transportEntity.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.transportEntity.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.transportEntity.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.transportEntity.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.transportEntity.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.transportEntityAdd.title 的更新记录：New  ---> New 
+>>>>agvBasic.transportEntityAdd.zoneId 的更新记录：Zone  ---> Zone 
+>>>>agvBasic.transportEntityAdd.extra 的更新记录：Step 1: Please select the zone first  ---> Step 1: Please select the zone first 
+>>>>agvBasic.transportEntityAdd.agvTypeId 的更新记录：Operatable Robot Type  ---> Operatable Robot Type 
+>>>>agvBasic.transportEntityAdd.transportEntity 的更新记录：Robot Moving Target  ---> Robot Moving Target 
+>>>>agvBasic.transportEntityAdd.transportEntityTypeId 的更新记录：Moving Target Type   ---> Moving Target Type  
+>>>>agvBasic.transportEntityAdd.supportTransferJobToRbt 的更新记录：Transfer Job To Robot  ---> Transfer Job To Robot 
+>>>>agvBasic.transportEntityAdd.notSupport 的更新记录：Not Support  ---> Not Support 
+>>>>agvBasic.transportEntityAdd.support 的更新记录：Support  ---> Support 
+>>>>agvBasic.transportEntityAdd.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.transportEntityAdd.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.transportEntityAdd.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.transportEntityAdd.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.transportEntityAdd.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.transportEntityAdd.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.transportEntityAdd.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.transportEntityAdd.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.transportEntityAdd.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.transportEntityAdd.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.transportEntityAdd.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.transportEntityAdd.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.transportEntityAdd.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.transportEntityAdd.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.transportEntityAdd.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.transportEntityAdd.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.transportEntityAdd.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.transportEntityAdd.submit 的更新记录：Submit  ---> Submit 
+>>>>agvBasic.transportEntityAdd.rack 的更新记录：Rack  ---> Rack 
+>>>>agvBasic.transportEntityAdd.workbin 的更新记录：Workbin  ---> Workbin 
+>>>>agvBasic.transportEntityEdit.title 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.transportEntityEdit.zoneId 的更新记录：Zone  ---> Zone 
+>>>>agvBasic.transportEntityEdit.extra 的更新记录：Step 1: Please select the zone first  ---> Step 1: Please select the zone first 
+>>>>agvBasic.transportEntityEdit.agvTypeId 的更新记录：Operatable Robot Type  ---> Operatable Robot Type 
+>>>>agvBasic.transportEntityEdit.transportEntity 的更新记录：Robot Moving Target  ---> Robot Moving Target 
+>>>>agvBasic.transportEntityEdit.transportEntityTypeId 的更新记录：Moving Target Type   ---> Moving Target Type  
+>>>>agvBasic.transportEntityEdit.supportTransferJobToRbt 的更新记录：Transfer Job To Robot  ---> Transfer Job To Robot 
+>>>>agvBasic.transportEntityEdit.notSupport 的更新记录：Not Support  ---> Not Support 
+>>>>agvBasic.transportEntityEdit.support 的更新记录：Support  ---> Support 
+>>>>agvBasic.transportEntityEdit.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvBasic.transportEntityEdit.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvBasic.transportEntityEdit.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvBasic.transportEntityEdit.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvBasic.transportEntityEdit.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>agvBasic.transportEntityEdit.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvBasic.transportEntityEdit.op 的更新记录：Operate  ---> Operate 
+>>>>agvBasic.transportEntityEdit.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvBasic.transportEntityEdit.btn.new 的更新记录：New  ---> New 
+>>>>agvBasic.transportEntityEdit.btn.import 的更新记录：Import  ---> Import 
+>>>>agvBasic.transportEntityEdit.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvBasic.transportEntityEdit.btn.export 的更新记录：Export  ---> Export 
+>>>>agvBasic.transportEntityEdit.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvBasic.transportEntityEdit.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvBasic.transportEntityEdit.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvBasic.transportEntityEdit.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvBasic.transportEntityEdit.back 的更新记录：Return  ---> Return 
+>>>>agvBasic.transportEntityEdit.submit 的更新记录：Submit  ---> Submit 

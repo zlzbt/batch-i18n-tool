@@ -1,0 +1,19 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-evo-framework\config\locale\en-US.js: 
+>>>>app.service.file.delete.error 的更新记录：{file} fail to delete  ---> {file} fail to delete 
+>>>>app.controller.tetris.action.error 的更新记录：Executive services view service/{modulePath}/{pagePath}/{blockPath} - Action {action} error！  ---> Executive services view service/{modulePath}/{pagePath}/{blockPath} - Action {action} error！ 
+>>>>app.controller.tetris.router.error 的更新记录：Cannot match to {ctxpath}/{path}  ---> Cannot match to {ctxpath}/{path} 
+>>>>app.controller.tetris.curl.error 的更新记录：Cannot forward request to {url}  ---> Cannot forward request to {url} 
+>>>>app.controller.user.notfound.error 的更新记录：The middle ground cannot find the implementation of user service, please confirm that the configuration is correct!  ---> The middle ground cannot find the implementation of user service, please confirm that the configuration is correct! 
+>>>>app.controller.warehouse.notfound.error 的更新记录：Evobff can't get the correct Warehouse service, please make sure the config is right!  ---> Evobff can't get the correct Warehouse service, please make sure the config is right! 
+>>>>app.controller.warehouse.toggler.succeed 的更新记录：Warehouse switch succeeded  ---> Warehouse switch succeeded 
+>>>>app.controller.warehouse.toggler.failed 的更新记录：Warehouse switch failed  ---> Warehouse switch failed 
+>>>>app.extend.context.curl.error 的更新记录：Request [{url}] Failed! Information: {err}  ---> Request [{url}] Failed! Information: {err} 
+>>>>app.extend.context.curl.error.name 的更新记录：[object Object]  ---> [object Object] 
+>>>>app.middleware.auth.error 的更新记录：Failed To Get Token Or User!  ---> Failed To Get Token Or User! 
+>>>>app.service.auth.getuser.error 的更新记录：Failed To Get User  ---> Failed To Get User 
+>>>>app.service.auth.current.error 的更新记录：Please Log In First  ---> Please Log In First 
+>>>>app.message.scs 的更新记录：Operate Successfully!  ---> Operate Successfully! 
+>>>>app.message.fail 的更新记录：Operation Failed!  ---> Operation Failed! 
+>>>>app.message.error.unknown 的更新记录：Unknown Reason  ---> Unknown Reason 
+>>>>app.export.excel.sheet.name 的更新记录：Export Info  ---> Export Info 
+>>>>app.export.res.type.error 的更新记录：Server response check content type error!  ---> Server response check content type error! 

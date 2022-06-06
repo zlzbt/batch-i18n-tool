@@ -1,0 +1,32 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-attribute-shift-plugin\config\locale\en-US.js: 
+>>>>attributeShift.menu 的更新记录：Attribute Shift Management  ---> Attribute Shift Management 
+>>>>attributeShiftView.menu 的更新记录：Attribute Shift Management View  ---> Attribute Shift Management View 
+>>>>attributeShift.common.operateSuccessfully 的更新记录：Operation succeeded  ---> Operate Successfully 
+>>>>attributeShift.common.UnknownReason 的更新记录：Unknown reason  ---> Unknown Reason 
+>>>>attributeShift.attributeShift.title 的更新记录：Attribute Shift Management  ---> Attribute Shift Management 
+>>>>attributeShift.attributeShift.shiftSingleState 的更新记录：Shift single state  ---> Shift Single State 
+>>>>attributeShift.attributeShift.createTime 的更新记录：Create time  ---> Created On 
+>>>>attributeShift.attributeShift.createUser 的更新记录：Create user  ---> User Created 
+>>>>attributeShift.attributeShift.reservoirArea 的更新记录：Reservoir area  ---> Reservoir Area 
+>>>>attributeShift.attributeShift.modifyTime 的更新记录：Modify time  ---> Modify Time 
+>>>>attributeShift.attributeShift.modifyUser 的更新记录：Modify user  ---> Modify User 
+>>>>attributeShift.attributeShift.fullFieldShift 的更新记录：Full field shift  ---> Full Field Shift 
+>>>>attributeShift.attributeShift.shiftOrderNumber 的更新记录：Shift order number  ---> Shift Order Number 
+>>>>attributeShift.attributeShift.shiftTotalCount 的更新记录：Shift total count   ---> Shift Total Count  
+>>>>attributeShift.attributeShift.shiftCount 的更新记录：Shift count  ---> Shift Count 
+>>>>attributeShift.attributeShift.unshiftCount 的更新记录：Unshift count  ---> Unshift Count 
+>>>>attributeShift.attributeShift.operation 的更新记录：Operation  ---> Operate 
+>>>>attributeShift.attributeShift.detail 的更新记录：View  ---> View 
+>>>>attributeShift.attributeShift.cancel 的更新记录：Cancel  ---> Cancel 
+>>>>attributeShift.attributeShift.zone 的更新记录：Zone  ---> Zone 
+>>>>attributeShift.attributeShift.jobTasksAndPendingJobs 的更新记录：Current job tasks count/ Pending jobs tasks count  ---> Current job tasks count/ Pending jobs tasks count 
+>>>>attributeShift.attributeShiftView.title 的更新记录：Attribute Shift Management View  ---> Attribute Shift Management View 
+>>>>attributeShift.attributeShiftView.taskStatus 的更新记录：Job State  ---> Job State 
+>>>>attributeShift.attributeShiftView.robotCode 的更新记录：Robot code  ---> Robot Code 
+>>>>attributeShift.attributeShiftView.serialNumber 的更新记录：Serial number  ---> Serial Number 
+>>>>attributeShift.attributeShiftView.taskCode 的更新记录：Task code  ---> Job Code 
+>>>>attributeShift.attributeShiftView.startPointCode 的更新记录：Start point code  ---> Start Point Code 
+>>>>attributeShift.attributeShiftView.startPointHeatAttribute 的更新记录：Start point heat attribute  ---> Start Point Heat Attribute 
+>>>>attributeShift.attributeShiftView.targetPointCode 的更新记录：Target point code  ---> Target Point Code 
+>>>>attributeShift.attributeShiftView.targetPointHeatAttribute 的更新记录：Target point heat attribute  ---> Target Point Heat Attribute 
+>>>>attributeShift.attributeShiftView.back 的更新记录：Back  ---> Return 

@@ -1,0 +1,194 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-wcs-container-transport-work-plugin\config\locale\en-US.js: 
+>>>>wcsContainerTransportWork.common.operateSuccessfully 的更新记录：Operation succeeded  ---> Operate Successfully 
+>>>>wcsContainerTransportWork.common.UnknownReason 的更新记录：Unknown reason  ---> Unknown Reason 
+>>>>wcsContainerTransportWork.common.message 的更新记录：Cancel task failed  ---> Cancel Task Failed 
+>>>>wcsContainerTransportWork.common.countMessage 的更新记录：=succ= success, =failed= Failure  ---> =succ= success, =failed= Failure 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.name 的更新记录：Move Job Management  ---> Move Job Management 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.title 的更新记录：Move Job Management  ---> Move Job Management 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.rule.no 的更新记录：Rule No  ---> Rule No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.simpleConditions.jobId 的更新记录：Job NO  ---> Job No. 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.simpleConditions.dispatchState 的更新记录：Dispatch State  ---> Dispatch State 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.simpleConditions.robotJobId 的更新记录：Upstream  NO  ---> Upstream  Job No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.simpleConditions.robotJobGroupId 的更新记录：Job Group NO  ---> Job Group No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.simpleConditions.jobGroupID 的更新记录：Order group NO  ---> Order Group No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.simpleConditions.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.simpleConditions.jobType 的更新记录：Job type  ---> Job Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.advanceConditions.bucketCode 的更新记录：Rack code  ---> Rack Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.advanceConditions.startTime 的更新记录：Start time  ---> Created On 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.advanceConditions.endTime 的更新记录：Ending time  ---> Ending time 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.advanceConditions.jobSource 的更新记录：Job resource  ---> Job Resource 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.advanceConditions.jobType 的更新记录：Job type  ---> Job Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.search.advanceConditions.jobState 的更新记录：Job status  ---> Job Status 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.btn.exportAll 的更新记录：All export  ---> Export All 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.btn.export 的更新记录：Export  ---> Export 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.btn.cancelJob 的更新记录：Cancel job  ---> Cancel 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.btn.complete 的更新记录：Complete  ---> Done 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.btn.priorityAssignment 的更新记录：Priority assignment  ---> Priority Assignment 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.btn.chooseCancelJob 的更新记录：Choose cancel Job  ---> Choose Cancel Job 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.jobId 的更新记录：Job NO  ---> Job Id 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.dispatchState 的更新记录：Jdispatch State  ---> Dispatch State 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.warehouseId 的更新记录：Warehouse NO  ---> Warehouse 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.dataSource 的更新记录：Data source  ---> Data Source 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.robotJobId 的更新记录：Up stream job NO  ---> Upstream  Job No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.bucketCode 的更新记录：Bucket code  ---> Rack Number 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.createdDate 的更新记录：Created on  ---> Created On 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.robotJobGroupId 的更新记录：Job Group NO  ---> Job Group No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.priority 的更新记录：Priority  ---> Priority 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.priorityType 的更新记录：Priority type  ---> Priority Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.deadline 的更新记录：Deadline  ---> Deadline 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.state 的更新记录：Job status  ---> Status 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.agvType 的更新记录：Robot type  ---> Robot Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.agvEndPoint 的更新记录：Robot end point  ---> Robot End Point 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.jobType 的更新记录：Job type  ---> Job Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.needOperation 的更新记录：Need operation  ---> Need Operation 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.businessType 的更新记录：Business Type  ---> Business Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.liftMoveType 的更新记录：Lift move type  ---> Moving Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.updatedDate 的更新记录：Updated date  ---> Updated Date 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.workFace 的更新记录：Rack direction  ---> Rack Face 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.jobSource 的更新记录：Job resource  ---> Job Resource 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.bucketArrValue 的更新记录：Bucket arr value  ---> Rack Arr Value 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.bucketArrRank 的更新记录：Bucket arr rank  ---> Rack Arr Rank 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.table.columns.bucketArrArea 的更新记录：Bucket arr area  ---> Rack Arr Area 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.wcsCarryOrder.enum.state.all 的更新记录：All  ---> All 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.taskViewModal.title 的更新记录：Cancel details  ---> Cancel Details 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.taskViewModal.columns.robotJobId 的更新记录：Job NO  ---> Task 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.taskViewModal.columns.success 的更新记录：Cancel status  ---> Status 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.taskViewModal.columns.errorCode 的更新记录：Reason  ---> Reason 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.op 的更新记录：Operation  ---> Operate 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.btn.view 的更新记录：View  ---> View 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.btn.view2 的更新记录：View Link log  ---> View Link Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.noNeedOperation 的更新记录：Yes  ---> Unwanted 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.needOperation 的更新记录：No  ---> Yes 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.force 的更新记录：Force  ---> Force 
+>>>>wcsContainerTransportWork.wcsContainerTransportWork.common 的更新记录：Common  ---> Common 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.name 的更新记录：view job info  ---> View Job Info 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.title 的更新记录：view job info  ---> View Job Info 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.commonFields.title 的更新记录：essential info  ---> Basic Information 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.otherAttributes.title 的更新记录：other info  ---> Other Info 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.form.title 的更新记录：main info  ---> Main Information Of Operation Order 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.jobId 的更新记录：job NO  ---> Job Id 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.dispatchState 的更新记录：dispatch State  ---> Dispatch State 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.warehouseId 的更新记录：warehouse NO  ---> Warehouse 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.createdDate 的更新记录：created on  ---> Created On 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.zoneCode 的更新记录：zone code  ---> Zone Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.dataSource 的更新记录：data source  ---> Data Source 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.priority 的更新记录：priority  ---> priority 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.priorityType 的更新记录：priority type  ---> Priority Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.deadline 的更新记录：deadline  ---> Deadline 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.state 的更新记录：job state  ---> Status 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.agvType 的更新记录：robot type  ---> Robot Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.agvCode 的更新记录：robot code  ---> Robot Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.agvEndPoint 的更新记录：robot end point  ---> Robot End Point 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.jobType 的更新记录：job type  ---> Job Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.robotJobId 的更新记录：upstream job NO  ---> Upstream  Job No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.updatedDate 的更新记录：completion time  ---> Completion Time 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.bucketCode 的更新记录：bucket code  ---> Rack No. 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.workFace 的更新记录：rack direction  ---> Rack Direction 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.sourceWaypointCode 的更新记录：start point  ---> Start Point 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.targetWaypointCode 的更新记录：end point  ---> End Point 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.checkCode 的更新记录：check bucket  ---> Check Rack 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.pushFlag 的更新记录：feeadback flag  ---> Feeadback Flag 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.transportEntityType 的更新记录：carry object  ---> Carry Object 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.putDown 的更新记录：putdown flag  ---> Putdown Flag 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.bucketSlotCode 的更新记录：bucket slot No1  ---> Rack Slot Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.bucketSlotCode1 的更新记录：bucket slot No2  ---> Rack Slot No2 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.targetBucketSlotCode 的更新记录：target bucket slot No1  ---> Target Rack Slot No1 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.targetBucketSlotCode1 的更新记录：target bucket slot No2  ---> Target Rack Slot No2 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.jobSubType 的更新记录：job sub type  ---> Job Sub Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.endArea 的更新记录：end area  ---> End Area 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.endPoint 的更新记录：end point  ---> Target Point 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.startPoint 的更新记录：start point  ---> Start Point 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.bucketTypeCode 的更新记录：bucket type code  ---> Rack Type Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.dockingMode 的更新记录：docking mode  ---> Docking Mode 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.containerCode 的更新记录：Container Code  ---> Container Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.startSlotCode 的更新记录：start slot code  ---> Start Slot Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.targetSlotCode 的更新记录：target slot code  ---> Target Slot Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.autoLoad 的更新记录：auto load  ---> Auto Load 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.autoUnload 的更新记录：auto unload  ---> Auto Unload 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.lockFlag 的更新记录：lock flag  ---> Lock Flag 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.bucketArrValue 的更新记录：bucket arr value  ---> Rack Arr Value 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.bucketArrRank 的更新记录：bucket arr rank  ---> Rack Arr Rank 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.bucketArrArea 的更新记录：bucket arr area  ---> Rack Arr Area 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.table.title 的更新记录：related jobs  ---> Associated Task 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.able.columns.jobId 的更新记录：job No  ---> Job No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.able.columns.dispatchState 的更新记录：dispatch State  ---> Dispatch State 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.stationCode 的更新记录：Workstation code  ---> Workstation Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.bucketFaceNum 的更新记录：rack direction  ---> Rack Direction 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.op 的更新记录：job scheduling log  ---> Job Scheduling Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.btn.viewLog 的更新记录：view log  ---> View Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.tableModal.title 的更新记录：job scheduling log  ---> Task Dispatching Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.tableModal.columns.jobId 的更新记录：job No  ---> Job Id 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.tableModal.columns.dispatchState 的更新记录：dispatch State  ---> Dispatch State 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.tableModal.columns.type 的更新记录：job type  ---> Job Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.tableModal.columns.jobStatus 的更新记录：Job State  ---> Job State 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.tableModal.columns.zoneCode 的更新记录：zone code  ---> Zone Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.tableModal.columns.date 的更新记录：trigger time  ---> Trigger Time 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.table.columns.needOperation 的更新记录：need Operation  ---> need Operation 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.businessType 的更新记录：Business Type  ---> Business Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.liftMoveType 的更新记录：lift move type  ---> Moving Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.letDownFlag 的更新记录：let down flag  ---> Let Down Flag 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.btn.contain 的更新记录：include rollback  ---> Contain Rollback 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.btn.noContain 的更新记录：filter rollback  ---> Filter Rollback 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.btn.back 的更新记录：Return  ---> Return 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.noNeedOperation 的更新记录：yes  ---> Unwanted 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.needOperation 的更新记录：no  ---> Yes 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.force 的更新记录：force  ---> Force 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkView.common 的更新记录：common  ---> Common 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.name 的更新记录：Job Details  ---> Job Details 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.title 的更新记录：Job Details  ---> Job Details 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.title 的更新记录：Picking job details  ---> Picking Job Details 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.key11 的更新记录：Line number  ---> Line No. 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.key12 的更新记录：Job No  ---> Job Id 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.key13 的更新记录：Workstation code  ---> Workstation No. 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.key14 的更新记录：Robot code  ---> Robot Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.key15 的更新记录：Rack code  ---> Rack Number 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.key16 的更新记录：Rack direction  ---> Rack Face 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.time1 的更新记录：Created on  ---> Created On 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.time2 的更新记录：Completion time  ---> Completion Time 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.state 的更新记录：Job state  ---> Status 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.table.columns.op 的更新记录：Job scheduling log  ---> Task Dispatching Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.btn.viewLog 的更新记录：View log  ---> View Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.tableModal.title 的更新记录：Job scheduling log  ---> Task Dispatching Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.tableModal.columns.key1 的更新记录：Job No  ---> Job Id 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.tableModal.columns.key2 的更新记录：Job type  ---> Job Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.tableModal.columns.key3 的更新记录：Job state  ---> Status 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.tableModal.columns.key4 的更新记录：Robot code  ---> Robot Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.tableModal.columns.key5 的更新记录：Triggers  ---> Trigger User 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.tableModal.columns.startDate 的更新记录：Trigger time  ---> Trigger Time 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.btn.contain 的更新记录：Include rollback  ---> Contain Rollback 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.btn.noContain 的更新记录：Filter rollback  ---> Filter Rollback 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkTaskView.btn.back 的更新记录：Return  ---> Return 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.op 的更新记录：Operation  ---> Operate 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.btn.view 的更新记录：View Production scheduling log  ---> Dispatch Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.title 的更新记录：View the handling operation single link log  ---> View The Moving Operation Single Link Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.title 的更新记录：Task list  ---> Task List 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLog.button.cancel 的更新记录：Cancel  ---> Close 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLog.title 的更新记录：Task scheduling log  ---> Task Dispatching Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.viewModal.title 的更新记录：Task scheduling log  ---> Task Dispatching Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.rowNumber 的更新记录：Line number  ---> Line No. 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.robotJobId 的更新记录：Upstream Order No  ---> Upstream Order No 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.jobId 的更新记录：Job No  ---> Job Id 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.dispatchState 的更新记录：Dispatch state  ---> Dispatch State 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.warehouseId 的更新记录：Warehouse number  ---> Warehouse Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.zoneCode 的更新记录：Library area code  ---> Library Area Code 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.dataSource 的更新记录：Data sources  ---> Data Source 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.priority 的更新记录：Priority  ---> Priority 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.bucketCode 的更新记录：Shelf Number  ---> Rack Number 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.bucketSlotCode 的更新记录：Location number  ---> Location Number 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.startPoint 的更新记录：Starting point  ---> Start Point 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.targetPoint 的更新记录：Target point  ---> Target Point 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.targetSlotCode 的更新记录：Target location  ---> Target Location 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.endArea 的更新记录：Target area  ---> Target Area 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.jobType 的更新记录：Task type  ---> Task Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.agvCode 的更新记录：Robot number  ---> Robot Number 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskListTable.state 的更新记录：Status  ---> Status 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLogTable.title 的更新记录：Task scheduling log  ---> Task Dispatching Log 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLogTable.rowNumber 的更新记录：Line number  ---> Line No. 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLogTable.jobType 的更新记录：Task type  ---> Task Type 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLogTable.agvCode 的更新记录：Robot number  ---> Robot Number 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLogTable.state 的更新记录：Status  ---> Status 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLogTable.reason 的更新记录：Reason  ---> Reason 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLogTable.createdDate 的更新记录：CreatedDate  ---> Created On 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.taskSchedulingLogTable.updatedDate 的更新记录：Update Time  ---> Update Time 
+>>>>wcsContainerTransportWork.wcsContainerTransportWorkWorkInfo.button.back 的更新记录：Return  ---> Return 

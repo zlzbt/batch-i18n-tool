@@ -1,0 +1,113 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-agv-appearance-basic-plugin\config\locale\en-US.js: 
+>>>>agvAppearanceBasic.menu 的更新记录：Robot Part Management  ---> Robot Part Management 
+>>>>agvAppearanceBasic.menu.add 的更新记录：Robot Part Management-Add  ---> Robot Part Management-Add 
+>>>>agvAppearanceBasic.menu.edit 的更新记录：Robot Part Management-Edit  ---> Robot Part Management-Edit 
+>>>>agvAppearanceBasic.menu.view 的更新记录：Robot Part Management-View  ---> Robot Part Management-View 
+>>>>menu.robot 的更新记录：Robot  ---> Robot 
+>>>>agvAppearanceBasic.common.operateSuccessfully 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>agvAppearanceBasic.common.UnknownReason 的更新记录：Unknown Reason  ---> Unknown Reason 
+>>>>agvAppearanceBasic.common.agbPart.errorMessage 的更新记录：Robot External Part Acquisition Failed  ---> Robot External Part Acquisition Failed 
+>>>>agvAppearanceBasic.agvAppearance.firstClassification 的更新记录：Primary Class   ---> Primary Class  
+>>>>agvAppearanceBasic.agvAppearance.secondClassification 的更新记录：Secondary Classification  ---> Secondary Classification 
+>>>>agvAppearanceBasic.agvAppearance.title 的更新记录：Robot Part Management  ---> Robot Part Management 
+>>>>agvAppearanceBasic.agvAppearance.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvAppearanceBasic.agvAppearance.agvAppearanceCode 的更新记录：Robot Part  ---> Robot Part 
+>>>>agvAppearanceBasic.agvAppearance.warehouseName 的更新记录：Warehouse Name  ---> Warehouse Name 
+>>>>agvAppearanceBasic.agvAppearance.warehouseCode 的更新记录：Warehouse Code  ---> Warehouse Code 
+>>>>agvAppearanceBasic.agvAppearance.state 的更新记录：Data Status  ---> Data Status 
+>>>>agvAppearanceBasic.agvAppearance.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvAppearanceBasic.agvAppearance.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvAppearanceBasic.agvAppearance.lastUpdatedUser 的更新记录：Last Updated User  ---> Last Updated User 
+>>>>agvAppearanceBasic.agvAppearance.lastUpdatedTime 的更新记录：Modified On  ---> Modified On 
+>>>>agvAppearanceBasic.agvAppearance.op 的更新记录：Operate  ---> Operate 
+>>>>agvAppearanceBasic.agvAppearance.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvAppearanceBasic.agvAppearance.btn.new 的更新记录：Add  ---> Add 
+>>>>agvAppearanceBasic.agvAppearance.btn.view 的更新记录：View  ---> View 
+>>>>agvAppearanceBasic.agvAppearance.btn.import 的更新记录：Import  ---> Import 
+>>>>agvAppearanceBasic.agvAppearance.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvAppearanceBasic.agvAppearance.btn.export 的更新记录：Export  ---> Export 
+>>>>agvAppearanceBasic.agvAppearance.btn.effective 的更新记录：Effective  ---> Effective 
+>>>>agvAppearanceBasic.agvAppearance.btn.invalid 的更新记录：Invalid  ---> Invalid 
+>>>>agvAppearanceBasic.agvAppearance.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvAppearanceBasic.agvAppearance.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvAppearanceBasic.agvAppearance.agvPartCode 的更新记录：Robot Part Code  ---> Robot Part Code 
+>>>>agvAppearanceBasic.agvAppearance.agvPartName 的更新记录：Robot Part Name  ---> Robot Part Name 
+>>>>agvAppearanceBasic.agvAppearance.agvTypeId 的更新记录：Robot Model Id  ---> Robot Model Id 
+>>>>agvAppearanceBasic.agvAppearance.agvPartLayer 的更新记录：Component Layer  ---> Component Layer 
+>>>>agvAppearanceBasic.agvAppearance.length 的更新记录：Length  ---> Length 
+>>>>agvAppearanceBasic.agvAppearance.width 的更新记录：Width  ---> Width 
+>>>>agvAppearanceBasic.agvAppearance.height 的更新记录：Height  ---> Height 
+>>>>agvAppearanceBasic.agvAppearance.rotationRadius 的更新记录：Radius Of Rotation  ---> Radius Of Rotation 
+>>>>agvAppearanceBasic.agvAppearance.offsetOffCenterX 的更新记录：X-Axis Offset  ---> X-Axis Offset 
+>>>>agvAppearanceBasic.agvAppearance.offsetOffCenterY 的更新记录：Y-Axis Offset  ---> Y-Axis Offset 
+>>>>agvAppearanceBasic.agvAppearance.safeLength 的更新记录：Safety Distance in Length  ---> Safety Distance in Length 
+>>>>agvAppearanceBasic.agvAppearance.safeWidth 的更新记录：Safety Distance Width  ---> Safety Distance Width 
+>>>>agvAppearanceBasic.agvAppearance.safeHeight 的更新记录：High Safety Distance  ---> High Safety Distance 
+>>>>agvAppearanceBasic.agvAppearance.rollerParts 的更新记录：secondary Parts Info  ---> secondary Parts Info 
+>>>>agvAppearanceBasic.agvAppearanceView.title 的更新记录：Robot Part Management-View  ---> Robot Part Management-View 
+>>>>agvAppearanceBasic.agvAppearanceView.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvAppearanceBasic.agvAppearanceView.agvAppearanceCode 的更新记录：Robot Part  ---> Robot Part 
+>>>>agvAppearanceBasic.agvAppearanceView.agvAppearanceDetail 的更新记录：Robot External Parts  ---> Robot External Parts 
+>>>>agvAppearanceBasic.agvAppearanceView.agvPartCode 的更新记录：Robot Part Code  ---> Robot Part Code 
+>>>>agvAppearanceBasic.agvAppearanceView.agvContainerSpec 的更新记录：Robot Load Differentiation  ---> Robot Load Differentiation 
+>>>>agvAppearanceBasic.agvAppearanceView.partOrder 的更新记录：Part Sequence  ---> Part Sequence 
+>>>>agvAppearanceBasic.agvAppearanceView.agvPartName 的更新记录：Robot Part Name  ---> Robot Part Name 
+>>>>agvAppearanceBasic.agvAppearanceView.length 的更新记录：Length  ---> Length 
+>>>>agvAppearanceBasic.agvAppearanceView.width 的更新记录：Width  ---> Width 
+>>>>agvAppearanceBasic.agvAppearanceView.selfHeight 的更新记录：Body Height  ---> Body Height 
+>>>>agvAppearanceBasic.agvAppearanceView.safeWidth 的更新记录：Safety Distance Width  ---> Safety Distance Width 
+>>>>agvAppearanceBasic.agvAppearanceView.safeHeight 的更新记录：High Safety Distance  ---> High Safety Distance 
+>>>>agvAppearanceBasic.agvAppearanceView.height 的更新记录：Height  ---> Height 
+>>>>agvAppearanceBasic.agvAppearanceView.rotationDiameter 的更新记录：Rotation Diameter  ---> Rotation Diameter 
+>>>>agvAppearanceBasic.agvAppearanceView.state 的更新记录：Data Status  ---> Data Status 
+>>>>agvAppearanceBasic.agvAppearanceView.back 的更新记录：Return  ---> Return 
+>>>>agvAppearanceBasic.agvAppearanceView.edit 的更新记录：Edit  ---> Edit 
+>>>>agvAppearanceBasic.agvAppearanceView.agvTypeId 的更新记录：Robot Model Id  ---> Robot Model Id 
+>>>>agvAppearanceBasic.agvAppearanceView.agvPartLayer 的更新记录：Component Layer  ---> Component Layer 
+>>>>agvAppearanceBasic.agvAppearanceView.rotationRadius 的更新记录：Radius Of Rotation  ---> Radius Of Rotation 
+>>>>agvAppearanceBasic.agvAppearanceView.offsetOffCenterX 的更新记录：X-Axis Offset  ---> X-Axis Offset 
+>>>>agvAppearanceBasic.agvAppearanceView.offsetOffCenterY 的更新记录：Y-Axis Offset  ---> Y-Axis Offset 
+>>>>agvAppearanceBasic.agvAppearanceView.safeLength 的更新记录：Safety Distance in Length  ---> Safety Distance in Length 
+>>>>agvAppearanceBasic.agvAppearanceEdit.title 的更新记录：Robot Part Management-Edit  ---> Robot Part Management-Edit 
+>>>>agvAppearanceBasic.agvAppearanceEdit.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvAppearanceBasic.agvAppearanceEdit.agvAppearanceCode 的更新记录：Robot Part  ---> Robot Part 
+>>>>agvAppearanceBasic.agvAppearanceEdit.agvAppearanceDetail 的更新记录：Robot External Parts  ---> Robot External Parts 
+>>>>agvAppearanceBasic.agvAppearanceEdit.agvPartCode 的更新记录：Robot Part Code  ---> Robot Part Code 
+>>>>agvAppearanceBasic.agvAppearanceEdit.agvContainerSpec 的更新记录：Robot Load Differentiation  ---> Robot Load Differentiation 
+>>>>agvAppearanceBasic.agvAppearanceEdit.partOrder 的更新记录：Part Sequence  ---> Part Sequence 
+>>>>agvAppearanceBasic.agvAppearanceEdit.agvPartName 的更新记录：Robot Part Name  ---> Robot Part Name 
+>>>>agvAppearanceBasic.agvAppearanceEdit.length 的更新记录：Length  ---> Length 
+>>>>agvAppearanceBasic.agvAppearanceEdit.width 的更新记录：Width  ---> Width 
+>>>>agvAppearanceBasic.agvAppearanceEdit.selfHeight 的更新记录：Body Height  ---> Body Height 
+>>>>agvAppearanceBasic.agvAppearanceEdit.safeWidth 的更新记录：Safety Distance Width  ---> Safety Distance Width 
+>>>>agvAppearanceBasic.agvAppearanceEdit.safeHeight 的更新记录：High Safety Distance  ---> High Safety Distance 
+>>>>agvAppearanceBasic.agvAppearanceEdit.height 的更新记录：Height  ---> Height 
+>>>>agvAppearanceBasic.agvAppearanceEdit.rotationDiameter 的更新记录：Rotation Diameter  ---> Rotation Diameter 
+>>>>agvAppearanceBasic.agvAppearanceEdit.state 的更新记录：Data Status  ---> Data Status 
+>>>>agvAppearanceBasic.agvAppearanceEdit.back 的更新记录：Return  ---> Return 
+>>>>agvAppearanceBasic.agvAppearanceEdit.edit 的更新记录：Edit  ---> Edit 
+>>>>agvAppearanceBasic.agvAppearanceEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>agvAppearanceBasic.agvAppearanceEdit.agvTypeId 的更新记录：Robot Model Id  ---> Robot Model Id 
+>>>>agvAppearanceBasic.agvAppearanceEdit.agvPartLayer 的更新记录：Component Layer  ---> Component Layer 
+>>>>agvAppearanceBasic.agvAppearanceEdit.rotationRadius 的更新记录：Radius Of Rotation  ---> Radius Of Rotation 
+>>>>agvAppearanceBasic.agvAppearanceEdit.offsetOffCenterX 的更新记录：X-Axis Offset  ---> X-Axis Offset 
+>>>>agvAppearanceBasic.agvAppearanceEdit.offsetOffCenterY 的更新记录：Y-Axis Offset  ---> Y-Axis Offset 
+>>>>agvAppearanceBasic.agvAppearanceEdit.safeLength 的更新记录：Safety Distance in Length  ---> Safety Distance in Length 
+>>>>agvAppearanceBasic.agvAppearanceAdd.title 的更新记录：Add  ---> Add 
+>>>>agvAppearanceBasic.agvAppearanceAdd.agvAppearanceCode 的更新记录：Robot Part  ---> Robot Part 
+>>>>agvAppearanceBasic.agvAppearanceAdd.agvAppearanceDetail 的更新记录：Robot External Parts  ---> Robot External Parts 
+>>>>agvAppearanceBasic.agvAppearanceAdd.agvPartCode 的更新记录：Robot Part Code  ---> Robot Part Code 
+>>>>agvAppearanceBasic.agvAppearanceAdd.agvContainerSpec 的更新记录：Robot Load Differentiation  ---> Robot Load Differentiation 
+>>>>agvAppearanceBasic.agvAppearanceAdd.partOrder 的更新记录：Part Sequence  ---> Part Sequence 
+>>>>agvAppearanceBasic.agvAppearanceAdd.agvPartName 的更新记录：Robot Part Name  ---> Robot Part Name 
+>>>>agvAppearanceBasic.agvAppearanceAdd.length 的更新记录：Length  ---> Length 
+>>>>agvAppearanceBasic.agvAppearanceAdd.width 的更新记录：Width  ---> Width 
+>>>>agvAppearanceBasic.agvAppearanceAdd.selfHeight 的更新记录：Body Height  ---> Body Height 
+>>>>agvAppearanceBasic.agvAppearanceAdd.safeWidth 的更新记录：Safety Distance Width  ---> Safety Distance Width 
+>>>>agvAppearanceBasic.agvAppearanceAdd.safeHeight 的更新记录：High Safety Distance  ---> High Safety Distance 
+>>>>agvAppearanceBasic.agvAppearanceAdd.height 的更新记录：Height From Ground  ---> Height From Ground 
+>>>>agvAppearanceBasic.agvAppearanceAdd.rotationDiameter 的更新记录：Rotation Diameter  ---> Rotation Diameter 
+>>>>agvAppearanceBasic.agvAppearanceAdd.state 的更新记录：Data Status  ---> Data Status 
+>>>>agvAppearanceBasic.agvAppearanceAdd.back 的更新记录：Return  ---> Return 
+>>>>agvAppearanceBasic.agvAppearanceAdd.edit 的更新记录：Edit  ---> Edit 
+>>>>agvAppearanceBasic.agvAppearanceAdd.submit 的更新记录：Submit  ---> Submit 

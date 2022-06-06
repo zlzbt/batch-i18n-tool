@@ -1,0 +1,5 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-agv-type-basic-plugin\config\locale\en-US.js: 
+>>>>agvTypeBasic.menu.add 的更新记录：Robot Type-Add  ---> Robot Type-Add 
+>>>>agvTypeBasic.menu.edit 的更新记录：Robot Type-Edit  ---> Robot Type-Edit 
+>>>>agvTypeBasic.agvTypeEdit.title 的更新记录：Robot Type-Edit  ---> Robot Type-Edit 
+>>>>agvTypeBasic.agvTypeAdd.title 的更新记录：Robot Type-Add  ---> Robot Type-Add 

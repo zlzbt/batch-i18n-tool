@@ -1,0 +1,237 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-agv-console-plugin\config\locale\en-US.js: 
+>>>>agvConsole.search.label 的更新记录：Robot  ---> Robot 
+>>>>agvConsole.unDeadlockMove 的更新记录：Robot Move  ---> Robot Move 
+>>>>agvConsole.unDeadlockMove.form.point 的更新记录：Move Datum Point  ---> Move Datum Point 
+>>>>agvConsole.autoShutdown 的更新记录：Robot Shutdown   ---> Robot Shutdown  
+>>>>agvConsole.autoStartup 的更新记录：Robot Start  ---> Robot Start 
+>>>>agvConsole.autoRestart 的更新记录：Robot Restart  ---> Robot Restart 
+>>>>agvConsole.traffic.error 的更新记录：Path Planing Failed  ---> Path Planing Failed 
+>>>>agvConsole.message.bucket.isNull 的更新记录：This rack does not exist, Please re-select  ---> This rack does not exist, Please re-select 
+>>>>agvConsole.forceAutoRestart.tip 的更新记录：current robot {agvCode} got unfinished jobs, please make sure jobs were all done before restart operation!  ---> current robot {agvCode} got unfinished jobs, please make sure jobs were all done before restart operation! 
+>>>>agvConsole.forceAutoRestart.btn 的更新记录：Restart Now  ---> Restart Now 
+>>>>agvConsole.taskAbnormalFinish 的更新记录：Job Interfere  ---> Job Interfere 
+>>>>agvConsole.taskAbnormalFinish.tip 的更新记录：This operation will mark the task Robot bound finished & remove the binding between Robot and carrying, please make sure you have to do this?  ---> This operation will mark the task Robot bound finished & remove the binding between Robot and carrying, please make sure you have to do this? 
+>>>>agvConsole.agvProps 的更新记录：Robot Properties  ---> Robot Properties 
+>>>>agvConsole.robotTimer.robotTask 的更新记录：[object Object]  ---> [object Object] 
+>>>>agvConsole.common.message.success 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>agvConsole.rbtCard.currentCommand 的更新记录：Current Command  ---> Current Command 
+>>>>agvConsole.rbtCard.commandSerialNumber 的更新记录：Command Serial Number  ---> Command Serial Number 
+>>>>agvConsole.rbtCard.commandContent 的更新记录：Command Content  ---> Command Content 
+>>>>agvConsole.rbtCard.commandInfo 的更新记录：Command Information  ---> Command Information 
+>>>>agvConsole.rbtCard.currentCommandComplete 的更新记录：Current Command Complete  ---> Current Command Complete 
+>>>>agvConsole.rbtCard.currentCommandInExecution 的更新记录：Current Command In Execution  ---> Current Command In Execution 
+>>>>agvConsole.rbtCard.currentCommandException 的更新记录：Current Command Exception  ---> Current Command Exception 
+>>>>agvConsole.rbtCard.onCode 的更新记录：On The Code  ---> On The Code 
+>>>>agvConsole.rbtCard.notOnCode 的更新记录：Not On The Code  ---> Not On The Code 
+>>>>agvConsole.rbtCard.located 的更新记录：Located  ---> Located 
+>>>>agvConsole.rbtCard.notLocated 的更新记录：Not Located  ---> Not Located 
+>>>>agvConsole.rbtCard.obstaclesAhead 的更新记录：Obstacles Ahead  ---> Obstacles Ahead 
+>>>>agvConsole.rbtCard.noObstaclesAhead 的更新记录：Not Obstacles Ahead  ---> Not Obstacles Ahead 
+>>>>agvConsole.rbtCard.gyroCorrectionComplete 的更新记录：IMU  Correction Complete  ---> IMU  Correction Complete 
+>>>>agvConsole.rbtCard.gyroCorrectionIncomplete 的更新记录：IMU  Correction Incomplete  ---> IMU  Correction Incomplete 
+>>>>agvConsole.rbtCard.touchLimitConfirmed 的更新记录：Touch Limit Confirmed  ---> Touch Limit Confirmed 
+>>>>agvConsole.rbtCard.touchLimitNotConfirmed 的更新记录：Touch Limit Not Confirmed  ---> Touch Limit Not Confirmed 
+>>>>agvConsole.rbtCard.carryRack 的更新记录：Carry Rack  ---> Carry Rack 
+>>>>agvConsole.rbtCard.noCarryRack 的更新记录：Unloaded Rack  ---> Unloaded Rack 
+>>>>agvConsole.rbtCard.motorEnabled 的更新记录：Motor Enabled  ---> Motor Enabled 
+>>>>agvConsole.rbtCard.motorDisable 的更新记录：Motor Disable  ---> Motor Disable 
+>>>>agvConsole.rbtCard.dormant 的更新记录：Dormant  ---> Dormant 
+>>>>agvConsole.rbtCard.notDormant 的更新记录：Not Dormant  ---> Not Dormant 
+>>>>agvConsole.rbtCard.lowerError 的更新记录：Lower Machine Error  ---> Lower Machine Error 
+>>>>agvConsole.rbtCard.upperError 的更新记录：Upper Machine Error  ---> Upper Machine Error 
+>>>>agvConsole.rbtCard.otherDivice 的更新记录：Other Divice  ---> Other Divice 
+>>>>agvConsole.rbtCard.commandComplete 的更新记录：Command Complete  ---> Command Complete 
+>>>>agvConsole.rbtCard.commandInExecution 的更新记录：Executing  ---> Executing 
+>>>>agvConsole.rbtCard.commandException 的更新记录：Command Exception  ---> Command Exception 
+>>>>agvConsole.rbtCard.otherDiviceError 的更新记录：Other Divice Exception  ---> Other Divice Exception 
+>>>>agvConsole.rbtMore.archivalInformation 的更新记录：Archival Information  ---> Archival Information 
+>>>>agvConsole.rbtMore.rbtFrameNumber 的更新记录：Frame Number  ---> Frame Number 
+>>>>agvConsole.rbtMore.zoneCode 的更新记录：Main Zone Code  ---> Main Zone Code 
+>>>>agvConsole.rbtMore.zoneCollections 的更新记录：Zone Collections  ---> Zone Collections 
+>>>>agvConsole.rbtMore.bucketCode 的更新记录：Robot Integrated Rack Code  ---> Robot Integrated Rack Code 
+>>>>agvConsole.rbtMore.productVersion 的更新记录：Product Version  ---> Product Version 
+>>>>agvConsole.rbtMore.commandVersion 的更新记录：Command Version  ---> Command Version 
+>>>>agvConsole.rbtMore.macAddress 的更新记录：Mac Address  ---> Mac Address 
+>>>>agvConsole.rbtMore.diskSpacePercent 的更新记录：Disk Space Percent  ---> Disk Space Percent 
+>>>>agvConsole.rbtMore.temperatureInformation 的更新记录：Temperature Information  ---> Temperature Information 
+>>>>agvConsole.rbtMore.gyroTemp 的更新记录：Gyro Temperature  ---> Gyro Temperature 
+>>>>agvConsole.rbtMore.batteryTemp 的更新记录：Battery Temperature  ---> Battery Temperature 
+>>>>agvConsole.rbtMore.leftMotorTemp 的更新记录：Left Motor Temp  ---> Left Motor Temp 
+>>>>agvConsole.rbtMore.rightMotorTemp 的更新记录：Right Motor Temp  ---> Right Motor Temp 
+>>>>agvConsole.rbtMore.liftMotorTemp 的更新记录：Liftelectric Temperature  ---> Liftelectric Temperature 
+>>>>agvConsole.rbtMore.servoMotorTemp 的更新记录：Servo Motor Temperature  ---> Servo Motor Temperature 
+>>>>agvConsole.rbtMore.statisticalInformation 的更新记录：Statistical Information  ---> Statistical Information 
+>>>>agvConsole.rbtMore.loadMileage 的更新记录：Load Mileage  ---> Load Mileage 
+>>>>agvConsole.rbtMore.noLoadMileage 的更新记录：No Load Mileage  ---> No Load Mileage 
+>>>>agvConsole.rbtMore.overallMileage 的更新记录：Over All Mileage  ---> Over All Mileage 
+>>>>agvConsole.rbtMore.liftUpTimes 的更新记录：Lift Up Times  ---> Lift Up Times 
+>>>>agvConsole.rbtMore.versionInformation 的更新记录：Version Information  ---> Version Information 
+>>>>agvConsole.rbtMore.os 的更新记录：Operating System  ---> Operating System 
+>>>>agvConsole.rbtMore.batteryVersion 的更新记录：Battery Version  ---> Battery Version 
+>>>>agvConsole.rbtMore.cameraVersion 的更新记录：Camera Version  ---> Camera Version 
+>>>>agvConsole.rbtMore.dspVersion 的更新记录：DSP Version  ---> DSP Version 
+>>>>agvConsole.rbtMore.radarVersion 的更新记录：Radar Version  ---> Radar Version 
+>>>>agvConsole.rbtMore.dboxVersion 的更新记录：Dbox Version  ---> Dbox Version 
+>>>>agvConsole.rbtMore.iotVersion 的更新记录：IOT Version  ---> IOT Version 
+>>>>agvConsole.rbtMore.APInformation 的更新记录：AP Information  ---> AP Information 
+>>>>agvConsole.rbtMore.apMacAddress 的更新记录：Ap Mac Address  ---> Ap Mac Address 
+>>>>agvConsole.rbtMore.apServiceId 的更新记录：Ap Service Id  ---> Ap Service Id 
+>>>>agvConsole.rbtMore.apRadioId 的更新记录：Ap Radio Id  ---> Ap Radio Id 
+>>>>agvConsole.rbtMore.signalStrength 的更新记录：Signal Strength  ---> Signal Strength 
+>>>>agvConsole.taskProp.jobModifiedTime 的更新记录：Update Time  ---> Update Time 
+>>>>agvConsole.taskProp.jobId 的更新记录：Job Id  ---> Job Id 
+>>>>agvConsole.taskProp.robotJobId 的更新记录：Robot Job Id  ---> Robot Job Id 
+>>>>agvConsole.taskProp.jobType 的更新记录：Job Type  ---> Job Type 
+>>>>agvConsole.taskProp.jobState 的更新记录：Job State  ---> Job State 
+>>>>agvConsole.taskProp.jobMark 的更新记录：Job Mark  ---> Job Mark 
+>>>>agvConsole.taskProp.rbtId 的更新记录：Agv Id  ---> Agv Id 
+>>>>agvConsole.taskProp.bucketId 的更新记录：Container Digital Code  ---> Container Digital Code 
+>>>>agvConsole.taskProp.bucketCode 的更新记录：Container Code  ---> Container Code 
+>>>>agvConsole.taskProp.operationFace 的更新记录：Rack Face  ---> Rack Face 
+>>>>agvConsole.taskProp.bucketPointCode 的更新记录：Rack Point Code  ---> Rack Point Code 
+>>>>agvConsole.taskProp.destPointCode 的更新记录：Target Point  ---> Target Point 
+>>>>agvConsole.taskProp.jobCreateTime 的更新记录：Created On  ---> Created On 
+>>>>agvConsole.taskProp.canInterrupt 的更新记录：Can Interrupt  ---> Can Interrupt 
+>>>>agvConsole.taskProp.letDown 的更新记录：Is online task  ---> Is online task 
+>>>>agvConsole.taskProp.jobContext 的更新记录：Job Message  ---> Job Message 
+>>>>agvConsole.taskProp.jobPriority 的更新记录：Job Priority  ---> Job Priority 
+>>>>agvConsole.taskProp.ownJobType 的更新记录：Own Job Type  ---> Own Job Type 
+>>>>agvConsole.taskProp.srcJobType 的更新记录：Src Job Type  ---> Src Job Type 
+>>>>agvConsole.taskProp.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>agvConsole.taskProp.zoneCode 的更新记录：Zone Code  ---> Zone Code 
+>>>>agvConsole.modal.powerChangeCompleted 的更新记录：Power Change Completed  ---> Power Change Completed 
+>>>>agvConsole.modal.powerChangeCompleted.tip 的更新记录：After the modification, the vehicle will exit the power change point, please confirm that the power change has been completed! 
+ note: if the Robot is connected with a charger, please make sure to unplug the charger before performing this operation!  ---> After the modification, the vehicle will exit the power change point, please confirm that the power change has been completed! 
+ note: if the Robot is connected with a charger, please make sure to unplug the charger before performing this operation! 
+>>>>agvConsole.errorInfo.errorCode 的更新记录：Error Code  ---> Error Code 
+>>>>agvConsole.errorInfo.errorDetail 的更新记录：Error Detail  ---> Error Detail 
+>>>>agvConsole.errorInfo.solution 的更新记录：Solution  ---> Solution 
+>>>>agvConsole.attr.ip 的更新记录：Robot Ip  ---> Robot Ip 
+>>>>agvConsole.attr.agvDetail 的更新记录：Robot Short Code  ---> Robot Short Code 
+>>>>agvConsole.attr.agvTypeCode 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvConsole.attr.agvState 的更新记录：Robot State  ---> Robot State 
+>>>>agvConsole.attr.systemState 的更新记录：System State  ---> System State 
+>>>>agvConsole.attr.jobState 的更新记录：Job State  ---> Job State 
+>>>>agvConsole.attr.topFace 的更新记录：Rack Face  ---> Rack Face 
+>>>>agvConsole.attr.containerCode 的更新记录：Container Code  ---> Container Code 
+>>>>agvConsole.attr.bucketId 的更新记录：Container Code  ---> Container Code 
+>>>>agvConsole.btn.common 的更新记录：Common Operations  ---> Common Operations 
+>>>>agvConsole.btn.restore 的更新记录：Restore  ---> Restore 
+>>>>agvConsole.btn.task 的更新记录：Job Operations  ---> Job Operations 
+>>>>agvConsole.btn.start 的更新记录：Start Operations  ---> Start Operations 
+>>>>agvConsole.btn.failureLeft 的更新记录：Err-Robot Banish  ---> Err-Robot Banish 
+>>>>agvConsole.btn.taskAbnormalFinish 的更新记录：Job Interfere  ---> Job Interfere 
+>>>>agvConsole.btn.failureLeft.content.y 的更新记录：Err-Robot  Banish(Rack Can Putdown On The Spot)  ---> Err-Robot  Banish(Rack Can Putdown On The Spot) 
+>>>>agvConsole.btn.failureLeft.content.n 的更新记录：Err-Robot  Banish(Rack Can Not Putdown On The Spot)  ---> Err-Robot  Banish(Rack Can Not Putdown On The Spot) 
+>>>>agvConsole.btn.failureLeft.warning 的更新记录：After The Failure Goes Offline, The System Will Call The Idle Robot To Continue To Carry Out The Handling Task Of The Rack.  ---> After The Failure Goes Offline, The System Will Call The Idle Robot To Continue To Carry Out The Handling Task Of The Rack. 
+>>>>agvConsole.btn.isLiftUp 的更新记录：Need Lift The Rack  ---> Need Lift The Rack 
+>>>>agvConsole.btn.isTrayFork 的更新记录：Whether To Fork The Tray  ---> Whether To Fork The Tray 
+>>>>agvConsole.btn.bucketPutDownPoint 的更新记录：Rack Placement Point  ---> Rack Placement Point 
+>>>>agvConsole.btn.trayPutDownPoint 的更新记录：Pallet Location  ---> Pallet Location 
+>>>>agvConsole.btn.hasTask 的更新记录：Is there a task  ---> Is there a task 
+>>>>agvConsole.btn.bucketCarryToEnd 的更新记录：The container has been moved to the end point.  ---> The container has been moved to the end point. 
+>>>>agvConsole.btn.agvOfflinePointCode 的更新记录：Robot Failure Offline Point  ---> Robot Failure Offline Point 
+>>>>agvConsole.btn.upperMotor 的更新记录：Robot-Ui Connect  ---> Robot-Ui Connect 
+>>>>agvConsole.btn.oneKeyGoHome 的更新记录：Robot Homing  ---> Robot Homing 
+>>>>agvConsole.btn.oneKeyOffline 的更新记录：One-key Offline  ---> One-key Offline 
+>>>>agvConsole.btn.currentTaskProcess 的更新记录：Current Task  ---> Current Task 
+>>>>agvConsole.btn.offline.task.handler.finish_job 的更新记录：Finish current task and then offline  ---> Finish current task and then offline 
+>>>>agvConsole.btn.offline.task.handler.cancel_job 的更新记录：Cancel Current Task And Then Offline  ---> Cancel Current Task And Then Offline 
+>>>>agvConsole.btn.offline.task.handler.offline_now 的更新记录：Offline Right Now  ---> Offline Right Now 
+>>>>agvConsole.btn.offline.task.handler.offlineNow.tip 的更新记录：Please Confirm Offline Right Now(If Never Go Online, Please Do Task Divert By Manual)  ---> Please Confirm Offline Right Now(If Never Go Online, Please Do Task Divert By Manual) 
+>>>>agvConsole.btn.autoHoming 的更新记录：Is specified offline point  ---> Is specified offline point 
+>>>>agvConsole.btn.autoHoming.required 的更新记录：Please Select Specified Point Or Homing Area  ---> Please Select Specified Point Or Homing Area 
+>>>>agvConsole.btn.offline.pos.setPos 的更新记录：Offline On Specified Point  ---> Offline On Specified Point 
+>>>>agvConsole.btn.offline.pos.autoHoming 的更新记录：Offline On Homing Area  ---> Offline On Homing Area 
+>>>>agvConsole.btn.offlinePoint 的更新记录：Offline Point  ---> Offline Point 
+>>>>agvConsole.btn.oneKeyOnline 的更新记录：One-key Online  ---> One-key Online 
+>>>>agvConsole.btn.systemControlMove 的更新记录：Networking Mobile  ---> Networking Mobile 
+>>>>agvConsole.btn.resetBucket 的更新记录：Return The Rack To Its Original Position  ---> Return The Rack To Its Original Position 
+>>>>agvConsole.btn.registerConfirm 的更新记录：Register Confirm  ---> Register Confirm 
+>>>>agvConsole.btn.conflictDetailSoftBucketCode 的更新记录：Binding {SoftRackCode} rack  ---> Binding {SoftRackCode} rack 
+>>>>agvConsole.btn.conflictDetailSoftBucketCodeIsNull 的更新记录：Not Binding Bukcet  ---> Not Binding Bukcet 
+>>>>agvConsole.btn.conflictDetailHardBucketCode 的更新记录：Read rack as {hardRackCode}  ---> Read rack as {hardRackCode} 
+>>>>agvConsole.btn.conflictDetailHardBucketCodeIsNull 的更新记录：Unloaded Rack  ---> Unloaded Rack 
+>>>>agvConsole.btn.conflictDetail 的更新记录：The {agvCode} Robot {conflictState}, the system records the Robot binding {soft RackCode} racks, the actual {hard RackCode} Robot, please confirm the treatment measures!  ---> The {agvCode} Robot {conflictState}, the system records the Robot binding {soft RackCode} racks, the actual {hard RackCode} Robot, please confirm the treatment measures! 
+>>>>agvConsole.btn.conflictConfirm 的更新记录：After this operation, the system will generate a task and send it back to the rack to the system record location {RackPoint}. Please ensure that there is no rack in this location.  ---> After this operation, the system will generate a task and send it back to the rack to the system record location {RackPoint}. Please ensure that there is no rack in this location. 
+>>>>agvConsole.btn.registerConflictState 的更新记录：Register Conflict  ---> Register Conflict 
+>>>>agvConsole.btn.bucketConflictState 的更新记录：SystemRack Conflict Identified  ---> SystemRack Conflict Identified 
+>>>>agvConsole.btn.conflict.form.btn.confirm 的更新记录：The reading shall prevail.  ---> The reading shall prevail. 
+>>>>agvConsole.btn.conflict.form.btn.later 的更新记录：Handle Later  ---> Handle Later 
+>>>>agvConsole.btn.taskDivert 的更新记录：Task Divert  ---> Task Divert 
+>>>>agvConsole.btn.currentAGVCode 的更新记录：Current Robot Code  ---> Current Robot Code 
+>>>>agvConsole.btn.nextAGVCode 的更新记录：Changed Robot Code  ---> Changed Robot Code 
+>>>>agvConsole.btn.bucketMove 的更新记录：Rack Shift  ---> Rack Shift 
+>>>>agvConsole.btn.select 的更新记录：Please Choose  ---> Please Choose 
+>>>>agvConsole.btn.bucketCode 的更新记录：Rack  ---> Rack 
+>>>>agvConsole.btn.targetPointCode 的更新记录：End Point Code Value  ---> End Point Code Value 
+>>>>agvConsole.btn.unDeadlockMove 的更新记录：Robot Move  ---> Robot Move 
+>>>>agvConsole.btn.unDeadlockMove.targetPointCode 的更新记录：End Point Code Value  ---> End Point Code Value 
+>>>>agvConsole.btn.clearLockPoint 的更新记录：Err-Lock Clear  ---> Err-Lock Clear 
+>>>>agvConsole.btn.clearLockPoint.content 的更新记录：Warning: Please Align The Vehicle And The Rack First To Avoid Collision Of The Vehicle!  ---> Warning: Please Align The Vehicle And The Rack First To Avoid Collision Of The Vehicle! 
+>>>>agvConsole.btn.failureTaskCancel 的更新记录：Failure Task Cancellation  ---> Failure Task Cancellation 
+>>>>agvConsole.btn.failureTaskCancel.content 的更新记录：The current fault robot execution task is being cancelled, please confirm!  ---> The current fault robot execution task is being cancelled, please confirm! 
+>>>>agvConsole.btn.linkLogList 的更新记录：Link Log  ---> Link Log 
+>>>>agvConsole.btn.rcsLogList 的更新记录：RCS Log  ---> RCS Log 
+>>>>agvConsole.btn.taskManagement 的更新记录：Task Management  ---> Task Management 
+>>>>agvConsole.btn.unbind 的更新记录：Unbind  ---> Unbind 
+>>>>agvConsole.btn.unbind.content 的更新记录：Do you want to release the robot from the rack?  ---> Do you want to release the robot from the rack? 
+>>>>agvConsole.btn.releaseLock 的更新记录：Release Lock  ---> Release Lock 
+>>>>agvConsole.btn.releaseLock.content 的更新记录：Do you try to release the lock point blocking the robot's path?  ---> Do you try to release the lock point blocking the robot's path? 
+>>>>agvConsole.btn.charge 的更新记录：Robot Charge  ---> Robot Charge 
+>>>>agvConsole.btn.rcsLog 的更新记录：Log Analyse  ---> Log Analyse 
+>>>>agvConsole.btn.cancelCharging 的更新记录：Cancel Charging  ---> Cancel Charging 
+>>>>agvConsole.btn.changePower 的更新记录：Battery Change  ---> Battery Change 
+>>>>agvConsole.btn.cancelChangePower 的更新记录：Power Change Completed  ---> Power Change Completed 
+>>>>agvConsole.btn.autoChangeAgv 的更新记录：Auto Change Or Not  ---> Auto Change Or Not 
+>>>>agvConsole.btn.automaticTransfer 的更新记录：Automatic Transfer
+--The system automatically assigns vehicles to carry the racks, and the tasks are transferred automatically. Please confirm that the vehicles at the rack parking point can reach  ---> Automatic Transfer
+--The system automatically assigns vehicles to carry the racks, and the tasks are transferred automatically. Please confirm that the vehicles at the rack parking point can reach 
+>>>>agvConsole.btn.manuallyAssignedVehicle 的更新记录：Manually assigned vehicle
+--People assign vehicles to carry the racks, and the task is transferred automatically. If the parking position of the rack is not accessible, such as one-way street, queuing area and other scenes, the vehicle can be manually moved to the parking position of the rack, and then the operation can be continued after the online operation  ---> Manually assigned vehicle
+--People assign vehicles to carry the racks, and the task is transferred automatically. If the parking position of the rack is not accessible, such as one-way street, queuing area and other scenes, the vehicle can be manually moved to the parking position of the rack, and then the operation can be continued after the online operation 
+>>>>agvConsole.btn.newAgvCode 的更新记录：Assign Robot  ---> Assign Robot 
+>>>>agvConsole.btn.autoShutdown.content 的更新记录：Robot [{Robots}] Will Shut Down. Are You Sure You Want To Shut Down?  ---> Robot [{Robots}] Will Shut Down. Are You Sure You Want To Shut Down? 
+>>>>agvConsole.btn.autoStartup.content 的更新记录：Robot [{Robots}] Will Start Up. Are You Sure You Want To Start Up?  ---> Robot [{Robots}] Will Start Up. Are You Sure You Want To Start Up? 
+>>>>agvConsole.btn.confirm.ok 的更新记录：Ok  ---> Ok 
+>>>>agvConsole.btn.confirm.cancel 的更新记录：Cancel  ---> Cancel 
+>>>>agvConsole.card.code 的更新记录：Code  ---> Code 
+>>>>agvConsole.card.type 的更新记录：Type  ---> Type 
+>>>>agvConsole.card.point 的更新记录：Coordinate  ---> Coordinate 
+>>>>agvConsole.card.state 的更新记录：Status  ---> Status 
+>>>>agvConsole.card.power 的更新记录：Power  ---> Power 
+>>>>agvConsole.card.jobType 的更新记录：Job Type  ---> Job Type 
+>>>>agvConsole.card.containerCode 的更新记录：Container Code  ---> Container Code 
+>>>>agvConsole.lockcard.agvCode 的更新记录：Belonging Robot  ---> Belonging Robot 
+>>>>agvConsole.lockcard.pointCode 的更新记录：Qr Code  ---> Qr Code 
+>>>>agvConsole.lockcard.type 的更新记录：Type  ---> Type 
+>>>>agvConsole.lockcard.point 的更新记录：Coordinate  ---> Coordinate 
+>>>>agvConsole.lockcard.msg 的更新记录：Description  ---> Description 
+>>>>agvConsole.tabs.basic 的更新记录：Basic  ---> Basic 
+>>>>agvConsole.tabs.robot 的更新记录：Upper Machine  ---> Upper Machine 
+>>>>agvConsole.tabs.task 的更新记录：Task  ---> Task 
+>>>>agvConsole.tabs.more 的更新记录：More  ---> More 
+>>>>agvConsole.stateType.ALL 的更新记录：All  ---> All 
+>>>>agvConsole.stateType.ROBOT 的更新记录：Robot  ---> Robot 
+>>>>agvConsole.stateType.SYSTEM 的更新记录：System  ---> System 
+>>>>agvConsole.stateType.UNREGISTERED 的更新记录：Offline  ---> Offline 
+>>>>agvConsole.stateType.IDLE 的更新记录：Idle  ---> Idle 
+>>>>agvConsole.stateType.BUSY 的更新记录：Work  ---> Work 
+>>>>agvConsole.stateType.ERROR 的更新记录：Error  ---> Error 
+>>>>agvConsole.stateType.CHARGING 的更新记录：Robot Charge  ---> Robot Charge 
+>>>>agvConsole.stateType.RUNNING 的更新记录：Executing  ---> Executing 
+>>>>agvConsole.stateType.WAITING 的更新记录：Waiting  ---> Waiting 
+>>>>agvConsole.stateType.REGISTERED 的更新记录：Online  ---> Online 
+>>>>agvConsole.stateType.REGISTERING 的更新记录：Online  ---> Online 
+>>>>agvConsole.stateType.LOCKED 的更新记录：Locked  ---> Locked 
+>>>>agvConsole.stateType.EXCHANGE_BATTERY 的更新记录：Exchange Battery  ---> Exchange Battery 
+>>>>agvConsole.stateType.RCS_ACCEPTED 的更新记录：Rcs Accepted  ---> Rcs Accepted 
+>>>>agvConsole.stateType.EXECUTING 的更新记录：Executing  ---> Executing 
+>>>>agvConsole.stateType.JOB_FAILED 的更新记录：Failed  ---> Failed 
+>>>>agvConsole.stateType.JOB_COMPLETED 的更新记录：Done  ---> Done 
+>>>>agvConsole.stateType.CANCEL_ACCEPTED 的更新记录：Cancel Accepted  ---> Cancel Accepted 
+>>>>agvConsole.stateType.CANCEL_COMPLETED 的更新记录：Cancel Completed  ---> Cancel Completed 
+>>>>agvConsole.stateType.Enable 的更新记录：Enable  ---> Enable 
+>>>>agvConsole.stateType.Disable 的更新记录：Disable  ---> Disable 
+>>>>agvConsole.stateType.wcs 的更新记录：[object Object]  ---> [object Object] 
+>>>>agvConsole.wcs.job 的更新记录：[object Object]  ---> [object Object] 

@@ -1,0 +1,34 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-bucket-verify-console-plugin\config\locale\en-US.js: 
+>>>>bucketVerifyConsole.menu 的更新记录：Rack Validate  ---> Rack Validate 
+>>>>bucketVerifyConsole.createBucketVerifyTask 的更新记录：Rack Validate  ---> Rack Validate 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.scanDirection 的更新记录：Specify Validation Order  ---> Specify Validation Order 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.scanMethod 的更新记录：Validation Plan  ---> Validation Plan 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.agvNumber 的更新记录：Number Of Assigned Robots  ---> Number Of Assigned Robots 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.oneAgv 的更新记录：One (in the scene of entering the first rack, it is convenient for people to follow the robot and support the rack)  ---> One (in the scene of entering the first rack, it is convenient for people to follow the robot and support the rack) 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.moreAgv 的更新记录：Multiple Robots  ---> Multiple Robots 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.scanDirectionSelect 的更新记录：Select the verification order.  ---> Select the verification order. 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.autoScanDirection 的更新记录：The system automatically turns back and robots along the long side according to the selected area  ---> The system automatically turns back and robots along the long side according to the selected area 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.scanLeftToRight 的更新记录：From left to right  ---> From left to right 
+>>>>bucketVerifyConsole.createBucketVerifyTask.form.scanUpToDown 的更新记录：From top to bottom  ---> From top to bottom 
+>>>>bucketVerifyConsole.list.taskState.options.all 的更新记录：All  ---> All 
+>>>>bucketVerifyConsole.list.title 的更新记录：Rack Movability  ---> Rack Movability 
+>>>>bucketVerifyConsole.list.taskDate 的更新记录：Job Duration  ---> Job Duration 
+>>>>bucketVerifyConsole.list.taskState 的更新记录：Job State  ---> Job State 
+>>>>bucketVerifyConsole.list.taskNo 的更新记录：Job Id  ---> Job Id 
+>>>>bucketVerifyConsole.list.createdDate 的更新记录：Issuing Time  ---> Issuing Time 
+>>>>bucketVerifyConsole.list.validNum 的更新记录：Rack Validated  Amount  ---> Rack Validated  Amount 
+>>>>bucketVerifyConsole.list.noValidNum 的更新记录：Rack Pending Amount  ---> Rack Pending Amount 
+>>>>bucketVerifyConsole.list.op 的更新记录：Operate  ---> Operate 
+>>>>bucketVerifyConsole.list.op.view 的更新记录：View  ---> View 
+>>>>bucketVerifyConsole.list.op.export 的更新记录：Export  ---> Export 
+>>>>bucketVerifyConsole.list.op.cancel 的更新记录：Cancel  ---> Cancel 
+>>>>bucketVerifyConsole.list.op.viewError 的更新记录：View Exceptions  ---> View Exceptions 
+>>>>bucketVerifyConsole.list.op.viewMore 的更新记录：View More  ---> View More 
+>>>>bucketVerifyConsole.list.op.close 的更新记录：Close  ---> Close 
+>>>>bucketVerifyConsole.list.op.mark 的更新记录：Tag Handling  ---> Tag Handling 
+>>>>bucketVerifyConsole.list.check.point 的更新记录：Coordinate  ---> Coordinate 
+>>>>bucketVerifyConsole.list.check.dbBucketNo 的更新记录：System Rack Number  ---> System Rack Number 
+>>>>bucketVerifyConsole.list.check.realBucketNo 的更新记录：Actual Rack Number  ---> Actual Rack Number 
+>>>>bucketVerifyConsole.list.check.state 的更新记录：Status  ---> Status 
+>>>>bucketVerifyConsole.list.check.result 的更新记录：Validation Result  ---> Validation Result 
+>>>>bucketVerifyConsole.list.modal.task.title 的更新记录：Job：{:taskId} Rack validation quantity：{:checkNum}/{:allNum} Number of exceptions：{:errorNum}  ---> Job：{:taskId} Rack validation quantity：{:checkNum}/{:allNum} Number of exceptions：{:errorNum} 

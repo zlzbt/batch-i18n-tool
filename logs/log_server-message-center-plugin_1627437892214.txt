@@ -1,0 +1,69 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-quicktron-web-dev\server-plugins\server-message-center-plugin\config\locale\en-US.js: 
+>>>>menu.system 的更新记录：System  ---> System Management 
+>>>>messageCenter.menu 的更新记录：Notification center  ---> Notification Center 
+>>>>messageCenter.menu.messageSet 的更新记录：Notification settings  ---> Notification Settings 
+>>>>messageCenter.menu.message 的更新记录：Notification message  ---> Notification Message 
+>>>>messageCenter.menu.messageHistory 的更新记录：Historical news  ---> Historical News 
+>>>>messageCenter.menu.enable 的更新记录：Enable  ---> Enable 
+>>>>messageCenter.menu.disable 的更新记录：Disable  ---> Disable 
+>>>>messageCenter.message.title 的更新记录：Notification message  ---> Notification Message 
+>>>>messageCenter.message.option.all 的更新记录：All  ---> All 
+>>>>messageCenter.message.unitType 的更新记录：Notification type  ---> Notification Type 
+>>>>messageCenter.message.event 的更新记录：Notification subtype  ---> Notification Subtype 
+>>>>messageCenter.message.id 的更新记录：ID  ---> ID 
+>>>>messageCenter.message.content 的更新记录：Notification content  ---> Notification Content 
+>>>>messageCenter.message.createdStartTime 的更新记录：Created on  ---> Created On 
+>>>>messageCenter.message.createdEndTime 的更新记录：Modified on  ---> Modified On 
+>>>>messageCenter.message.messageId 的更新记录：ID  ---> ID 
+>>>>messageCenter.message.unitId 的更新记录：unit ID  ---> Unit Id 
+>>>>messageCenter.message.level 的更新记录：Notification level  ---> Notification Level 
+>>>>messageCenter.message.suggestedMeasures 的更新记录：Suggested treatment measures  ---> Suggested Treatment Measures 
+>>>>messageCenter.message.timeStamp 的更新记录：time stamp  ---> Time Stamp 
+>>>>messageCenter.message.exportOperateAll 的更新记录：Export all  ---> Export All 
+>>>>messageCenter.message.exportOperate 的更新记录：Export  ---> Export 
+>>>>messageCenter.message.link 的更新记录：Suggested treatment measures  ---> Suggested Treatment Measures 
+>>>>messageCenter.message.happenAt 的更新记录：Time stamp of occurrence  ---> Time Stamp Of Occurrence 
+>>>>messageCenter.message.closeAt 的更新记录：Processing time stamp  ---> Processing Time Stamp 
+>>>>messageCenter.message.success 的更新记录：Operation succeeded  ---> Operate Successfully 
+>>>>messageCenter.message.all 的更新记录：All  ---> All 
+>>>>messageCenter.messageSet.title 的更新记录：Notification settings  ---> Notification Settings 
+>>>>messageCenter.messageSet.unitType 的更新记录：Notification type  ---> Notification Type 
+>>>>messageCenter.messageSet.event 的更新记录：Notification subtype  ---> Notification Subtype 
+>>>>messageCenter.messageSet.id 的更新记录：ID  ---> ID 
+>>>>messageCenter.messageSet.level 的更新记录：Notification level  ---> Notification Level 
+>>>>messageCenter.messageSet.isEnable 的更新记录：Whether to enable  ---> Whether to enable? 
+>>>>messageCenter.messageSet.new 的更新记录：New  ---> Add 
+>>>>messageCenter.messageSet.exportOperateAll 的更新记录：Export all  ---> Export All 
+>>>>messageCenter.messageSet.exportOperate 的更新记录：Export  ---> Export 
+>>>>messageCenter.messageSet.enable 的更新记录：Enable  ---> Enable 
+>>>>messageCenter.messageSet.disable 的更新记录：Disable  ---> Disable 
+>>>>messageCenter.messageSet.status 的更新记录：enable/disable  ---> Enable/Disable 
+>>>>messageCenter.messageSet.delete 的更新记录：Delete  ---> Delete 
+>>>>messageCenter.messageSet.way 的更新记录：Notification method  ---> Notification Method 
+>>>>messageCenter.messageSet.target 的更新记录：Notification object  ---> Notification Object 
+>>>>messageCenter.messageSet.activeTime 的更新记录：Effective time interval  ---> Effective Time Interval 
+>>>>messageCenter.messageSet.op 的更新记录：Operation  ---> Operate 
+>>>>messageCenter.messageSet.edit 的更新记录：Modify  ---> Modify 
+>>>>messageCenter.messageSet.new.title 的更新记录：Add notification settings  ---> Add Notification Settings 
+>>>>messageCenter.messageSet.startTime 的更新记录：Effective Date  ---> Effective Date 
+>>>>messageCenter.messageSet.endTime 的更新记录：Expiration Date  ---> Expiration Date 
+>>>>messageCenter.messageSet.edit.title 的更新记录：Modify notification settings  ---> Modify Notification Settings 
+>>>>messageCenter.messageSet.new.success 的更新记录：Creation succeeded  ---> Creation Succeeded 
+>>>>messageCenter.messageSet.modify.success 的更新记录：success  ---> Success 
+>>>>messageCenter.messageSet.success 的更新记录：Operation succeeded  ---> Operate Successfully 
+>>>>messageCenter.messageHistory.title 的更新记录：Historical news  ---> Historical News 
+>>>>messageCenter.messageHistory.unitType 的更新记录：Notification type  ---> Notification Type 
+>>>>messageCenter.messageHistory.event 的更新记录：Notification subtype  ---> Notification Subtype 
+>>>>messageCenter.messageHistory.id 的更新记录：ID  ---> ID 
+>>>>messageCenter.messageHistory.content 的更新记录：Notification content  ---> Notification Content 
+>>>>messageCenter.messageHistory.startTime 的更新记录：Created on  ---> Created On 
+>>>>messageCenter.messageHistory.endTime 的更新记录：Modified on  ---> Modified On 
+>>>>messageCenter.messageHistory.exportOperateAll 的更新记录：Export all  ---> Export All 
+>>>>messageCenter.messageHistory.exportOperate 的更新记录：Export  ---> Export 
+>>>>messageCenter.messageHistory.unitId 的更新记录：unit ID  ---> Unit Id 
+>>>>messageCenter.messageHistory.level 的更新记录：Notice level  ---> Notice Level 
+>>>>messageCenter.messageHistory.link 的更新记录：Suggested treatment measures  ---> Suggested Treatment Measures 
+>>>>messageCenter.messageHistory.happenAt 的更新记录：Time stamp of occurrence  ---> Time Stamp Of Occurrence 
+>>>>messageCenter.messageHistory.closeAt 的更新记录：Processing time stamp  ---> Processing Time Stamp 
+>>>>messageCenter.messageHistory.all 的更新记录：All  ---> All 
+>>>>messageCenter.messageHistory.success 的更新记录：Operation succeeded  ---> Operate Successfully 

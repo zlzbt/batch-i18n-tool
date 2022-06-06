@@ -1,0 +1,27 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-bucket-verify-list-plugin\config\locale\en-US.js: 
+>>>>bucketVerifyList.menu 的更新记录：Rack Validation  ---> Rack Validation 
+>>>>bucketVerifyList.createBucketVerifyTask 的更新记录：Rack Validation  ---> Rack Validation 
+>>>>bucketVerifyList.createBucketVerifyTask.form.scanDirection 的更新记录：Validation Sequence  ---> Validation Sequence 
+>>>>bucketVerifyList.createBucketVerifyTask.form.scanMethod 的更新记录：Verification Scheme  ---> Verification Scheme 
+>>>>bucketVerifyList.list.taskState.options.all 的更新记录：All  ---> All 
+>>>>bucketVerifyList.list.title 的更新记录：Rack Validation  ---> Rack Validation 
+>>>>bucketVerifyList.list.taskDate 的更新记录：Issuing Time  ---> Issuing Time 
+>>>>bucketVerifyList.list.taskState 的更新记录：Job State  ---> Job State 
+>>>>bucketVerifyList.list.taskNo 的更新记录：Job Id  ---> Job Id 
+>>>>bucketVerifyList.list.createdDate 的更新记录：Issuing Time  ---> Issuing Time 
+>>>>bucketVerifyList.list.validNum 的更新记录：Rack Validated  Amount  ---> Rack Validated  Amount 
+>>>>bucketVerifyList.list.noValidNum 的更新记录：Rack Pending Amount  ---> Rack Pending Amount 
+>>>>bucketVerifyList.list.op 的更新记录：Operate  ---> Operate 
+>>>>bucketVerifyList.list.op.view 的更新记录：View  ---> View 
+>>>>bucketVerifyList.list.op.export 的更新记录：Export  ---> Export 
+>>>>bucketVerifyList.list.op.cancel 的更新记录：Cancel  ---> Cancel 
+>>>>bucketVerifyList.list.op.viewError 的更新记录：View Exceptions  ---> View Exceptions 
+>>>>bucketVerifyList.list.op.viewMore 的更新记录：View More  ---> View More 
+>>>>bucketVerifyList.list.op.close 的更新记录：Close  ---> Close 
+>>>>bucketVerifyList.list.op.mark 的更新记录：Mark Processing  ---> Mark Processing 
+>>>>bucketVerifyList.list.check.point 的更新记录：Coordinate  ---> Coordinate 
+>>>>bucketVerifyList.list.check.dbBucketNo 的更新记录：System Rack Number  ---> System Rack Number 
+>>>>bucketVerifyList.list.check.realBucketNo 的更新记录：Actual Rack Number  ---> Actual Rack Number 
+>>>>bucketVerifyList.list.check.state 的更新记录：Status  ---> Status 
+>>>>bucketVerifyList.list.check.result 的更新记录：Validation Result  ---> Validation Result 
+>>>>bucketVerifyList.list.modal.task.title 的更新记录：Job{:taskId} Rack validation quantity：{:checkNum}/{:allNum} Abnormal quantity：{:errorNum}  ---> Job{:taskId} Rack validation quantity：{:checkNum}/{:allNum} Abnormal quantity：{:errorNum} 

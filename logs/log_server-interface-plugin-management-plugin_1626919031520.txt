@@ -1,0 +1,25 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-interface-web-dev\server-plugins\server-interface-plugin-management-plugin\config\locale\en-US.js: 
+>>>>pluginManagement.menu 的更新记录：Plugin Management  ---> Plugin Management 
+>>>>pluginManagement.list.plugin 的更新记录：Plugin  ---> Plugin 
+>>>>pluginManagement.list.version 的更新记录：Version  ---> Version 
+>>>>pluginManagement.list.state 的更新记录：Status  ---> Status 
+>>>>pluginManagement.list.state.created 的更新记录：Created  ---> Created 
+>>>>pluginManagement.list.state.disabled 的更新记录：Disabled  ---> Disabled 
+>>>>pluginManagement.list.state.resolved 的更新记录：Resolved  ---> Resolved 
+>>>>pluginManagement.list.state.started 的更新记录：Running  ---> Running 
+>>>>pluginManagement.list.state.stoped 的更新记录：Stoped  ---> Stoped 
+>>>>pluginManagement.list.op 的更新记录：Operate  ---> Operate 
+>>>>pluginManagement.list.import 的更新记录：Import  ---> Import 
+>>>>pluginManagement.list.import.required 的更新记录：Please Upload A File First  ---> Please Upload A File First 
+>>>>pluginManagement.list.use 的更新记录：Modify Implementation  ---> Modify Implementation 
+>>>>pluginManagement.list.okText 的更新记录：Confirm Revision  ---> Confirm Revision 
+>>>>pluginManagement.list.close 的更新记录：Cancel  ---> Cancel 
+>>>>pluginManagement.list.realizationModal.inputs.name 的更新记录：Name  ---> Name 
+>>>>pluginManagement.list.success 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>pluginManagement.list.code 的更新记录：Import failed  ---> Import failed 
+>>>>pluginManagement.list.message 的更新记录：File Format Error  ---> File Format Error 
+>>>>pluginManagement.list.publish 的更新记录：Publish  ---> Publish 
+>>>>pluginManagement.list.resolve 的更新记录：Run  ---> Run 
+>>>>pluginManagement.list.op.start 的更新记录：Start  ---> Start 
+>>>>pluginManagement.list.op.stop 的更新记录：Stop  ---> Stop 
+>>>>pluginManagement.list.op.delete 的更新记录：Delete  ---> Delete 

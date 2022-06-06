@@ -1,0 +1,92 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-interface-web-dev\server-plugins\server-logger-interface-plugin\config\locale\en-US.js: 
+>>>>loggerInterface.menu 的更新记录：接口平台  ---> Interface Platform 
+>>>>loggerInterface.menu.list 的更新记录：接口日志  ---> Interface Log 
+>>>>loggerInterface.menu.info 的更新记录：日志报文  ---> Log Message 
+>>>>loggerInterface.menu.openApi 的更新记录：接口设置  ---> Interface Settings 
+>>>>loggerInterface.menu.openApiEdit 的更新记录：接口设置-维护  ---> Add Interface Settings 
+>>>>loggerInterface.list.qq 的更新记录：超时重发第几次  ---> How many times is the timeout resend 
+>>>>loggerInterface.list.aa 的更新记录：请求状态  ---> Request Status 
+>>>>loggerInterface.list.id 的更新记录：接口日志ID  ---> Interface Log Id 
+>>>>loggerInterface.list.apiCode 的更新记录：接口编码  ---> Interface Code 
+>>>>loggerInterface.list.businessType 的更新记录：接口业务名称  ---> Interface Bizname 
+>>>>loggerInterface.list.tenantry 的更新记录：租户编码  ---> Tenant Code 
+>>>>loggerInterface.list.warehouse 的更新记录：仓库  ---> Warehouse 
+>>>>loggerInterface.list.coreInfo 的更新记录：关键信息  ---> Key Info 
+>>>>loggerInterface.list.async 的更新记录：是否异步接口  ---> Async Flag 
+>>>>loggerInterface.list.rehandled 的更新记录：是否重发  ---> Resend Flag 
+>>>>loggerInterface.list.statusCode 的更新记录：处理状态  ---> Processing Status 
+>>>>loggerInterface.list.error 的更新记录：失败原因  ---> 	Failure Reason 
+>>>>loggerInterface.list.from 的更新记录：发送方  ---> Sender 
+>>>>loggerInterface.list.to 的更新记录：接收方  ---> Receiver 
+>>>>loggerInterface.list.startTime 的更新记录：发送时间  ---> Post Time 
+>>>>loggerInterface.list.endTime 的更新记录：接收时间  ---> Receipt Time 
+>>>>loggerInterface.list.searchStartTime 的更新记录：开始时间  ---> Created On 
+>>>>loggerInterface.list.searchEndTime 的更新记录：结束时间  ---> Modified On 
+>>>>loggerInterface.list.feedbackTime 的更新记录：反馈时间  ---> Feedback Time 
+>>>>loggerInterface.list.feedbackCode 的更新记录：反馈响应码  ---> Feedback Response Code 
+>>>>loggerInterface.list.feedbackMessage 的更新记录：反馈响应消息  ---> Feedback Response Message 
+>>>>loggerInterface.list.handshakeTime 的更新记录：握手时间  ---> Handshake Time 
+>>>>loggerInterface.list.handshakeCode 的更新记录：握手响应码  ---> Handshake Response Code 
+>>>>loggerInterface.list.handshakeMessage 的更新记录：握手响应消息  ---> Handshake Response Message 
+>>>>loggerInterface.list.createdBy 的更新记录：创建模块  ---> Module Created 
+>>>>loggerInterface.list.createdAt 的更新记录：创建时间  ---> Created On 
+>>>>loggerInterface.list.lastUpdatedAt 的更新记录：最后修改时间  ---> Modified On 
+>>>>loggerInterface.list.lastUpdatedBy 的更新记录：最后修改模块  ---> Module Modified 
+>>>>loggerInterface.list.responseConvertedBody 的更新记录：响应转换内容主体  ---> Response To Convert The Content Body 
+>>>>loggerInterface.list.requestConvertedBody 的更新记录：请求转换内容主体  ---> Request To Convert The Content Body 
+>>>>loggerInterface.list.requestBody 的更新记录：请求内容主体  ---> Request Content Body 
+>>>>loggerInterface.list.responseBody 的更新记录：响应内容主体  ---> Response Content Body 
+>>>>loggerInterface.list.queries 的更新记录：请求查询条件  ---> Request Query Criteria 
+>>>>loggerInterface.list.responseHeaders 的更新记录：响应头  ---> Response Header 
+>>>>loggerInterface.list.requestHeaders 的更新记录：请求头  ---> Request Header 
+>>>>loggerInterface.list.requestType 的更新记录：请求类型  ---> Request Type 
+>>>>loggerInterface.list.method 的更新记录：请求方法  ---> Request Method 
+>>>>loggerInterface.list.realUrl 的更新记录：请求实际URL  ---> Request Actual Url 
+>>>>loggerInterface.list.url 的更新记录：请求URL  ---> Request Url 
+>>>>loggerInterface.list.ip 的更新记录：请求IP  ---> Request Ip 
+>>>>loggerInterface.list.externalized 的更新记录：是否外部请求  ---> Is there an external request 
+>>>>loggerInterface.list.clientId 的更新记录：appkey  ---> AppKey 
+>>>>loggerInterface.list.uri 的更新记录：请求路径  ---> Request Path 
+>>>>loggerInterface.list.interrelatedId 的更新记录：关联ID  ---> Association Id 
+>>>>loggerInterface.list.op 的更新记录：操作  ---> Operate 
+>>>>loggerInterface.list.op.view 的更新记录：查看报文  ---> View Message 
+>>>>loggerInterface.list.op.resend 的更新记录：重发送  ---> Resend 
+>>>>loggerInterface.list.op.rehandle 的更新记录：重处理  ---> Reprocess 
+>>>>loggerInterface.list.success 的更新记录：成功  ---> Success 
+>>>>loggerInterface.list.fail 的更新记录：失败  ---> Failed 
+>>>>loggerInterface.list.send 的更新记录：发送  ---> Send 
+>>>>loggerInterface.list.receive 的更新记录：接收  ---> Receive 
+>>>>loggerInterface.list.yes 的更新记录：是  ---> Yes 
+>>>>loggerInterface.list.no 的更新记录：否  ---> No 
+>>>>loggerInterface.openApi.id 的更新记录：接口设置ID  ---> Interface Settings Id 
+>>>>loggerInterface.openApi.createdBy 的更新记录：创建模块  ---> Module Created 
+>>>>loggerInterface.openApi.createdAt 的更新记录：创建时间  ---> Created On 
+>>>>loggerInterface.openApi.lastUpdatedAt 的更新记录：最后修改时间  ---> Modified On 
+>>>>loggerInterface.openApi.lastUpdatedBy 的更新记录：最后修改模块  ---> Module Modified 
+>>>>loggerInterface.openApi.op 的更新记录：操作  ---> Operate 
+>>>>loggerInterface.openApi.new 的更新记录：新增  ---> Add 
+>>>>loggerInterface.openApi.op.edit 的更新记录：编辑  ---> Edit 
+>>>>loggerInterface.openApi.op.del 的更新记录：删除  ---> Delete 
+>>>>loggerInterface.openApi.yes 的更新记录：是  ---> Yes 
+>>>>loggerInterface.openApi.no 的更新记录：否  ---> No 
+>>>>loggerInterface.openApi.uriPattern 的更新记录：路径匹配规则  ---> Path Matching Rule 
+>>>>loggerInterface.openApi.apiCode 的更新记录：接口编码  ---> Interface Code 
+>>>>loggerInterface.openApi.method 的更新记录：请求方法  ---> Request Method 
+>>>>loggerInterface.openApi.from 的更新记录：发送方  ---> Sender 
+>>>>loggerInterface.openApi.to 的更新记录：接收方  ---> Receiver 
+>>>>loggerInterface.openApi.regex 的更新记录：是否正则匹配  ---> Regular Match Flag 
+>>>>loggerInterface.openApi.businessType 的更新记录：接口业务名称  ---> Interface Bizname 
+>>>>loggerInterface.openApiEdit.return 的更新记录：返回  ---> Return 
+>>>>loggerInterface.openApiEdit.submit 的更新记录：提交  ---> Submit 
+>>>>loggerInterface.openApiEdit.editScs 的更新记录：修改接口设置成功  ---> Successful Modification Of Interface Settings 
+>>>>loggerInterface.openApiEdit.addScs 的更新记录：新增接口设置成功  ---> Successful Addition Of Interface Settings 
+>>>>loggerInterface.openApiEdit.uriPattern 的更新记录：路径匹配规则  ---> Path Matching Rule 
+>>>>loggerInterface.openApiEdit.apiCode 的更新记录：接口编码  ---> Interface Code 
+>>>>loggerInterface.openApiEdit.method 的更新记录：请求方法  ---> Request Method 
+>>>>loggerInterface.openApiEdit.from 的更新记录：发送方  ---> Sender 
+>>>>loggerInterface.openApiEdit.to 的更新记录：接收方  ---> Receiver 
+>>>>loggerInterface.openApiEdit.regex 的更新记录：是否正则匹配  ---> Regular Match Flag 
+>>>>loggerInterface.openApiEdit.businessType 的更新记录：接口业务名称  ---> Interface Bizname 
+>>>>loggerInterface.info.return 的更新记录：返回  ---> Return 
+>>>>loggerInterface.info.yes 的更新记录：是  ---> Yes 
+>>>>loggerInterface.info.no 的更新记录：否  ---> No 

@@ -1,0 +1,15 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-rcs-agv-logs-plugin\config\locale\en-US.js: 
+>>>>agvLogs.menu.traceLogList 的更新记录：Trace Log  ---> Trace Log 
+>>>>agvLogs.menu.rcsLogList 的更新记录：RCS Log  ---> RCS Log 
+>>>>agvLogs.traceLogList.title 的更新记录：Trace Log  ---> Trace Log 
+>>>>agvLogs.traceLogList.agvId 的更新记录：Robot Number  ---> Robot Number 
+>>>>agvLogs.traceLogList.jobId 的更新记录：Job Id  ---> Job Id 
+>>>>agvLogs.rcsLogList.title 的更新记录：RCS Log  ---> RCS Log 
+>>>>agvLogs.rcsLogList.logID 的更新记录：Log ID  ---> Log ID 
+>>>>agvLogs.rcsLogList.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>agvLogs.rcsLogList.logDate 的更新记录：Log Time  ---> Log Time 
+>>>>agvLogs.rcsLogList.logDetail 的更新记录：Log Message  ---> Log Message 
+>>>>agvLogs.rcsLogList.logTime 的更新记录：Log Time  ---> Log Time 
+>>>>agvLogs.rcsLogList.idleLog 的更新记录：Idle Log  ---> Idle Log 
+>>>>agvLogs.rcsLogList.chargerLog 的更新记录：Charging Log  ---> Charging Log 
+>>>>agvLogs.rcsLogList.lineLog 的更新记录：Online/Offline Log  ---> Online/Offline Log 

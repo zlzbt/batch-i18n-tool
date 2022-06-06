@@ -1,0 +1,4 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-map-console-plugin\config\locale\en-US.js: 
+>>>>mapConsole.map.toolbar.createPointArea 的更新记录：[object Object]  ---> [object Object] 
+>>>>mapConsole.map.leftNav 的更新记录：[object Object]  ---> [object Object] 
+>>>>mapConsole.map.dropSearchType 的更新记录：[object Object]  ---> [object Object] 

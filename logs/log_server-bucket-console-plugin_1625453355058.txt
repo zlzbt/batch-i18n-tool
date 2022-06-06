@@ -1,0 +1,40 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-bucket-console-plugin\config\locale\en-US.js: 
+>>>>bucketConsole.search.label 的更新记录：Rack  ---> Rack 
+>>>>bucketConsole.unit.face 的更新记录：Face  ---> Face 
+>>>>bucketConsole.bucketProps 的更新记录：Rack Properties  ---> Rack Properties 
+>>>>bucketConsole.containerType.Workbin 的更新记录：Workbin  ---> Workbin 
+>>>>bucketConsole.containerType.WorkBinSlot 的更新记录：Workbin Slot  ---> Workbin Slot 
+>>>>bucketConsole.containerType.TurnoverBox 的更新记录：Turnover Box  ---> Turnover Box 
+>>>>bucketConsole.containerType.Pallet 的更新记录：Pallet  ---> Pallet 
+>>>>bucketConsole.attr.RealOrVirtual 的更新记录：Real Or Virtual  ---> Real Or Virtual 
+>>>>bucketConsole.attr.code 的更新记录：Rack Code  ---> Rack Code 
+>>>>bucketConsole.attr.digital_code 的更新记录：Rack QR Code  ---> Rack QR Code 
+>>>>bucketConsole.attr.locationCode 的更新记录：Location Code  ---> Location Code 
+>>>>bucketConsole.attr.containerType 的更新记录：Container Type  ---> Container Type 
+>>>>bucketConsole.attr.containerCode 的更新记录：Container Code  ---> Container Code 
+>>>>bucketConsole.attr.zoneCode 的更新记录：Zone Code  ---> Zone Code 
+>>>>bucketConsole.attr.broken 的更新记录：Is it damaged?  ---> Is it damaged? 
+>>>>bucketConsole.attr.enabled 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>bucketConsole.attr.power 的更新记录：Current Power  ---> Current Power 
+>>>>bucketConsole.attr.point 的更新记录：Coordinate  ---> Coordinate 
+>>>>bucketConsole.attr.topFace 的更新记录：Orientation Face  ---> Orientation Face 
+>>>>bucketConsole.attr.collectionFace 的更新记录：Collecting Face  ---> Collecting Face 
+>>>>bucketConsole.attr.ownerCode 的更新记录：Owner Code  ---> Owner Code 
+>>>>bucketConsole.attr.bucketTypeName 的更新记录：Rack Type  ---> Rack Type 
+>>>>bucketConsole.btn.bucketMove 的更新记录：Rack Shift  ---> Rack Shift 
+>>>>bucketConsole.btn.bucketMove.autoSelect 的更新记录：Automatically select storage points  ---> Automatically select storage points 
+>>>>bucketConsole.btn.bucketMove.targetPointCode 的更新记录：End Point Code Value  ---> End Point Code Value 
+>>>>bucketConsole.btn.bucketUpdatePointCode 的更新记录：Update Point  ---> Update Point 
+>>>>bucketConsole.btn.bucketUpdatePointCode.targetPointCode 的更新记录：End Point Code Value  ---> End Point Code Value 
+>>>>bucketConsole.btn.bucketUpdateTopFace 的更新记录：Update Top Face  ---> Update Top Face 
+>>>>bucketConsole.btn.bucketUpdateTopFace.targetTopface 的更新记录：Rack Face  ---> Rack Face 
+>>>>bucketConsole.btn.cancelTaskTeam 的更新记录：Cancel Job Group  ---> Cancel Job Group 
+>>>>bucketConsole.btn.cancelTaskTeam.content 的更新记录：Warning: This Operation Will Cause The Entire Group Of Racks To Be Cancelled. Please Confirm Whether To Cancel The Job Group!  ---> Warning: This Operation Will Cause The Entire Group Of Racks To Be Cancelled. Please Confirm Whether To Cancel The Job Group! 
+>>>>bucketConsole.card.code 的更新记录：Code  ---> Code 
+>>>>bucketConsole.card.barCode 的更新记录：Docking Point Code  ---> Docking Point Code 
+>>>>bucketConsole.card.point 的更新记录：Coordinate  ---> Coordinate 
+>>>>bucketConsole.card.topFace 的更新记录：Orientation Face  ---> Orientation Face 
+>>>>bucketConsole.lockcard.agvCode 的更新记录：Belonging Robot  ---> Belonging Robot 
+>>>>bucketConsole.lockcard.pointCode 的更新记录：Qr Code  ---> Qr Code 
+>>>>bucketConsole.lockcard.type 的更新记录：Type  ---> Type 
+>>>>bucketConsole.lockcard.point 的更新记录：Coordinate  ---> Coordinate 

@@ -1,0 +1,8 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-lockpoint-console-plugin\config\locale\en-US.js: 
+>>>>lockpointConsole.quick_lock 的更新记录：Manual Lock  ---> Manual Lock 
+>>>>lockpointConsole.quick_unlock 的更新记录：Manual Unlock  ---> Manual Unlock 
+>>>>lockpointConsole.cleanBucketLockPoint 的更新记录：Clean rack lock point  ---> Clean Rack Lock Point 
+>>>>lockpointConsole.lockpointProps 的更新记录：Lock point properties  ---> Lock Point Properties 
+>>>>lockpointConsole.card.pointCode 的更新记录：QR Code  ---> Qr Code 
+>>>>lockpointConsole.card.type 的更新记录：Type  ---> Type 
+>>>>lockpointConsole.card.point 的更新记录：Coordinate  ---> Coordinate 

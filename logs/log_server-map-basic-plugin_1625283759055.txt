@@ -1,0 +1,38 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-map-basic-plugin\config\locale\en-US.js: 
+>>>>mapBasic.menu 的更新记录：Map Management  ---> Map Management 
+>>>>menu.map 的更新记录：Map  ---> Map 
+>>>>mapBasic.common.operateSuccessfully 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>mapBasic.common.UnknownReason 的更新记录：Unknown Reason  ---> Unknown Reason 
+>>>>mapBasic.common.code 的更新记录：Importing map failed  ---> Importing map failed 
+>>>>mapBasic.common.message 的更新记录：File Format Error  ---> File Format Error 
+>>>>mapBasic.map.title 的更新记录：Map Management  ---> Map Management 
+>>>>mapBasic.map.mapCode 的更新记录：Map Code  ---> Map Code 
+>>>>mapBasic.map.mapVersion 的更新记录：Map Version  ---> Map Version 
+>>>>mapBasic.map.mapName 的更新记录：Map Name  ---> Map Name 
+>>>>mapBasic.map.fileName 的更新记录：File Name  ---> File Name 
+>>>>mapBasic.map.baseMapVersion 的更新记录：Previous Map Version  ---> Previous Map Version 
+>>>>mapBasic.map.mapState 的更新记录：Map Online Status  ---> Map Online Status 
+>>>>mapBasic.map.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>mapBasic.map.createdUser 的更新记录：User Created  ---> User Created 
+>>>>mapBasic.map.createdTime 的更新记录：Created On  ---> Created On 
+>>>>mapBasic.map.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>mapBasic.map.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>mapBasic.map.remark 的更新记录：Remarks  ---> Remarks 
+>>>>mapBasic.map.op 的更新记录：Operate  ---> Operate 
+>>>>mapBasic.map.op.edit 的更新记录：Edit Note  ---> Edit Note 
+>>>>mapBasic.map.btn.new 的更新记录：New  ---> New 
+>>>>mapBasic.map.btn.import 的更新记录：Import Map  ---> Import Map 
+>>>>mapBasic.map.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>mapBasic.map.btn.export 的更新记录：Export Map  ---> Export Map 
+>>>>mapBasic.map.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>mapBasic.map.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>mapBasic.map.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>mapBasic.map.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>mapBasic.map.btn.delete.tip 的更新记录：Delete Tip  ---> Delete Tip 
+>>>>mapBasic.map.btn.delete.tip.content 的更新记录：You cannot delete the online map. If you need to replace the map, please import the online new map or edit and publish the new map online  ---> You cannot delete the online map. If you need to replace the map, please import the online new map or edit and publish the new map online 
+>>>>mapBasic.map.btn.up 的更新记录：On Line  ---> On Line 
+>>>>mapBasic.map.btn.down 的更新记录：Offline  ---> Offline 
+>>>>mapBasic.map.modal.title 的更新记录：Edit Note  ---> Edit Note 
+>>>>mapBasic.map.modal.rules.max.message 的更新记录：Maximum length cannot exceed 100 digits  ---> Maximum length cannot exceed 100 digits 
+>>>>mapBasic.map.op.newWindow 的更新记录：Online Edit  ---> Online Edit 
+>>>>mapBasic.map.modal.delete 的更新记录：Confirm to delete?  ---> Confirm to delete? 

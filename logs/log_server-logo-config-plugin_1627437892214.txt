@@ -1,0 +1,15 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-quicktron-web-dev\server-plugins\server-logo-config-plugin\config\locale\en-US.js: 
+>>>>menu.system 的更新记录：System Management  ---> System Management 
+>>>>menu.system.other 的更新记录：Other Setting  ---> Other Setting 
+>>>>logoConfig.menu 的更新记录：LOGO Setting  ---> Logo Setting 
+>>>>logoConfig.setting.loginLogo 的更新记录：Login page LOGO  ---> Login page LOGO 
+>>>>logoConfig.setting.normalLogo 的更新记录：Page header LOGO  ---> Page Header Logo 
+>>>>logoConfig.setting.tabLogo 的更新记录：Browser tab icon  ---> Browser Tab Icon 
+>>>>logoConfig.setting.pdaLogo 的更新记录：pda icon  ---> Pda Icon 
+>>>>logoConfig.setting.homeLogo 的更新记录：Home page background  ---> Home Page Background 
+>>>>logoConfig.setting.copyright 的更新记录：Copyright  ---> Copyright 
+>>>>logoConfig.setting.theme 的更新记录：Theme  ---> Theme 
+>>>>logoConfig.setting.submit 的更新记录：Update  ---> Update 
+>>>>logoConfig.setting.noLogoConfig 的更新记录：Can't find logo config, please connect admin  ---> Can not find logo config, please connect admin 
+>>>>logoConfig.setting.updateLogoSucceed 的更新记录：Update logo info succeed, will auto refresh this page  ---> Update Logo Info Succeed, Will Auto Refresh This Page 
+>>>>logoConfig.setting.noLogoDir 的更新记录：Can't find logo directory, please connect admin  ---> Can not find logo directory, please connect admin 

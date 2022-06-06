@@ -1,0 +1,50 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-rcs-simulation-package-plugin\config\locale\en-US.js: 
+>>>>rcsSimulation.menu 的更新记录：Simulation Management  ---> Simulation Management 
+>>>>rcsSimulation.menu.simulationAdd 的更新记录：New Simulation Package  ---> New Simulation Package 
+>>>>rcsSimulation.list.btn.new 的更新记录：New Simulation Package  ---> New Simulation Package 
+>>>>rcsSimulation.list.simulationInfo 的更新记录：Basic simulation information  ---> Basic simulation information 
+>>>>rcsSimulation.list.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>rcsSimulation.list.agvType 的更新记录：Robot Type  ---> Robot Type 
+>>>>rcsSimulation.list.exportOperateAll 的更新记录：Export  ---> Export 
+>>>>rcsSimulation.list.agvError 的更新记录：Robot Error  ---> Robot Error 
+>>>>rcsSimulation.list.errorRecovery 的更新记录：Robot Error recovery  ---> Robot Error recovery 
+>>>>rcsSimulation.list.agvOffline 的更新记录：Robot Offline  ---> Robot Offline 
+>>>>rcsSimulation.list.agvOnline 的更新记录：Robot Online  ---> Robot Online 
+>>>>rcsSimulation.list.ip 的更新记录：IP  ---> IP 
+>>>>rcsSimulation.list.range 的更新记录：Enter any code between 1-255  ---> Enter any code between 1-255 
+>>>>rcsSimulation.list.systemState 的更新记录：System State  ---> System State 
+>>>>rcsSimulation.list.workState 的更新记录：Working Condition  ---> Working Condition 
+>>>>rcsSimulation.list.initialPower 的更新记录：Initial Quantity Of Electricity  ---> Initial Quantity Of Electricity 
+>>>>rcsSimulation.list.power 的更新记录：Current Power  ---> Current Power 
+>>>>rcsSimulation.list.coordinate 的更新记录：Coordinate  ---> Coordinate 
+>>>>rcsSimulation.list.direction 的更新记录：Direction  ---> Direction 
+>>>>rcsSimulation.list.speed 的更新记录：speed  ---> speed 
+>>>>rcsSimulation.list.jobId 的更新记录：Job Id  ---> Job Id 
+>>>>rcsSimulation.list.jobType 的更新记录：Job Type  ---> Job Type 
+>>>>rcsSimulation.list.jobEndPoint 的更新记录：Job Dest.  ---> Job Dest. 
+>>>>rcsSimulation.list.containerCode 的更新记录：Container Code  ---> Container Code 
+>>>>rcsSimulation.list.jobState 的更新记录：Current Job Status  ---> Current Job Status 
+>>>>rcsSimulation.list.chargeState 的更新记录：Charge State  ---> Charge State 
+>>>>rcsSimulation.list.agvNum 的更新记录：Robot Sum  ---> Robot Sum 
+>>>>rcsSimulation.list.highSpeed 的更新记录：Top Speed  ---> Top Speed 
+>>>>rcsSimulation.list.powerFailure 的更新记录：Whether the power is turned on or not  ---> Whether the power is turned on or not 
+>>>>rcsSimulation.list.startPosition 的更新记录：Starting Position  ---> Starting Position 
+>>>>rcsSimulation.list.agvErrorCode 的更新记录：Error Encoding  ---> Error Encoding 
+>>>>rcsSimulation.list.inputErrorCode 的更新记录：Enter error code  ---> Enter error code 
+>>>>rcsSimulation.list.submit 的更新记录：Submit  ---> Submit 
+>>>>rcsSimulation.simulationAdd.isLostPower 的更新记录：Whether the power is turned on or not  ---> Whether the power is turned on or not 
+>>>>rcsSimulation.simulationAdd.agvType 的更新记录：Robot Type  ---> Robot Type 
+>>>>rcsSimulation.simulationAdd.agvSum 的更新记录：Robot Sum  ---> Robot Sum 
+>>>>rcsSimulation.simulationAdd.speed 的更新记录：Top Speed  ---> Top Speed 
+>>>>rcsSimulation.simulationAdd.initPower 的更新记录：Initial Quantity Of Electricity  ---> Initial Quantity Of Electricity 
+>>>>rcsSimulation.simulationAdd.lostPowerSpeed 的更新记录：Power Cost Speed  ---> Power Cost Speed 
+>>>>rcsSimulation.simulationAdd.submit 的更新记录：Submit  ---> Submit 
+>>>>rcsSimulation.simulationAdd.back 的更新记录：Cancel  ---> Cancel 
+>>>>rcsSimulation.simulationAdd.addSetting 的更新记录：New Settings  ---> New Settings 
+>>>>rcsSimulation.simulationAdd.simuBootPosition 的更新记录：Random Position Online  ---> Random Position Online 
+>>>>rcsSimulation.simulationAdd.designatedArea 的更新记录：Designated Location  ---> Designated Location 
+>>>>rcsSimulation.simulationAdd.basicInfo 的更新记录：|Foundation Setup  ---> |Foundation Setup 
+>>>>rcsSimulation.simulationAdd.onlinePositionSetting 的更新记录：|Online Position Setting  ---> |Online Position Setting 
+>>>>rcsSimulation.simulationAdd.rightupCode 的更新记录：Upper Right Corner  ---> Upper Right Corner 
+>>>>rcsSimulation.simulationAdd.leftdownCode 的更新记录：Lower Left Quarter  ---> Lower Left Quarter 
+>>>>rcsSimulation.simulationAdd.btn.new 的更新记录：Add Other Models  ---> Add Other Models 

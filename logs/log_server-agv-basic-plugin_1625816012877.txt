@@ -1,0 +1,10 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-agv-basic-plugin\config\locale\en-US.js: 
+>>>>agvBasic.menu.secondaryComponentsAdd 的更新记录：Secondary Components Management-Add  ---> Secondary Components Management-Add 
+>>>>agvBasic.menu.secondaryComponentsView 的更新记录：Secondary Components Management-View  ---> Secondary Components Management-View 
+>>>>agvBasic.menu.secondaryComponentsEdit 的更新记录：Secondary Components Management-Edit  ---> Secondary Components Management-Edit 
+>>>>agvBasic.agvEdit.title 的更新记录：Robot Management-Edit  ---> Robot Management-Edit 
+>>>>agvBasic.secondaryComponentsAdd.title 的更新记录：Secondary Components Management-Add  ---> Secondary Components Management-Add 
+>>>>agvBasic.secondaryComponentsView.title 的更新记录：Secondary Components Management-View  ---> Secondary Components Management-View 
+>>>>agvBasic.secondaryComponentsEdit.title 的更新记录：Secondary Components Management-Edit  ---> Secondary Components Management-Edit 
+>>>>agvBasic.agvAdd.title 的更新记录：Robot Management-Add  ---> Robot Management-Add 
+>>>>agvBasic.transportEntityAdd.title 的更新记录：Robot Moving Target Management-Add  ---> Robot Moving Target Management-Add 

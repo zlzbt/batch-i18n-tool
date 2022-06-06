@@ -1,0 +1,37 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-rcs-capacity-allocation-plugin\config\locale\en-US.js: 
+>>>>capacityAllocation.menu 的更新记录：Capacity Allocation  ---> Capacity Allocation 
+>>>>capacityAllocation.menu.edit 的更新记录：Capacity Allocation Edit  ---> Capacity Allocation Edit 
+>>>>capacityAllocation.message.success 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>capacityAllocation.message.validate 的更新记录：Minimum value must be greater than 0 and less than or equal to the maximum value  ---> Minimum value must be greater than 0 and less than or equal to the maximum value 
+>>>>capacityAllocation.list.title 的更新记录：Capacity Allocation  ---> Capacity Allocation 
+>>>>capacityAllocation.list.largeCategory 的更新记录：Configure Large Category  ---> Configure Large Category 
+>>>>capacityAllocation.list.smallCategory 的更新记录：Configure Small Category  ---> Configure Small Category 
+>>>>capacityAllocation.list.name 的更新记录：Configure Name  ---> Configure Name 
+>>>>capacityAllocation.list.op 的更新记录：Operate  ---> Operate 
+>>>>capacityAllocation.list.edit 的更新记录：Edit  ---> Edit 
+>>>>capacityAllocation.list.standardHandling 的更新记录：Standard handling mode  ---> Standard handling mode 
+>>>>capacityAllocation.list.reservoirArea 的更新记录：Capacity In The Reservoir Area  ---> Capacity In The Reservoir Area 
+>>>>capacityAllocation.list.reservoirAreaRange 的更新记录：Set different types of robot capacity range according to the reservoir area  ---> Set different types of robot capacity range according to the reservoir area 
+>>>>capacityAllocation.list.JobDockRange 的更新记录：Set robot capacity range (online / offline stops) according to operation stops  ---> Set robot capacity range (online / offline stops) according to operation stops 
+>>>>capacityAllocation.list.JobDock 的更新记录：Capacity Of Operation Stop  ---> Capacity Of Operation Stop 
+>>>>capacityAllocation.edit.title 的更新记录：Capacity Allocation  ---> Capacity Allocation 
+>>>>capacityAllocation.edit.name 的更新记录：Configure Name  ---> Configure Name 
+>>>>capacityAllocation.edit.totalCapacity 的更新记录：Total Capacity Of The Whole Warehouse  ---> Total Capacity Of The Whole Warehouse 
+>>>>capacityAllocation.edit.configDetail.title 的更新记录：Configuration Details  ---> Configuration Details 
+>>>>capacityAllocation.edit.id 的更新记录：No.  ---> No. 
+>>>>capacityAllocation.edit.zoneCode 的更新记录：Zone Code  ---> Zone Code 
+>>>>capacityAllocation.edit.zoneName 的更新记录：Zone Name  ---> Zone Name 
+>>>>capacityAllocation.edit.stationCode 的更新记录：Workstation No.  ---> Workstation No. 
+>>>>capacityAllocation.edit.pointCode 的更新记录：Docking Point Code  ---> Docking Point Code 
+>>>>capacityAllocation.edit.stationName 的更新记录：Workstation Name  ---> Workstation Name 
+>>>>capacityAllocation.edit.agvTypeId 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>capacityAllocation.edit.min 的更新记录：Minimum  ---> Minimum 
+>>>>capacityAllocation.edit.isForce 的更新记录：Forced or not?  ---> Forced or not? 
+>>>>capacityAllocation.edit.max 的更新记录：Highest  ---> Highest 
+>>>>capacityAllocation.edit.back 的更新记录：Return  ---> Return 
+>>>>capacityAllocation.edit.reservoirAreaRange 的更新记录：Set different types of robot capacity range according to the reservoir area  ---> Set different types of robot capacity range according to the reservoir area 
+>>>>capacityAllocation.edit.JobDockRange 的更新记录：Set robot capacity range (online / offline stops) according to operation stops  ---> Set robot capacity range (online / offline stops) according to operation stops 
+>>>>capacityAllocation.edit.modal.add.title 的更新记录：New Details  ---> New Details 
+>>>>capacityAllocation.edit.agvType 的更新记录：Robot Type  ---> Robot Type 
+>>>>capacityAllocation.edit.zone 的更新记录：Zone  ---> Zone 
+>>>>capacityAllocation.edit.workstation 的更新记录：Workstation  ---> Workstation 

@@ -1,0 +1,158 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-agv-type-basic-plugin\config\locale\en-US.js: 
+>>>>agvTypeBasic.menu 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvTypeBasic.menu.add 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvTypeBasic.menu.edit 的更新记录：Robot Type  ---> Robot Type 
+>>>>menu.robot 的更新记录：Robot  ---> Robot 
+>>>>agvTypeBasic.common.operateSuccessfully 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>agvTypeBasic.common.UnknownReason 的更新记录：Unknown Reason  ---> Unknown Reason 
+>>>>agvTypeBasic.agvType.title 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvTypeBasic.agvType.agvTypeDetail 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvTypeBasic.agvType.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvTypeBasic.agvType.agvTypeName 的更新记录：Robot Type Name  ---> Robot Type Name 
+>>>>agvTypeBasic.agvType.agvTypeCode.rules.max.message 的更新记录：Maximum length cannot exceed 40 digits  ---> Maximum length cannot exceed 40 digits 
+>>>>agvTypeBasic.agvType.bucketSeparable 的更新记录：Whether the car and frame can be separated or not  ---> Whether the car and frame can be separated or not 
+>>>>agvTypeBasic.agvType.chargerPortType 的更新记录：Charging Port Type  ---> Charging Port Type 
+>>>>agvTypeBasic.agvType.walkFace 的更新记录：Walking Face  ---> Walking Face 
+>>>>agvTypeBasic.agvType.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvTypeBasic.agvType.slamBucketGuideFrontWideDetectionAddedValue 的更新记录：Rack Guiding Extention Wide  ---> Rack Guiding Extention Wide 
+>>>>agvTypeBasic.agvType.slamBucketGuideDeepDetectionAddedValue 的更新记录：Rack Guiding Extention Deep  ---> Rack Guiding Extention Deep 
+>>>>agvTypeBasic.agvType.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvTypeBasic.agvType.createdTime 的更新记录：Created On  ---> Created On 
+>>>>agvTypeBasic.agvType.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>agvTypeBasic.agvType.lastUpdatedTime 的更新记录：Modified on  ---> Modified On 
+>>>>agvTypeBasic.agvType.remark 的更新记录：Remarks  ---> Remarks 
+>>>>agvTypeBasic.agvType.op 的更新记录：Operate  ---> Operate 
+>>>>agvTypeBasic.agvType.op.edit 的更新记录：Edit  ---> Edit 
+>>>>agvTypeBasic.agvType.btn.new 的更新记录：New  ---> New 
+>>>>agvTypeBasic.agvType.btn.import 的更新记录：Import  ---> Import 
+>>>>agvTypeBasic.agvType.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>agvTypeBasic.agvType.btn.export 的更新记录：Export  ---> Export 
+>>>>agvTypeBasic.agvType.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>agvTypeBasic.agvType.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>agvTypeBasic.agvType.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>agvTypeBasic.agvType.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>agvTypeBasic.agvType.secondClassification 的更新记录：Secondary Classification  ---> Secondary Classification 
+>>>>agvTypeBasic.agvType.firstClassification 的更新记录：Class One  ---> Class One 
+>>>>agvTypeBasic.agvType.agvCameraDistance 的更新记录：Robot Camera Distance  ---> Robot Camera Distance 
+>>>>agvTypeBasic.agvType.sizeInformation 的更新记录：Size Information  ---> Size Information 
+>>>>agvTypeBasic.agvType.selfWeight 的更新记录：Self Weight  ---> Self Weight 
+>>>>agvTypeBasic.agvType.specifiedLoad 的更新记录：Rated Load  ---> Rated Load 
+>>>>agvTypeBasic.agvType.jackingHeight 的更新记录：Jacking Height  ---> Jacking Height 
+>>>>agvTypeBasic.agvType.noLoadRatedSpeed 的更新记录：No Load Rated Speed  ---> No Load Rated Speed 
+>>>>agvTypeBasic.agvType.fullLoadRatedSpeed 的更新记录：Rated Speed At Full Load  ---> Rated Speed At Full Load 
+>>>>agvTypeBasic.agvType.navigationMethod 的更新记录：Navigation Method  ---> Navigation Method 
+>>>>agvTypeBasic.agvType.positioningAccuracy 的更新记录：positioning Accuracy  ---> positioning Accuracy 
+>>>>agvTypeBasic.agvType.stopAccuracy 的更新记录：Stopping Precision  ---> Stopping Precision 
+>>>>agvTypeBasic.agvType.stopAngleAccuracy 的更新记录：Stop Angle Precision  ---> Stop Angle Precision 
+>>>>agvTypeBasic.agvType.batteryType 的更新记录：Battery Type  ---> Battery Type 
+>>>>agvTypeBasic.agvType.batteryCapacity 的更新记录：Battery Capacity  ---> Battery Capacity 
+>>>>agvTypeBasic.agvType.ratedBatteryLife 的更新记录：Rated Endurance  ---> Rated Endurance 
+>>>>agvTypeBasic.agvType.chargingTime 的更新记录：Charging Time  ---> Charging Time 
+>>>>agvTypeBasic.agvType.batteryLife 的更新记录：Battery Life  ---> Battery Life 
+>>>>agvTypeBasic.agvType.ditchCapacity 的更新记录：Trench Capacity  ---> Trench Capacity 
+>>>>agvTypeBasic.agvType.crossingSlopeCapacity 的更新记录：Slope Capacity  ---> Slope Capacity 
+>>>>agvTypeBasic.agvType.crossingHomCapacity 的更新记录：Over Ridge Capability  ---> Over Ridge Capability 
+>>>>agvTypeBasic.agvType.operatingTemperature 的更新记录：Service Temperature  ---> Service Temperature 
+>>>>agvTypeBasic.agvType.noise 的更新记录：Noise  ---> Noise 
+>>>>agvTypeBasic.agvType.speed 的更新记录：Robot speed, unit :mm/s  ---> Robot speed, unit :mm/s 
+>>>>agvTypeBasic.agvType.acceleration 的更新记录：Robot acceleration in mm/s^2  ---> Robot acceleration in mm/s^2 
+>>>>agvTypeBasic.agvType.angularVelocity 的更新记录：Angular Velocity  ---> Angular Velocity 
+>>>>agvTypeBasic.agvType.angularAcceleration 的更新记录：Angular Acceleration  ---> Angular Acceleration 
+>>>>agvTypeBasic.agvTypeEdit.title 的更新记录：Edit  ---> Edit 
+>>>>agvTypeBasic.agvTypeEdit.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvTypeBasic.agvTypeEdit.agvTypeName 的更新记录：Robot Type Name  ---> Robot Type Name 
+>>>>agvTypeBasic.agvTypeEdit.agvTypeCode.rules.max.message 的更新记录：Maximum length cannot exceed 40 digits  ---> Maximum length cannot exceed 40 digits 
+>>>>agvTypeBasic.agvTypeEdit.bucketSeparable 的更新记录：Whether the car and frame can be separated or not  ---> Whether the car and frame can be separated or not 
+>>>>agvTypeBasic.agvTypeEdit.chargerPortType 的更新记录：Charging Port Type  ---> Charging Port Type 
+>>>>agvTypeBasic.agvTypeEdit.walkFace 的更新记录：Walking Face  ---> Walking Face 
+>>>>agvTypeBasic.agvTypeEdit.back 的更新记录：Return  ---> Return 
+>>>>agvTypeBasic.agvTypeEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>agvTypeBasic.agvTypeEdit.secondClassification 的更新记录：Secondary Classification  ---> Secondary Classification 
+>>>>agvTypeBasic.agvTypeEdit.firstClassification 的更新记录：Class One  ---> Class One 
+>>>>agvTypeBasic.agvTypeEdit.agvCameraDistance 的更新记录：Robot Camera Distance  ---> Robot Camera Distance 
+>>>>agvTypeBasic.agvTypeEdit.sizeInformation 的更新记录：Size Information  ---> Size Information 
+>>>>agvTypeBasic.agvTypeEdit.selfWeight 的更新记录：Self Weight  ---> Self Weight 
+>>>>agvTypeBasic.agvTypeEdit.specifiedLoad 的更新记录：Rated Load  ---> Rated Load 
+>>>>agvTypeBasic.agvTypeEdit.jackingHeight 的更新记录：Jacking Height  ---> Jacking Height 
+>>>>agvTypeBasic.agvTypeEdit.noLoadRatedSpeed 的更新记录：No Load Rated Speed  ---> No Load Rated Speed 
+>>>>agvTypeBasic.agvTypeEdit.fullLoadRatedSpeed 的更新记录：Rated Speed At Full Load  ---> Rated Speed At Full Load 
+>>>>agvTypeBasic.agvTypeEdit.navigationMethod 的更新记录：Navigation Method  ---> Navigation Method 
+>>>>agvTypeBasic.agvTypeEdit.positioningAccuracy 的更新记录：positioning Accuracy  ---> positioning Accuracy 
+>>>>agvTypeBasic.agvTypeEdit.stopAccuracy 的更新记录：Stopping Precision  ---> Stopping Precision 
+>>>>agvTypeBasic.agvTypeEdit.stopAngleAccuracy 的更新记录：Stop Angle Precision  ---> Stop Angle Precision 
+>>>>agvTypeBasic.agvTypeEdit.batteryType 的更新记录：Battery Type  ---> Battery Type 
+>>>>agvTypeBasic.agvTypeEdit.batteryCapacity 的更新记录：Battery Capacity  ---> Battery Capacity 
+>>>>agvTypeBasic.agvTypeEdit.ratedBatteryLife 的更新记录：Rated Endurance  ---> Rated Endurance 
+>>>>agvTypeBasic.agvTypeEdit.chargingTime 的更新记录：Charging Time  ---> Charging Time 
+>>>>agvTypeBasic.agvTypeEdit.batteryLife 的更新记录：Battery Life  ---> Battery Life 
+>>>>agvTypeBasic.agvTypeEdit.ditchCapacity 的更新记录：Trench Capacity  ---> Trench Capacity 
+>>>>agvTypeBasic.agvTypeEdit.crossingSlopeCapacity 的更新记录：Slope Capacity  ---> Slope Capacity 
+>>>>agvTypeBasic.agvTypeEdit.crossingHomCapacity 的更新记录：Over Ridge Capability  ---> Over Ridge Capability 
+>>>>agvTypeBasic.agvTypeEdit.operatingTemperature 的更新记录：Service Temperature  ---> Service Temperature 
+>>>>agvTypeBasic.agvTypeEdit.noise 的更新记录：Noise  ---> Noise 
+>>>>agvTypeBasic.agvTypeEdit.slamBucketGuideFrontWideDetectionAddedValue 的更新记录：Rack Guiding Extention Wide  ---> Rack Guiding Extention Wide 
+>>>>agvTypeBasic.agvTypeEdit.slamBucketGuideDeepDetectionAddedValue 的更新记录：Rack Guiding Extention Deep  ---> Rack Guiding Extention Deep 
+>>>>agvTypeBasic.agvTypeEdit.speed 的更新记录：Speed  ---> Speed 
+>>>>agvTypeBasic.agvTypeEdit.acceleration 的更新记录：Acceleration  ---> Acceleration 
+>>>>agvTypeBasic.agvTypeEdit.angularVelocity 的更新记录：Angular Velocity  ---> Angular Velocity 
+>>>>agvTypeBasic.agvTypeEdit.angularAcceleration 的更新记录：Angular Acceleration  ---> Angular Acceleration 
+>>>>agvTypeBasic.agvTypeAdd.title 的更新记录：New  ---> New 
+>>>>agvTypeBasic.agvTypeAdd.agvTypeCode 的更新记录：Robot Type Code  ---> Robot Type Code 
+>>>>agvTypeBasic.agvTypeAdd.agvTypeDetail 的更新记录：Robot Type  ---> Robot Type 
+>>>>agvTypeBasic.agvTypeAdd.agvTypeName 的更新记录：Robot Type Name  ---> Robot Type Name 
+>>>>agvTypeBasic.agvTypeAdd.agvTypeCode.rules.max.message 的更新记录：Maximum length cannot exceed 40 digits  ---> Maximum length cannot exceed 40 digits 
+>>>>agvTypeBasic.agvTypeAdd.bucketSeparable 的更新记录：Whether the car and frame can be separated or not  ---> Whether the car and frame can be separated or not 
+>>>>agvTypeBasic.agvTypeAdd.chargerPortType 的更新记录：Charging Port Type  ---> Charging Port Type 
+>>>>agvTypeBasic.agvTypeAdd.walkFace 的更新记录：Walking Face  ---> Walking Face 
+>>>>agvTypeBasic.agvTypeAdd.back 的更新记录：Return  ---> Return 
+>>>>agvTypeBasic.agvTypeAdd.submit 的更新记录：Submit  ---> Submit 
+>>>>agvTypeBasic.agvTypeAdd.secondClassification 的更新记录：Class II  ---> Class II 
+>>>>agvTypeBasic.agvTypeAdd.firstClassification 的更新记录：Class I  ---> Class I 
+>>>>agvTypeBasic.agvTypeAdd.agvCameraDistance 的更新记录：Robot Camera Distance  ---> Robot Camera Distance 
+>>>>agvTypeBasic.agvTypeAdd.agvAppearanceCode 的更新记录：Robot Part  ---> Robot Part 
+>>>>agvTypeBasic.agvTypeAdd.selfHeight 的更新记录：Body Height  ---> Body Height 
+>>>>agvTypeBasic.agvTypeAdd.rotationDiameter 的更新记录：Rotation Diameter  ---> Rotation Diameter 
+>>>>agvTypeBasic.agvTypeAdd.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>agvTypeBasic.agvTypeAdd.agvAppearanceDetail 的更新记录：Robot Shape Parts  ---> Robot Shape Parts 
+>>>>agvTypeBasic.agvTypeAdd.agvPartCode 的更新记录：Robot Part Code  ---> Robot Part Code 
+>>>>agvTypeBasic.agvTypeAdd.agvPartName 的更新记录：Robot Part Name  ---> Robot Part Name 
+>>>>agvTypeBasic.agvTypeAdd.agvTypeId 的更新记录：Robot Model ID  ---> Robot Model ID 
+>>>>agvTypeBasic.agvTypeAdd.agvPartLayer 的更新记录：Component Layer  ---> Component Layer 
+>>>>agvTypeBasic.agvTypeAdd.length 的更新记录：Length  ---> Length 
+>>>>agvTypeBasic.agvTypeAdd.width 的更新记录：Width  ---> Width 
+>>>>agvTypeBasic.agvTypeAdd.height 的更新记录：Height  ---> Height 
+>>>>agvTypeBasic.agvTypeAdd.rotationRadius 的更新记录：Radius Of Rotation  ---> Radius Of Rotation 
+>>>>agvTypeBasic.agvTypeAdd.offsetOffCenterX 的更新记录：X-Axis Offset  ---> X-Axis Offset 
+>>>>agvTypeBasic.agvTypeAdd.offsetOffCenterY 的更新记录：Y-Axis Offset  ---> Y-Axis Offset 
+>>>>agvTypeBasic.agvTypeAdd.safeLength 的更新记录：Safety Distance in Length  ---> Safety Distance in Length 
+>>>>agvTypeBasic.agvTypeAdd.safeWidth 的更新记录：Width Safe Distance  ---> Width Safe Distance 
+>>>>agvTypeBasic.agvTypeAdd.safeHeight 的更新记录：High Safety Distance  ---> High Safety Distance 
+>>>>agvTypeBasic.agvTypeAdd.createdUser 的更新记录：User Created  ---> User Created 
+>>>>agvTypeBasic.agvTypeAdd.lastUpdatedUser 的更新记录：Last Updated User  ---> Last Updated User 
+>>>>agvTypeBasic.agvTypeAdd.sizeInformation 的更新记录：Size Information  ---> Size Information 
+>>>>agvTypeBasic.agvTypeAdd.selfWeight 的更新记录：Self Weight  ---> Self Weight 
+>>>>agvTypeBasic.agvTypeAdd.specifiedLoad 的更新记录：Rated Load  ---> Rated Load 
+>>>>agvTypeBasic.agvTypeAdd.jackingHeight 的更新记录：Jacking Height  ---> Jacking Height 
+>>>>agvTypeBasic.agvTypeAdd.noLoadRatedSpeed 的更新记录：No Load Rated Speed  ---> No Load Rated Speed 
+>>>>agvTypeBasic.agvTypeAdd.fullLoadRatedSpeed 的更新记录：Full Load Rated Speed  ---> Full Load Rated Speed 
+>>>>agvTypeBasic.agvTypeAdd.navigationMethod 的更新记录：Navigation Method  ---> Navigation Method 
+>>>>agvTypeBasic.agvTypeAdd.positioningAccuracy 的更新记录：positioning Accuracy  ---> positioning Accuracy 
+>>>>agvTypeBasic.agvTypeAdd.stopAccuracy 的更新记录：Stopping Precision  ---> Stopping Precision 
+>>>>agvTypeBasic.agvTypeAdd.stopAngleAccuracy 的更新记录：Stop Angle Precision  ---> Stop Angle Precision 
+>>>>agvTypeBasic.agvTypeAdd.batteryType 的更新记录：Battery Type  ---> Battery Type 
+>>>>agvTypeBasic.agvTypeAdd.batteryCapacity 的更新记录：Battery Capacity  ---> Battery Capacity 
+>>>>agvTypeBasic.agvTypeAdd.ratedBatteryLife 的更新记录：Rated Endurance  ---> Rated Endurance 
+>>>>agvTypeBasic.agvTypeAdd.chargingTime 的更新记录：Charging Time  ---> Charging Time 
+>>>>agvTypeBasic.agvTypeAdd.batteryLife 的更新记录：Battery Life  ---> Battery Life 
+>>>>agvTypeBasic.agvTypeAdd.ditchCapacity 的更新记录：Trench Capacity  ---> Trench Capacity 
+>>>>agvTypeBasic.agvTypeAdd.crossingSlopeCapacity 的更新记录：Slope Capacity  ---> Slope Capacity 
+>>>>agvTypeBasic.agvTypeAdd.crossingHomCapacity 的更新记录：Over Ridge Capability  ---> Over Ridge Capability 
+>>>>agvTypeBasic.agvTypeAdd.operatingTemperature 的更新记录：Service Temperature  ---> Service Temperature 
+>>>>agvTypeBasic.agvTypeAdd.noise 的更新记录：Noise  ---> Noise 
+>>>>agvTypeBasic.agvTypeAdd.slamBucketGuideFrontWideDetectionAddedValue 的更新记录：Rack Guiding Extention Wide  ---> Rack Guiding Extention Wide 
+>>>>agvTypeBasic.agvTypeAdd.slamBucketGuideDeepDetectionAddedValue 的更新记录：Rack Guiding Extention Deep  ---> Rack Guiding Extention Deep 
+>>>>agvTypeBasic.agvTypeAdd.rollerParts 的更新记录：secondary Components Info  ---> secondary Components Info 
+>>>>agvTypeBasic.agvTypeAdd.speed 的更新记录：Speed  ---> Speed 
+>>>>agvTypeBasic.agvTypeAdd.acceleration 的更新记录：Acceleration  ---> Acceleration 
+>>>>agvTypeBasic.agvTypeAdd.angularVelocity 的更新记录：Angular Velocity  ---> Angular Velocity 
+>>>>agvTypeBasic.agvTypeAdd.angularAcceleration 的更新记录：Angular Acceleration  ---> Angular Acceleration 

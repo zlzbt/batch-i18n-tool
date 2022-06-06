@@ -1,0 +1,4 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-agv-appearance-basic-plugin\config\locale\en-US.js: 
+>>>>agvAppearanceBasic.menu.add 的更新记录：Robot Part Management-Add  ---> Robot Part Management-Add 
+>>>>agvAppearanceBasic.menu.edit 的更新记录：Robot Part Management-Edit  ---> Robot Part Management-Edit 
+>>>>agvAppearanceBasic.menu.view 的更新记录：Robot Part Management-View  ---> Robot Part Management-View 

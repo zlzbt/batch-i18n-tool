@@ -1,0 +1,42 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-map-point-bar-code-basic-plugin\config\locale\en-US.js: 
+>>>>mapPointBarCodeBasic.menu 的更新记录：Point Barcode Management  ---> Point Barcode Management 
+>>>>mapPointBarCodeBasic.menu.add 的更新记录：New Point Barcode  ---> New Point Barcode 
+>>>>mapPointBarCodeBasic.menu.edit 的更新记录：Edit Point Barcode  ---> Edit Point Barcode 
+>>>>menu.map 的更新记录：Map  ---> Map 
+>>>>mapPointBarCodeBasic.common.operateSuccessfully 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>mapPointBarCodeBasic.common.UnknownReason 的更新记录：Unknown Reason  ---> Unknown Reason 
+>>>>mapPointBarCodeBasic.mapPointBarCode.title 的更新记录：Point Barcode Management  ---> Point Barcode Management 
+>>>>mapPointBarCodeBasic.mapPointBarCode.pointCode 的更新记录：Point Code  ---> Point Code 
+>>>>mapPointBarCodeBasic.mapPointBarCode.ancillaryPointCode 的更新记录：Point Barcode  ---> Point Barcode 
+>>>>mapPointBarCodeBasic.mapPointBarCode.warehouseName 的更新记录：Warehouse Name  ---> Warehouse Name 
+>>>>mapPointBarCodeBasic.mapPointBarCode.warehouseCode 的更新记录：Warehouse Code  ---> Warehouse Code 
+>>>>mapPointBarCodeBasic.mapPointBarCode.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>mapPointBarCodeBasic.mapPointBarCode.createdUser 的更新记录：User Created  ---> User Created 
+>>>>mapPointBarCodeBasic.mapPointBarCode.createdTime 的更新记录：Created On  ---> Created On 
+>>>>mapPointBarCodeBasic.mapPointBarCode.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>mapPointBarCodeBasic.mapPointBarCode.lastUpdatedTime 的更新记录：Modified on  ---> Modified on 
+>>>>mapPointBarCodeBasic.mapPointBarCode.remark 的更新记录：Remarks  ---> Remarks 
+>>>>mapPointBarCodeBasic.mapPointBarCode.op 的更新记录：Operate  ---> Operate 
+>>>>mapPointBarCodeBasic.mapPointBarCode.op.edit 的更新记录：Edit  ---> Edit 
+>>>>mapPointBarCodeBasic.mapPointBarCode.btn.new 的更新记录：New  ---> New 
+>>>>mapPointBarCodeBasic.mapPointBarCode.btn.import 的更新记录：Import  ---> Import 
+>>>>mapPointBarCodeBasic.mapPointBarCode.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>mapPointBarCodeBasic.mapPointBarCode.btn.export 的更新记录：Export  ---> Export 
+>>>>mapPointBarCodeBasic.mapPointBarCode.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>mapPointBarCodeBasic.mapPointBarCode.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>mapPointBarCodeBasic.mapPointBarCode.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>mapPointBarCodeBasic.mapPointBarCode.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>mapPointBarCodeBasic.mapPointBarCodeEdit.title 的更新记录：Edit  ---> Edit 
+>>>>mapPointBarCodeBasic.mapPointBarCodeEdit.pointCode 的更新记录：Point Code  ---> Point Code 
+>>>>mapPointBarCodeBasic.mapPointBarCodeEdit.pointCode.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>mapPointBarCodeBasic.mapPointBarCodeEdit.ancillaryPointCode 的更新记录：Point Barcode  ---> Point Barcode 
+>>>>mapPointBarCodeBasic.mapPointBarCodeEdit.ancillaryPointCode.rules.max.message 的更新记录：Maximum length cannot exceed 40 digits  ---> Maximum length cannot exceed 40 digits 
+>>>>mapPointBarCodeBasic.mapPointBarCodeEdit.back 的更新记录：Return  ---> Return 
+>>>>mapPointBarCodeBasic.mapPointBarCodeEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>mapPointBarCodeBasic.mapPointBarCodeAdd.title 的更新记录：New  ---> New 
+>>>>mapPointBarCodeBasic.mapPointBarCodeAdd.pointCode 的更新记录：Point Code  ---> Point Code 
+>>>>mapPointBarCodeBasic.mapPointBarCodeAdd.pointCode.rules.max.message 的更新记录：Maximum length cannot exceed 20 digits  ---> Maximum length cannot exceed 20 digits 
+>>>>mapPointBarCodeBasic.mapPointBarCodeAdd.ancillaryPointCode 的更新记录：Point Barcode  ---> Point Barcode 
+>>>>mapPointBarCodeBasic.mapPointBarCodeAdd.ancillaryPointCode.rules.max.message 的更新记录：Maximum length cannot exceed 40 digits  ---> Maximum length cannot exceed 40 digits 
+>>>>mapPointBarCodeBasic.mapPointBarCodeAdd.back 的更新记录：Return  ---> Return 
+>>>>mapPointBarCodeBasic.mapPointBarCodeAdd.submit 的更新记录：Submit  ---> Submit 

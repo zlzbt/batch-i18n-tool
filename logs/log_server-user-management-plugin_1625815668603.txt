@@ -1,0 +1,4 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-user-management-plugin\config\locale\en-US.js: 
+>>>>menu.system 的更新记录：System Management  ---> System Management 
+>>>>menu.returnMainSystem 的更新记录：Return Upstream System  ---> Return Upstream System 
+>>>>userManagement 的更新记录：[object Object]  ---> [object Object] 

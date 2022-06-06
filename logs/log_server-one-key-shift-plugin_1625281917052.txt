@@ -1,0 +1,19 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-one-key-shift-plugin\config\locale\en-US.js: 
+>>>>oneKeyShift.menu 的更新记录：Rack Move Overview  ---> Rack Move Overview 
+>>>>oneKeyShift.common.operateSuccessfully 的更新记录：Operation succeeded  ---> Operate Successfully 
+>>>>oneKeyShift.common.UnknownReason 的更新记录：Unknown reason  ---> Unknown Reason 
+>>>>oneKeyShift.list.title 的更新记录：Rack Move Overview  ---> Rack Move Overview 
+>>>>oneKeyShift.list.taskId 的更新记录：Job Num.  ---> Job No. 
+>>>>oneKeyShift.list.btn.new 的更新记录：Add  ---> Add 
+>>>>oneKeyShift.list.btn.close 的更新记录：Close  ---> Close 
+>>>>oneKeyShift.list.taskNo 的更新记录：Job Num.  ---> Job No. 
+>>>>oneKeyShift.list.taskGroupNo 的更新记录：Job Group Num.  ---> Job Group Num. 
+>>>>oneKeyShift.list.state 的更新记录：Status  ---> Status 
+>>>>oneKeyShift.list.createdDate 的更新记录：Created on  ---> Created On 
+>>>>oneKeyShift.list.createdUser 的更新记录：User Created  ---> User Created 
+>>>>oneKeyShift.list.modificationDate 的更新记录：Modified on  ---> Modify Time 
+>>>>oneKeyShift.list.modificationUser 的更新记录：User Modified  ---> Modify User 
+>>>>oneKeyShift.list.zoneName 的更新记录：Zone  ---> Zone 
+>>>>oneKeyShift.list.mobileAttribute 的更新记录：Mobile attribute  ---> Mobile Attribute 
+>>>>oneKeyShift.list.modal.title 的更新记录：New task  ---> New Task 
+>>>>oneKeyShift.list.submit 的更新记录：Submit  ---> Submit 

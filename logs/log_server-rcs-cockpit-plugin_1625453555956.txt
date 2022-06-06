@@ -1,0 +1,132 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-rcs-cockpit-plugin\config\locale\en-US.js: 
+>>>>rcsCockpit.menu 的更新记录：Robot Management  ---> Robot Management 
+>>>>rcsCockpit.menu.rcsCockpit 的更新记录：Robot Dashboard  ---> Robot Dashboard 
+>>>>rcsCockpit.menu.agvList 的更新记录：Robot Overview  ---> Robot Overview 
+>>>>rcsCockpit.menu.taskList 的更新记录：Task Management  ---> Task Management 
+>>>>rcsCockpit.menu.linkLogList 的更新记录：Link Log List  ---> Link Log List 
+>>>>rcsCockpit.menu.rcsLogList 的更新记录：RCS Log  ---> RCS Log 
+>>>>rcsCockpit.menu.historicalTask 的更新记录：Historical Task  ---> Historical Task 
+>>>>rcsCockpit.base.exportOperateAll 的更新记录：Export All  ---> Export All 
+>>>>rcsCockpit.base.exportOperate 的更新记录：Export  ---> Export 
+>>>>rcsCockpit.base.otherParams 的更新记录：Other Fields  ---> Other Fields 
+>>>>rcsCockpit.base.otherValue 的更新记录：Field Value  ---> Field Value 
+>>>>rcsCockpit.cockpit.option.all 的更新记录：All Robots  ---> All Robots 
+>>>>rcsCockpit.linkLogList.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>rcsCockpit.linkLogList.jobCode 的更新记录：Job Code  ---> Job Code 
+>>>>rcsCockpit.rcsLogList.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>rcsCockpit.rcsLogList.agvShortCode 的更新记录：Robot Short Code  ---> Robot Short Code 
+>>>>rcsCockpit.rcsLogList.logDate 的更新记录：Time  ---> Time 
+>>>>rcsCockpit.rcsLogList.logDetail 的更新记录：Log Detail Info  ---> Log Detail Info 
+>>>>rcsCockpit.rcsLogList.createdDate 的更新记录：Created On  ---> Created On 
+>>>>rcsCockpit.agvList.onlineState 的更新记录：System State  ---> System State 
+>>>>rcsCockpit.agvList.agvBasicType 的更新记录：Robot Basic Type  ---> Robot Basic Type 
+>>>>rcsCockpit.agvList.agvState 的更新记录：Robot State  ---> Robot State 
+>>>>rcsCockpit.agvList.ownJobType 的更新记录：Job Type  ---> Job Type 
+>>>>rcsCockpit.agvList.otherParams 的更新记录：Other Fields  ---> Other Fields 
+>>>>rcsCockpit.agvList.agvId 的更新记录：Robot Code  ---> Robot Code 
+>>>>rcsCockpit.agvList.exceptionCode 的更新记录：Exception Code  ---> Exception Code 
+>>>>rcsCockpit.agvList.pointCode 的更新记录：Coordinate  ---> Coordinate 
+>>>>rcsCockpit.agvList.jobId 的更新记录：Job Id  ---> Job Id 
+>>>>rcsCockpit.agvList.chargeId 的更新记录：Charger Point Code  ---> Charger Point Code 
+>>>>rcsCockpit.agvList.power 的更新记录：Power  ---> Power 
+>>>>rcsCockpit.agvList.speed 的更新记录：Speed  ---> Speed 
+>>>>rcsCockpit.agvList.direction 的更新记录：Direction  ---> Direction 
+>>>>rcsCockpit.agvList.batteryTemperature 的更新记录：Battery Temperature  ---> Battery Temperature 
+>>>>rcsCockpit.agvList.leftelectricTemperature 的更新记录：Leftelectric Temperature  ---> Leftelectric Temperature 
+>>>>rcsCockpit.agvList.rightelectricTemperature 的更新记录：Rightelectric Temperature  ---> Rightelectric Temperature 
+>>>>rcsCockpit.agvList.liftelectricTemperature 的更新记录：Liftelectric Temperature  ---> Liftelectric Temperature 
+>>>>rcsCockpit.agvList.layerelectricTemperature 的更新记录：Layerelectric Temperature  ---> Layerelectric Temperature 
+>>>>rcsCockpit.agvList.gyroTemperature 的更新记录：Gyro Temperature  ---> Gyro Temperature 
+>>>>rcsCockpit.agvList.otherValue 的更新记录：Field Value  ---> Field Value 
+>>>>rcsCockpit.agvList.exportOperateAll 的更新记录：Export All  ---> Export All 
+>>>>rcsCockpit.agvList.exportOperate 的更新记录：Export  ---> Export 
+>>>>rcsCockpit.agvList.agvNo 的更新记录：Frame Number  ---> Frame Number 
+>>>>rcsCockpit.agvList.parcelNo 的更新记录：Parcel No  ---> Parcel No 
+>>>>rcsCockpit.agvList.isConnDsp 的更新记录：Is conn DSP?  ---> Is conn DSP? 
+>>>>rcsCockpit.agvList.chargeType 的更新记录：Charging Type  ---> Charging Type 
+>>>>rcsCockpit.agvList.liftupTime 的更新记录：Lift Up Times  ---> Lift Up Times 
+>>>>rcsCockpit.agvList.mileage 的更新记录：Over All Mileage  ---> Over All Mileage 
+>>>>rcsCockpit.agvList.diskSpacePercent 的更新记录：Disk Used Space  ---> Disk Used Space 
+>>>>rcsCockpit.agvList.agvMacAddress 的更新记录：Robot MAC Address  ---> Robot MAC Address 
+>>>>rcsCockpit.agvList.apMacAddress 的更新记录：Ap Mac Address  ---> Ap Mac Address 
+>>>>rcsCockpit.agvList.apServiceId 的更新记录：Ap Service Id  ---> Ap Service Id 
+>>>>rcsCockpit.agvList.apRadioId 的更新记录：Ap Radio Id  ---> Ap Radio Id 
+>>>>rcsCockpit.agvList.signalStrength 的更新记录：Signal Strength  ---> Signal Strength 
+>>>>rcsCockpit.agvList.loadMileage 的更新记录：Load Mileage  ---> Load Mileage 
+>>>>rcsCockpit.agvList.unloadMileage 的更新记录：Unload Mileage  ---> Unload Mileage 
+>>>>rcsCockpit.agvList.current 的更新记录：Current  ---> Current 
+>>>>rcsCockpit.agvList.temperatureSensorTemperature 的更新记录：Temperature Sensor  ---> Temperature Sensor 
+>>>>rcsCockpit.agvList.timestamp 的更新记录：Created On  ---> Created On 
+>>>>rcsCockpit.agvList.zone 的更新记录：Zone  ---> Zone 
+>>>>rcsCockpit.agvList.Task.ID 的更新记录：Job Num.  ---> Job Num. 
+>>>>rcsCockpit.agvList.Instruction.ID 的更新记录：Instruction ID  ---> Instruction ID 
+>>>>rcsCockpit.agvList.JobMark 的更新记录：JobMark  ---> JobMark 
+>>>>rcsCockpit.agvList.isBoolean.Bucket 的更新记录：Loading Rack  ---> Loading Rack 
+>>>>rcsCockpit.agvList.Bucket.Code 的更新记录：Rack Code  ---> Rack Code 
+>>>>rcsCockpit.agvList.Controller.Status 的更新记录：Controller Status  ---> Controller Status 
+>>>>rcsCockpit.agvList.position 的更新记录：Position  ---> Position 
+>>>>rcsCockpit.agvList.No 的更新记录：No  ---> No 
+>>>>rcsCockpit.agvList.Yes 的更新记录：Yes  ---> Yes 
+>>>>rcsCockpit.taskList.Task.No 的更新记录：Job No.  ---> Job No. 
+>>>>rcsCockpit.taskList.Task.Status 的更新记录：Job State  ---> Job State 
+>>>>rcsCockpit.taskList.Task.Type 的更新记录：Job Type  ---> Job Type 
+>>>>rcsCockpit.taskList.Task.Jobmark 的更新记录：JobMark  ---> JobMark 
+>>>>rcsCockpit.taskList.Task.AgvId 的更新记录：Robot Code  ---> Robot Code 
+>>>>rcsCockpit.taskList.Task.Shelves 的更新记录：Rack No.  ---> Rack No. 
+>>>>rcsCockpit.taskList.Last.Time 的更新记录：Update Time  ---> Update Time 
+>>>>rcsCockpit.taskList.Timestamp 的更新记录：Created On  ---> Created On 
+>>>>rcsCockpit.taskList.schedule.frozenFlag.no 的更新记录：No  ---> No 
+>>>>rcsCockpit.taskList.schedule.frozenFlag.yes 的更新记录：yes  ---> yes 
+>>>>rcsCockpit.taskList.jobId 的更新记录：Job Id  ---> Job Id 
+>>>>rcsCockpit.taskList.jobType 的更新记录：Job Type  ---> Job Type 
+>>>>rcsCockpit.taskList.jobState 的更新记录：Job State  ---> Job State 
+>>>>rcsCockpit.taskList.jobMark 的更新记录：Release Flag  ---> Release Flag 
+>>>>rcsCockpit.taskList.agvId 的更新记录：Agv Id  ---> Agv Id 
+>>>>rcsCockpit.taskList.bucketId 的更新记录：Rack No.  ---> Rack No. 
+>>>>rcsCockpit.taskList.topFace 的更新记录：Rack Face  ---> Rack Face 
+>>>>rcsCockpit.taskList.bucketPointCode 的更新记录：Rack Point Code  ---> Rack Point Code 
+>>>>rcsCockpit.taskList.destPointCode 的更新记录：Target Point  ---> Target Point 
+>>>>rcsCockpit.taskList.gmtCreate 的更新记录：Created On  ---> Created On 
+>>>>rcsCockpit.taskList.gmtModified 的更新记录：Update Time  ---> Update Time 
+>>>>rcsCockpit.taskList.task 的更新记录：Action Status  ---> Action Status 
+>>>>rcsCockpit.taskList.canInterrupt 的更新记录：Can Interrupt  ---> Can Interrupt 
+>>>>rcsCockpit.taskList.isLetDown 的更新记录：Is online task  ---> Is online task 
+>>>>rcsCockpit.taskList.jobContext 的更新记录：Job Message  ---> Job Message 
+>>>>rcsCockpit.taskList.jobPriority 的更新记录：Job Priority  ---> Job Priority 
+>>>>rcsCockpit.taskList.ownJobType 的更新记录：Own Job Type  ---> Own Job Type 
+>>>>rcsCockpit.taskList.srcJobType 的更新记录：Src Job Type  ---> Src Job Type 
+>>>>rcsCockpit.taskList.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>rcsCockpit.taskList.zoneCode 的更新记录：Zone Code  ---> Zone Code 
+>>>>rcsCockpit.historicalTask.Task.No 的更新记录：Job No.  ---> Job No. 
+>>>>rcsCockpit.historicalTask.Task.Status 的更新记录：Job State  ---> Job State 
+>>>>rcsCockpit.historicalTask.Task.Type 的更新记录：Job Type  ---> Job Type 
+>>>>rcsCockpit.historicalTask.Task.Jobmark 的更新记录：JobMark  ---> JobMark 
+>>>>rcsCockpit.historicalTask.Task.AgvId 的更新记录：Agv Id  ---> Agv Id 
+>>>>rcsCockpit.historicalTask.Task.Shelves 的更新记录：Rack No.  ---> Rack No. 
+>>>>rcsCockpit.historicalTask.Last.Time 的更新记录：Update Time  ---> Update Time 
+>>>>rcsCockpit.historicalTask.Timestamp 的更新记录：Created On  ---> Created On 
+>>>>rcsCockpit.historicalTask.schedule.frozenFlag.no 的更新记录：No  ---> No 
+>>>>rcsCockpit.historicalTask.schedule.frozenFlag.yes 的更新记录：Yes  ---> Yes 
+>>>>rcsCockpit.historicalTask.jobId 的更新记录：Job Id  ---> Job Id 
+>>>>rcsCockpit.historicalTask.jobAcceptTime 的更新记录：Job Accept Time  ---> Job Accept Time 
+>>>>rcsCockpit.historicalTask.jobExecuteTime 的更新记录：Job Execute Time  ---> Job Execute Time 
+>>>>rcsCockpit.historicalTask.jobFinishTime 的更新记录：Completion Time  ---> Completion Time 
+>>>>rcsCockpit.historicalTask.jobType 的更新记录：Job Type  ---> Job Type 
+>>>>rcsCockpit.historicalTask.jobState 的更新记录：Job State  ---> Job State 
+>>>>rcsCockpit.historicalTask.jobMark 的更新记录：Job Mark  ---> Job Mark 
+>>>>rcsCockpit.historicalTask.agvId 的更新记录：Agv Id  ---> Agv Id 
+>>>>rcsCockpit.historicalTask.bucketId 的更新记录：Rack No.  ---> Rack No. 
+>>>>rcsCockpit.historicalTask.topFace 的更新记录：Rack Face  ---> Rack Face 
+>>>>rcsCockpit.historicalTask.bucketPointCode 的更新记录：Rack Point Code  ---> Rack Point Code 
+>>>>rcsCockpit.historicalTask.destPointCode 的更新记录：Target Point  ---> Target Point 
+>>>>rcsCockpit.historicalTask.gmtCreate 的更新记录：Created On  ---> Created On 
+>>>>rcsCockpit.historicalTask.gmtModified 的更新记录：Update Time  ---> Update Time 
+>>>>rcsCockpit.historicalTask.task 的更新记录：Task  ---> Task 
+>>>>rcsCockpit.historicalTask.canInterrupt 的更新记录：Can Interrupt  ---> Can Interrupt 
+>>>>rcsCockpit.historicalTask.isLetDown 的更新记录：Is online task  ---> Is online task 
+>>>>rcsCockpit.historicalTask.jobContext 的更新记录：Job Message  ---> Job Message 
+>>>>rcsCockpit.historicalTask.jobPriority 的更新记录：Job Priority  ---> Job Priority 
+>>>>rcsCockpit.historicalTask.ownJobType 的更新记录：Own Job Type  ---> Own Job Type 
+>>>>rcsCockpit.historicalTask.srcJobType 的更新记录：Src Job Type  ---> Src Job Type 
+>>>>rcsCockpit.historicalTask.warehouseId 的更新记录：Warehouse ID  ---> Warehouse ID 
+>>>>rcsCockpit.historicalTask.zoneCode 的更新记录：Zone Code  ---> Zone Code 

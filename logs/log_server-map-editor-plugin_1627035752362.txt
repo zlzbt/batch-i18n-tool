@@ -1,0 +1,294 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-map-editor-plugin\config\locale\en-US.js: 
+>>>>mapEditor.menu 的更新记录：Map Editor  ---> Map Editor 
+>>>>mapEditor.common.compilationSavedSuccessfully 的更新记录：Compilation saved successfully!  ---> Compilation saved successfully! 
+>>>>mapEditor.common.problemWithFileFormat 的更新记录：There is a problem with the file format. Convert it to UTF-8 format and try again!  ---> There is a problem with the file format. Convert it to UTF-8 format and try again! 
+>>>>mapEditor.common.mapDataCheckResults 的更新记录：********[Map data check results]********  ---> ********[Map data check results]******** 
+>>>>mapEditor.common.mapConnectivityCheckResults 的更新记录：********【Map connectivity check results】********  ---> ********【Map connectivity check results】******** 
+>>>>mapEditor.common.mapPublishedSuccessfully 的更新记录：Map published successfully  ---> Map published successfully 
+>>>>mapEditor.common.mapPublishedOnlineSuccessfully 的更新记录：Map published online successfully  ---> Map published online successfully 
+>>>>mapEditor.common.RCSnotificationFailed 的更新记录：RCS notification map launch request failed  ---> RCS notification map launch request failed 
+>>>>mapEditor.common.RCSrefreshFailed 的更新记录：Map online successfully, RCS refresh request failed  ---> Map online successfully, RCS refresh request failed 
+>>>>mapEditor.common.RCSnotificationsuccessful 的更新记录：RCS notification map launch request success  ---> RCS notification map launch request success 
+>>>>mapEditor.common.RCSrefreshsuccessful 的更新记录：Map online successfully, RCS refresh request  successful  ---> Map online successfully, RCS refresh request  successful 
+>>>>mapEditor.common.WCSnotificationFailed 的更新记录：WCS notification map launch request failed  ---> WCS notification map launch request failed 
+>>>>mapEditor.common.WCSrefreshFailed 的更新记录：Map online successfully, WCS refresh request failed  ---> Map online successfully, WCS refresh request failed 
+>>>>mapEditor.common.WCSnotificationsuccessful 的更新记录：WCS notification map launch request success  ---> WCS notification map launch request success 
+>>>>mapEditor.common.WCSrefreshsuccessful 的更新记录：Map online successfully, WCS refresh request  successful  ---> Map online successfully, WCS refresh request  successful 
+>>>>mapEditor.common.mapPublishedOnlineFailed 的更新记录：Failed To Publish New Map Online  ---> Failed To Publish New Map Online 
+>>>>mapEditor.mapEditor.exportedExcelName 的更新记录：Imported_codePoint_template  ---> Imported_codePoint_template 
+>>>>mapEditor.mapEditor.mustBeInteger 的更新记录：Must be an integer  ---> Must be an integer 
+>>>>mapEditor.mapEditor.title 的更新记录：Basic  ---> Basic 
+>>>>mapEditor.mapEditor.rule.no 的更新记录：Rule Number  ---> Rule Number 
+>>>>mapEditor.mapEditor.description 的更新记录：Description  ---> Description 
+>>>>mapEditor.mapEditor.status 的更新记录：Status Of Use  ---> Status Of Use 
+>>>>mapEditor.mapEditor.updatedAt 的更新记录：Update Time  ---> Update Time 
+>>>>mapEditor.mapEditor.op 的更新记录：Operate  ---> Operate 
+>>>>mapEditor.mapEditor.op.edit 的更新记录：Modify  ---> Modify 
+>>>>mapEditor.mapEditor.op.del 的更新记录：Delete  ---> Delete 
+>>>>mapEditor.mapEditor.op.download 的更新记录：Download  ---> Download 
+>>>>mapEditor.mapEditor.status.close 的更新记录：Close  ---> Close 
+>>>>mapEditor.mapEditor.status.running 的更新记录：Running  ---> Running 
+>>>>mapEditor.mapEditor.status.online 的更新记录：Online  ---> Online 
+>>>>mapEditor.mapEditor.status.ex 的更新记录：Error  ---> Error 
+>>>>mapEditor.mapEditor.callNo 的更新记录：Service Called Count  ---> Service Called Count 
+>>>>mapEditor.mapEditor.btn.download 的更新记录：Download  ---> Download 
+>>>>mapEditor.mapEditor.btn.go 的更新记录：Link To  ---> Link To 
+>>>>mapEditor.mapEditor.new 的更新记录：Add  ---> Add 
+>>>>mapEditor.mapEditor.new.content 的更新记录：New。。。。
+*Another Line  ---> New。。。。
+*Another Line 
+>>>>mapEditor.mapEditor.mock.desc 的更新记录：This is a description.  ---> This is a description. 
+>>>>mapEditor.mapEditor.customCodePoint 的更新记录：Custom Code Point  ---> Custom Code Point 
+>>>>mapEditor.mapEditor.movePoint 的更新记录：Drag Point  ---> Drag Point 
+>>>>mapEditor.mapEditor.coordinateX 的更新记录：Coordinate X  ---> Coordinate X 
+>>>>mapEditor.mapEditor.coordinateY 的更新记录：Coordinate Y  ---> Coordinate Y 
+>>>>mapEditor.mapEditor.xOffset 的更新记录：Delta X  ---> Delta X 
+>>>>mapEditor.mapEditor.yOffset 的更新记录：Delta Y  ---> Delta Y 
+>>>>mapEditor.mapEditor.codePointEncoding 的更新记录：Point Encoding  ---> Point Encoding 
+>>>>mapEditor.mapEditor.codePointName 的更新记录：Code Point Name  ---> Code Point Name 
+>>>>mapEditor.mapEditor.codePointType 的更新记录：Code Point Type  ---> Code Point Type 
+>>>>mapEditor.mapEditor.codeValue 的更新记录：Qr Code  ---> Qr Code 
+>>>>mapEditor.mapEditor.zoneCode 的更新记录：Zone Code  ---> Zone Code 
+>>>>mapEditor.mapEditor.ml4 的更新记录：MaximumLength 4  ---> MaximumLength 4 
+>>>>mapEditor.mapEditor.workstationCode 的更新记录：Workstation Code  ---> Workstation Code 
+>>>>mapEditor.mapEditor.chargingStationCode 的更新记录：Charging Station Code  ---> Charging Station Code 
+>>>>mapEditor.mapEditor.chargerType 的更新记录：Charging Station Type  ---> Charging Station Type 
+>>>>mapEditor.mapEditor.chargerPortType 的更新记录：Charging Port Type  ---> Charging Port Type 
+>>>>mapEditor.mapEditor.automaticChargingStation 的更新记录：Automatic Charging Station  ---> Automatic Charging Station 
+>>>>mapEditor.mapEditor.batteryReplacementStation 的更新记录：Battery Replacement Station  ---> Battery Replacement Station 
+>>>>mapEditor.mapEditor.workstationMode 的更新记录：Workstation Mode  ---> Workstation Mode 
+>>>>mapEditor.mapEditor.workstationOrientation 的更新记录：Workstation Orientation  ---> Workstation Orientation 
+>>>>mapEditor.mapEditor.chargePointOrientation 的更新记录：Charger Pile Orientation  ---> Charger Pile Orientation 
+>>>>mapEditor.mapEditor.commutationPoint 的更新记录：Commutation Point  ---> Commutation Point 
+>>>>mapEditor.mapEditor.waitingPoint 的更新记录：Waiting Point  ---> Waiting Point 
+>>>>mapEditor.mapEditor.robotReversing 的更新记录：Robot Rotatable  ---> Robot Rotatable 
+>>>>mapEditor.mapEditor.channelType 的更新记录：Channel Type  ---> Channel Type 
+>>>>mapEditor.mapEditor.channelNumber 的更新记录：Channel Number  ---> Channel Number 
+>>>>mapEditor.mapEditor.channelPointFlag 的更新记录：Avoidance Point  ---> Avoidance Point 
+>>>>mapEditor.mapEditor.SelectYes 的更新记录：Yes  ---> Yes 
+>>>>mapEditor.mapEditor.SelectNo 的更新记录：No  ---> No 
+>>>>mapEditor.mapEditor.singleChannel 的更新记录：Single Channel Point  ---> Single Channel Point 
+>>>>mapEditor.mapEditor.singleAvoidChannel 的更新记录：Single Channel Avoidance Point  ---> Single Channel Avoidance Point 
+>>>>mapEditor.mapEditor.scanRange 的更新记录：Scan Range  ---> Scan Range 
+>>>>mapEditor.mapEditor.agvDirection 的更新记录：Robot Direction  ---> Robot Direction 
+>>>>mapEditor.mapEditor.shelfDirection 的更新记录：Rack Direction  ---> Rack Direction 
+>>>>mapEditor.mapEditor.slamMapCode 的更新记录：Slam Map Code  ---> Slam Map Code 
+>>>>mapEditor.mapEditor.standbyParameter01 的更新记录：Standby parameter 01  ---> Standby parameter 01 
+>>>>mapEditor.mapEditor.standbyParameter02 的更新记录：Standby parameter 02  ---> Standby parameter 02 
+>>>>mapEditor.mapEditor.standbyParameter03 的更新记录：Standby parameter 03  ---> Standby parameter 03 
+>>>>mapEditor.mapEditor.startPointGuidanceMode 的更新记录：Start Point Guidance Mode  ---> Start Point Guidance Mode 
+>>>>mapEditor.mapEditor.endPointGuidanceMode 的更新记录：End Point Guidance Mode  ---> End Point Guidance Mode 
+>>>>mapEditor.mapEditor.pointGuidanceMode_null 的更新记录：Empty  ---> Empty 
+>>>>mapEditor.mapEditor.pointGuidanceMode_reflector 的更新记录：ReflectLight  ---> ReflectLight 
+>>>>mapEditor.mapEditor.pointGuidanceMode_vision 的更新记录：Visual Sense  ---> Visual Sense 
+>>>>mapEditor.mapEditor.pointGuidanceMode_shelfLeg 的更新记录：Rackleg  ---> Rackleg 
+>>>>mapEditor.mapEditor.reflectorInternalSpacing 的更新记录：Reflector Internal Spacing  ---> Reflector Internal Spacing 
+>>>>mapEditor.mapEditor.reflectorDistance 的更新记录：Reflector Distance  ---> Reflector Distance 
+>>>>mapEditor.mapEditor.barCodeHeight 的更新记录：QR Code Height  ---> QR Code Height 
+>>>>mapEditor.mapEditor.barCodeWidth 的更新记录：QR Code Width  ---> QR Code Width 
+>>>>mapEditor.mapEditor.obstacleCode 的更新记录：Obstacle Code  ---> Obstacle Code 
+>>>>mapEditor.mapEditor.displayType 的更新记录：Display Type  ---> Display Type 
+>>>>mapEditor.mapEditor.xTotalLength 的更新记录：Length of X axis  ---> Length of X axis 
+>>>>mapEditor.mapEditor.yTotalLength 的更新记录：Length Of Y Axis  ---> Length Of Y Axis 
+>>>>mapEditor.mapEditor.addEdgeData 的更新记录：Add Edge Data  ---> Add Edge Data 
+>>>>mapEditor.mapEditor.property 的更新记录：Attribute  ---> Attribute 
+>>>>mapEditor.mapEditor.value 的更新记录：Value  ---> Value 
+>>>>mapEditor.mapEditor.editMap 的更新记录：Edit Map  ---> Edit Map 
+>>>>mapEditor.mapEditor.warehouseCode 的更新记录：Warehouse Code  ---> Warehouse Code 
+>>>>mapEditor.mapEditor.noSpacesAllowed 的更新记录：No spaces allowed  ---> No spaces allowed 
+>>>>mapEditor.mapEditor.zeroNoAllowed 的更新记录：Must be a number and cannot be zero  ---> Must be a number and cannot be zero 
+>>>>mapEditor.mapEditor.mapCode 的更新记录：Map Code  ---> Map Code 
+>>>>mapEditor.mapEditor.ml20 的更新记录：MaximumLength 20  ---> MaximumLength 20 
+>>>>mapEditor.mapEditor.mapName 的更新记录：Map Name  ---> Map Name 
+>>>>mapEditor.mapEditor.mapVersion 的更新记录：Map Version  ---> Map Version 
+>>>>mapEditor.mapEditor.mapLength 的更新记录：Map Length(mm)  ---> Map Length(mm) 
+>>>>mapEditor.mapEditor.mapWidth 的更新记录：Map Width(mm)  ---> Map Width(mm) 
+>>>>mapEditor.mapEditor.xAxisSpacing 的更新记录：X Axis Spacing(mm)  ---> X Axis Spacing(mm) 
+>>>>mapEditor.mapEditor.yAxisSpacing 的更新记录：Y Axis Spacing(mm)  ---> Y Axis Spacing(mm) 
+>>>>mapEditor.mapEditor.newFile 的更新记录：New(N)  ---> New(N) 
+>>>>mapEditor.mapEditor.open 的更新记录：Open(O)  ---> Open(O) 
+>>>>mapEditor.mapEditor.update 的更新记录：Publish(U)  ---> Publish(U) 
+>>>>mapEditor.mapEditor.download 的更新记录：Download(D)  ---> Download(D) 
+>>>>mapEditor.mapEditor.downloadTemplate 的更新记录：Download CodePoint Template(T)  ---> Download CodePoint Template(T) 
+>>>>mapEditor.mapEditor.A1 的更新记录：Code Point Type  ---> Code Point Type 
+>>>>mapEditor.mapEditor.A2 的更新记录：Path Point  ---> Path Point 
+>>>>mapEditor.mapEditor.A3 的更新记录：Storage Point  ---> Storage Point 
+>>>>mapEditor.mapEditor.B1 的更新记录：X Coordinates  ---> X Coordinates 
+>>>>mapEditor.mapEditor.C1 的更新记录：Y Coordinates  ---> Y Coordinates 
+>>>>mapEditor.mapEditor.problemWithXYIntegerValue 的更新记录：Coordinate({0},{1})exists decimal number，please check No.{2} line，modify correctly and import it again  ---> Coordinate({0},{1})exists decimal number，please check No.{2} line，modify correctly and import it again 
+>>>>mapEditor.mapEditor.problemWithXYPositiveValue 的更新记录：Coordinate({0},{1})exists negative number，please check No.{2} line，modify correctly and import it again  ---> Coordinate({0},{1})exists negative number，please check No.{2} line，modify correctly and import it again 
+>>>>mapEditor.mapEditor.problemWithPointTypeValue 的更新记录：Coordinate({0},{1})should not exists {2} point type，please check No.{3} line，modify correctly and import it again  ---> Coordinate({0},{1})should not exists {2} point type，please check No.{3} line，modify correctly and import it again 
+>>>>mapEditor.mapEditor.genPath 的更新记录：Created Path  ---> Created Path 
+>>>>mapEditor.mapEditor.spaceBetween 的更新记录：Space Between  ---> Space Between 
+>>>>mapEditor.mapEditor.mapDataCheck 的更新记录：Map data check(R)  ---> Map data check(R) 
+>>>>mapEditor.mapEditor.mapConnectivityCheck 的更新记录：Map Connectivity Check(C)  ---> Map Connectivity Check(C) 
+>>>>mapEditor.mapEditor.guideLine 的更新记录：Guide Line  ---> Guide Line 
+>>>>mapEditor.mapEditor.mapReset 的更新记录：Reset  ---> Reset 
+>>>>mapEditor.mapEditor.mapAttribute 的更新记录：Map attribute(M)  ---> Map attribute(M) 
+>>>>mapEditor.mapEditor.Obstacle 的更新记录：Obstacle(W)  ---> Obstacle(W) 
+>>>>mapEditor.mapEditor.modifyDimensions 的更新记录：Modify Dimensions(S)  ---> Modify Dimensions(S) 
+>>>>mapEditor.mapEditor.enforcementResults 的更新记录：Results Of Enforcement  ---> Results Of Enforcement 
+>>>>mapEditor.mapEditor.close 的更新记录：Close  ---> Close 
+>>>>mapEditor.mapEditor.mapPublish 的更新记录：Map Publish  ---> Map Publish 
+>>>>mapEditor.mapEditor.pulishTip 的更新记录：[important] please confirm [map data check result] and [connectivity check result] and then release the new version of map file to the system  ---> [important] please confirm [map data check result] and [connectivity check result] and then release the new version of map file to the system 
+>>>>mapEditor.mapEditor.modal.update 的更新记录：Publish  ---> Publish 
+>>>>mapEditor.mapEditor.modal.updateAndOnline 的更新记录：Update And Online  ---> Update And Online 
+>>>>mapEditor.mapEditor.modal.selectedVersion 的更新记录：Selected Version  ---> Selected Version 
+>>>>mapEditor.mapEditor.version 的更新记录：Select map format version.  ---> Select map format version. 
+>>>>mapEditor.mapEditor.oldVersion 的更新记录：Old Map Format Version (< 2.5.2)  ---> Old Map Format Version (< 2.5.2) 
+>>>>mapEditor.mapEditor.newVersion 的更新记录：New Map Format Version (> = 2.5.2)  ---> New Map Format Version (> = 2.5.2) 
+>>>>mapEditor.mapEditor.oldContent 的更新记录：The map pointcode format adopts the old format(Similar to 'WH_kckq_XA236B', it can be viewed by clicking the point attribute on the central control). If the system running is lower than 2.5.2 or the map currently used on site is generated before the system version 2.5.2, please select this option  ---> The map pointcode format adopts the old format(Similar to 'WH_kckq_XA236B', it can be viewed by clicking the point attribute on the central control). If the system running is lower than 2.5.2 or the map currently used on site is generated before the system version 2.5.2, please select this option 
+>>>>mapEditor.mapEditor.newContent 的更新记录：Please select this option when the map pointcode format is in a new format(Similar to 'XA236B', it can be viewed by clicking the point attribute on the central control), the system version is higher than 2.5.2 (included), and the first version of the map is generated using the map editing tool after 2.5.2.{:warning}  ---> Please select this option when the map pointcode format is in a new format(Similar to 'XA236B', it can be viewed by clicking the point attribute on the central control), the system version is higher than 2.5.2 (included), and the first version of the map is generated using the map editing tool after 2.5.2.{:warning} 
+>>>>mapEditor.mapEditor.warningMessage 的更新记录：If the current map is generated by the old system version, and the site is already in use, please do not select this item, otherwise the map pointcode will change, the location information of all objects will be lost, and the system will not be available!!  ---> If the current map is generated by the old system version, and the site is already in use, please do not select this item, otherwise the map pointcode will change, the location information of all objects will be lost, and the system will not be available!! 
+>>>>mapEditor.mapEditor.customGuideLine 的更新记录：Custom Guide Line  ---> Custom Guide Line 
+>>>>mapEditor.mapEditor.number 的更新记录：Quantity  ---> Quantity 
+>>>>mapEditor.mapEditor.startingPoint 的更新记录：Starting point(mm)  ---> Starting point(mm) 
+>>>>mapEditor.mapEditor.relativeDistance 的更新记录：Relative Distance(mm)  ---> Relative Distance(mm) 
+>>>>mapEditor.mapEditor.spacing 的更新记录：Spacing(Mm)  ---> Spacing(Mm) 
+>>>>mapEditor.mapEditor.customEdgeRelationship 的更新记录：Custom Edge Relationship  ---> Custom Edge Relationship 
+>>>>mapEditor.mapEditor.direction 的更新记录：Direction  ---> Direction 
+>>>>mapEditor.mapEditor.robotType 的更新记录：Robot Type  ---> Robot Type 
+>>>>mapEditor.mapEditor.robotCarrierState 的更新记录：Transport State  ---> Transport State 
+>>>>mapEditor.mapEditor.cost 的更新记录：Cost  ---> Cost 
+>>>>mapEditor.mapEditor.maxSpeed 的更新记录：Maximum Speed  ---> Maximum Speed 
+>>>>mapEditor.mapEditor.stopAllowedAtTerminal 的更新记录：Stop Allowed At End  ---> Stop Allowed At End 
+>>>>mapEditor.mapEditor.availableAgvDirection 的更新记录：Robot Direction  ---> Robot Direction 
+>>>>mapEditor.mapEditor.allow 的更新记录：Allow  ---> Allow 
+>>>>mapEditor.mapEditor.forbidden 的更新记录：Disable  ---> Disable 
+>>>>mapEditor.mapEditor.isCurvedTurn 的更新记录：Whether to force arc turning?  ---> Whether to force arc turning? 
+>>>>mapEditor.mapEditor.controlPointsSet1 的更新记录：Arc Turn Control Point 1  ---> Arc Turn Control Point 1 
+>>>>mapEditor.mapEditor.controlPointsSet2 的更新记录：Arc Turn Control Point 2  ---> Arc Turn Control Point 2 
+>>>>mapEditor.mapEditor.ConnectivityCheck 的更新记录：Connectivity Check  ---> Connectivity Check 
+>>>>mapEditor.mapEditor.mapFile 的更新记录：Map File  ---> Map File 
+>>>>mapEditor.mapEditor.customEqualSpacingCodeValue 的更新记录：Custom Equal Spacing Code Value  ---> Custom Equal Spacing Code Value 
+>>>>mapEditor.mapEditor.updateMode 的更新记录：Update Mode  ---> Update Mode 
+>>>>mapEditor.mapEditor.globalUpdate 的更新记录：Global Update  ---> Global Update 
+>>>>mapEditor.mapEditor.selectAreaUpdate 的更新记录：Select Area Update  ---> Select Area Update 
+>>>>mapEditor.mapEditor.xCoefficient 的更新记录：X Coefficient  ---> X Coefficient 
+>>>>mapEditor.mapEditor.xSpacing 的更新记录：X Spacing  ---> X Spacing 
+>>>>mapEditor.mapEditor.yCoefficient 的更新记录：Y Coefficient  ---> Y Coefficient 
+>>>>mapEditor.mapEditor.ySpacing 的更新记录：Y Spacing  ---> Y Spacing 
+>>>>mapEditor.mapEditor.customUnequalSpacingCodeValue 的更新记录：Custom Unequal Spacing Code Value  ---> Custom Unequal Spacing Code Value 
+>>>>mapEditor.mapEditor.startingPointEncoding 的更新记录：Starting Point Code  ---> Starting Point Code 
+>>>>mapEditor.mapEditor.codePointInterval 的更新记录：Code Point Interval  ---> Code Point Interval 
+>>>>mapEditor.mapEditor.deleteGuideLine 的更新记录：Delete Guide Line  ---> Delete Guide Line 
+>>>>mapEditor.mapEditor.guideLineType 的更新记录：Guide Line Type  ---> Guide Line Type 
+>>>>mapEditor.mapEditor.deleteCustomEdge 的更新记录：Delete Custom Edge  ---> Delete Custom Edge 
+>>>>mapEditor.mapEditor.deletePpointAssociation 的更新记录：Delete Point Association  ---> Delete Point Association 
+>>>>mapEditor.mapEditor.customPointAssociation 的更新记录：Custom Point Association  ---> Custom Point Association 
+>>>>mapEditor.mapEditor.associatedDirection 的更新记录：Direction Of Association  ---> Direction Of Association 
+>>>>mapEditor.mapEditor.associationType 的更新记录：Association Type  ---> Association Type 
+>>>>mapEditor.mapEditor.orientation 的更新记录：Orientation  ---> Orientation 
+>>>>mapEditor.mapEditor.instructionCode 的更新记录：Instruction Code  ---> Instruction Code 
+>>>>mapEditor.mapEditor.relationPathCode 的更新记录：Unique Code  ---> Unique Code 
+>>>>mapEditor.mapEditor.jumpX 的更新记录：Jump X Coordinate(mm)  ---> Jump X Coordinate(mm) 
+>>>>mapEditor.mapEditor.jumpY 的更新记录：Jump Y Coordinate(mm)  ---> Jump Y Coordinate(mm) 
+>>>>mapEditor.mapEditor.editMapProperties 的更新记录：Edit Map Properties  ---> Edit Map Properties 
+>>>>mapEditor.mapEditor.currentVersion 的更新记录：Current Version  ---> Current Version 
+>>>>mapEditor.mapEditor.historicalVersion 的更新记录：Historical Version  ---> Historical Version 
+>>>>mapEditor.mapEditor.customVirtualWall 的更新记录：Custom Virtual Wall  ---> Custom Virtual Wall 
+>>>>mapEditor.mapEditor.xCoordinates 的更新记录：X Coordinates(mm)  ---> X Coordinates(mm) 
+>>>>mapEditor.mapEditor.yCoordinates 的更新记录：Y Coordinates(mm)  ---> Y Coordinates(mm) 
+>>>>mapEditor.mapEditor.xAxisPositiveAngle 的更新记录：X-Axis Positive Angle(°)  ---> X-Axis Positive Angle(°) 
+>>>>mapEditor.mapEditor.xAxisLength 的更新记录：X Axis Length(mm)  ---> X Axis Length(mm) 
+>>>>mapEditor.mapEditor.yAxisLength 的更新记录：Y Axis Length(mm)  ---> Y Axis Length(mm) 
+>>>>mapEditor.mapEditor.modal.modifyDimensions 的更新记录：Modify Dimensions  ---> Modify Dimensions 
+>>>>mapEditor.mapEditor.modal.modifyDirection 的更新记录：Modify Direction  ---> Modify Direction 
+>>>>mapEditor.mapEditor.xAxis 的更新记录：X Axis  ---> X Axis 
+>>>>mapEditor.mapEditor.yAxis 的更新记录：Y Axis  ---> Y Axis 
+>>>>mapEditor.mapEditor.modal.modifyLength 的更新记录：Modify Length(mm)  ---> Modify Length(mm) 
+>>>>mapEditor.mapEditor.modal.enlargeSize 的更新记录：Enlarge Size  ---> Enlarge Size 
+>>>>mapEditor.mapEditor.modal.reduceSize 的更新记录：Reduce Size  ---> Reduce Size 
+>>>>mapEditor.mapEditor.pathPoints 的更新记录：Path Point  ---> Path Point 
+>>>>mapEditor.mapEditor.storagePoint 的更新记录：Storage Point  ---> Storage Point 
+>>>>mapEditor.mapEditor.onlineStop 的更新记录：Online Stop  ---> Online Stop 
+>>>>mapEditor.mapEditor.offlineDocking 的更新记录：Offline Docking Point  ---> Offline Docking Point 
+>>>>mapEditor.mapEditor.chargingPoint 的更新记录：Charging Point  ---> Charging Point 
+>>>>mapEditor.mapEditor.entryPoint 的更新记录：Entry point  ---> Entry point 
+>>>>mapEditor.mapEditor.auxiliaryPoint 的更新记录：Auxiliary Point  ---> Auxiliary Point 
+>>>>mapEditor.mapEditor.forbiddenPoint 的更新记录：Forbidden Point  ---> Forbidden Point 
+>>>>mapEditor.mapEditor.externalSetPoint 的更新记录：External Set Point  ---> External Set Point 
+>>>>mapEditor.mapEditor.barCodeFormulaTip 的更新记录：Code value = (x / X code spacing + X offset) x factor + (Y / Y code spacing + y offset) y factor
+Offset of x = code spacing of field X coordinate map X coordinate / X coordinate
+Offset of y = site y coordinate - map y coordinate / code spacing of Y coordinate  ---> Code value = (x / X code spacing + X offset) x factor + (Y / Y code spacing + y offset) y factor
+Offset of x = code spacing of field X coordinate map X coordinate / X coordinate
+Offset of y = site y coordinate - map y coordinate / code spacing of Y coordinate 
+>>>>mapEditor.mapEditor.mapLayer 的更新记录：Map Layer  ---> Map Layer 
+>>>>mapEditor.mapEditor.codePoint 的更新记录：Code Point  ---> Code Point 
+>>>>mapEditor.mapEditor.edgeRelationship 的更新记录：Edge Relationship  ---> Edge Relationship 
+>>>>mapEditor.mapEditor.pointRelation 的更新记录：Point Relation  ---> Point Relation 
+>>>>mapEditor.mapEditor.up 的更新记录：Up  ---> Up 
+>>>>mapEditor.mapEditor.down 的更新记录：Down  ---> Down 
+>>>>mapEditor.mapEditor.left 的更新记录：Left  ---> Left 
+>>>>mapEditor.mapEditor.right 的更新记录：Right  ---> Right 
+>>>>mapEditor.mapEditor.leftUpper 的更新记录：Left Upper  ---> Left Upper 
+>>>>mapEditor.mapEditor.leftLower 的更新记录：Left Lower  ---> Left Lower 
+>>>>mapEditor.mapEditor.rightUpper 的更新记录：Right Upper  ---> Right Upper 
+>>>>mapEditor.mapEditor.rightLower 的更新记录：Right Lower  ---> Right Lower 
+>>>>mapEditor.mapEditor.forward 的更新记录：Forward  ---> Forward 
+>>>>mapEditor.mapEditor.backward 的更新记录：Backward  ---> Backward 
+>>>>mapEditor.mapEditor.lateral 的更新记录：Lateral  ---> Lateral 
+>>>>mapEditor.mapEditor.omnidirectional 的更新记录：Omnidirectional  ---> Omnidirectional 
+>>>>mapEditor.mapEditor.groupCar 的更新记录：Group Car  ---> Group Car 
+>>>>mapEditor.mapEditor.carToPersonOnline 的更新记录：A2P_ONLINE  ---> A2P_ONLINE 
+>>>>mapEditor.mapEditor.goodsToPeopleOnline 的更新记录：G2P_Online  ---> G2P_Online 
+>>>>mapEditor.mapEditor.goodsToPeopleOffline 的更新记录：G2P_Offline  ---> G2P_Offline 
+>>>>mapEditor.mapEditor.supplyPackage 的更新记录：Sorting_Supply  ---> Sorting_Supply 
+>>>>mapEditor.mapEditor.package 的更新记录：Sorting_Collect  ---> Sorting_Collect 
+>>>>mapEditor.mapEditor.throwingLine 的更新记录：Putting  ---> Putting 
+>>>>mapEditor.mapEditor.sowing 的更新记录：Seed  ---> Seed 
+>>>>mapEditor.mapEditor.invalid 的更新记录：Invalid  ---> Invalid 
+>>>>mapEditor.mapEditor.effective 的更新记录：Effective  ---> Effective 
+>>>>mapEditor.mapEditor.deleted 的更新记录：Deleted  ---> Deleted 
+>>>>mapEditor.mapEditor.none 的更新记录：Null  ---> Null 
+>>>>mapEditor.mapEditor.horizontalGuideLine 的更新记录：Horizontal Guide Line  ---> Horizontal Guide Line 
+>>>>mapEditor.mapEditor.verticalGuideLine 的更新记录：Vertical Guide Line  ---> Vertical Guide Line 
+>>>>mapEditor.mapEditor.parcelDeliver 的更新记录：Parcel Deliver  ---> Parcel Deliver 
+>>>>mapEditor.mapEditor.groundCattleLocate 的更新记录：Ground Cattle Locate  ---> Ground Cattle Locate 
+>>>>mapEditor.mapEditor.workbinFork 的更新记录：Workbin Fork  ---> Workbin Fork 
+>>>>mapEditor.mapEditor.deviceInteraction 的更新记录：Device Interaction  ---> Device Interaction 
+>>>>mapEditor.mapEditor.noLoad 的更新记录：Empty  ---> Empty 
+>>>>mapEditor.mapEditor.allLoadTypes 的更新记录：Load  ---> Load 
+>>>>mapEditor.mapEditor.load1 的更新记录：Load1  ---> Load1 
+>>>>mapEditor.mapEditor.load2 的更新记录：Load2  ---> Load2 
+>>>>mapEditor.mapEditor.load3 的更新记录：Load3  ---> Load3 
+>>>>mapEditor.mapEditor.load4 的更新记录：Load4  ---> Load4 
+>>>>mapEditor.mapEditor.load5 的更新记录：Load5  ---> Load5 
+>>>>mapEditor.mapEditor.load6 的更新记录：Load6  ---> Load6 
+>>>>mapEditor.mapEditor.load7 的更新记录：Load7  ---> Load7 
+>>>>mapEditor.mapEditor.load8 的更新记录：Load8  ---> Load8 
+>>>>mapEditor.mapEditor.notAllow 的更新记录：Not Allow  ---> Not Allow 
+>>>>mapEditor.mapEditor.station 的更新记录：Workstation  ---> Workstation 
+>>>>mapEditor.mapEditor.charger 的更新记录：Charger  ---> Charger 
+>>>>mapEditor.mapEditor.pillar 的更新记录：Pillar  ---> Pillar 
+>>>>mapEditor.mapEditor.wall 的更新记录：Wall  ---> Wall 
+>>>>mapEditor.mapEditor.allRobot 的更新记录：Robot Model - All  ---> Robot Model - All 
+>>>>mapEditor.mapEditor.allLoad 的更新记录：Load status - all  ---> Load status - all 
+>>>>mapEditor.mapEditor.check 的更新记录：Check  ---> Check 
+>>>>mapEditor.mapEditor.detectionResult 的更新记录：Detection Result  ---> Detection Result 
+>>>>mapEditor.mapEditor.no 的更新记录：No  ---> No 
+>>>>mapEditor.mapEditor.yes 的更新记录：Yes  ---> Yes 
+>>>>mapEditor.mapEditor.mapModification 的更新记录：Map Modification  ---> Map Modification 
+>>>>mapEditor.mapEditor.forceDownload 的更新记录：Force Download  ---> Force Download 
+>>>>mapEditor.mapEditor.forceRelease 的更新记录：Force Publish  ---> Force Publish 
+>>>>mapEditor.mapEditor.isForceDownload 的更新记录：Force download or not?  ---> Force download or not? 
+>>>>mapEditor.mapEditor.isForceRelease 的更新记录：Force publish or not?  ---> Force publish or not? 
+>>>>mapEditor.mapEditor.downloadTip 的更新记录：Error: Map data check failed, please modify the map and download again  ---> Error: Map data check failed, please modify the map and download again 
+>>>>mapEditor.mapEditor.publishTip 的更新记录：Error: Map data check failed, please modify the map and publish again  ---> Error: Map data check failed, please modify the map and publish again 
+>>>>mapEditor.mapEditor.noValue 的更新记录：Empty  ---> Empty 
+>>>>mapEditor.mapEditorEdit.title 的更新记录：Edit  ---> Edit 
+>>>>mapEditor.mapEditorEdit.baseInfo 的更新记录：Basic Information  ---> Basic Information 
+>>>>mapEditor.mapEditorEdit.rule.no 的更新记录：Rule Number  ---> Rule Number 
+>>>>mapEditor.mapEditorEdit.status 的更新记录：Status Of Use  ---> Status Of Use 
+>>>>mapEditor.mapEditorEdit.status.close 的更新记录：Close  ---> Close 
+>>>>mapEditor.mapEditorEdit.status.running 的更新记录：Running  ---> Running 
+>>>>mapEditor.mapEditorEdit.status.online 的更新记录：Online  ---> Online 
+>>>>mapEditor.mapEditorEdit.status.ex 的更新记录：Error  ---> Error 
+>>>>mapEditor.mapEditorEdit.callNo 的更新记录：Service Called No  ---> Service Called No 
+>>>>mapEditor.mapEditorEdit.updatedAt 的更新记录：Update Date  ---> Update Date 
+>>>>mapEditor.mapEditorEdit.upload 的更新记录：Upload File  ---> Upload File 
+>>>>mapEditor.mapEditorEdit.table 的更新记录：Table  ---> Table 
+>>>>mapEditor.mapEditorEdit.val 的更新记录：Value  ---> Value 
+>>>>mapEditor.mapEditorEdit.return 的更新记录：Return  ---> Return 
+>>>>mapEditor.mapEditorEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>mapEditor.mapEditorEdit.submit.scs 的更新记录：Submitted Successfully  ---> Submitted Successfully 

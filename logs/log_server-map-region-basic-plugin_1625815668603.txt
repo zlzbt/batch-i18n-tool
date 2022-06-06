@@ -1,0 +1,34 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-map-region-basic-plugin\config\locale\en-US.js: 
+>>>>mapRegionBasic.menu 的更新记录：Area Management  ---> Area Management 
+>>>>mapRegionBasic.menu.edit 的更新记录：Area Management Edit  ---> Area Management Edit 
+>>>>menu.map 的更新记录：Map  ---> Map 
+>>>>mapRegionBasic.common.UnknownReason 的更新记录：Unknown Error  ---> Unknown Error 
+>>>>mapRegionBasic.common.operateSuccessfully 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>mapRegionBasic.mapRegion.title 的更新记录：Area Management  ---> Area Management 
+>>>>mapRegionBasic.mapRegion.zoneId 的更新记录：Zone  ---> Zone 
+>>>>mapRegionBasic.mapRegion.zoneName 的更新记录：Zone Name  ---> Zone Name 
+>>>>mapRegionBasic.mapRegion.zoneCode 的更新记录：Zone Code  ---> Zone Code 
+>>>>mapRegionBasic.mapRegion.areaCode 的更新记录：Area Code  ---> Area Code 
+>>>>mapRegionBasic.mapRegion.areaName 的更新记录：Area Name  ---> Area Name 
+>>>>mapRegionBasic.mapRegion.areaType 的更新记录：Area Type  ---> Area Type 
+>>>>mapRegionBasic.mapRegion.superAreaId 的更新记录：Superior Area Code  ---> Superior Area Code 
+>>>>mapRegionBasic.mapRegion.jsonData 的更新记录：Area Attribute 1  ---> Area Attribute 1 
+>>>>mapRegionBasic.mapRegion.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>mapRegionBasic.mapRegion.createdUser 的更新记录：User Created  ---> User Created 
+>>>>mapRegionBasic.mapRegion.createdTime 的更新记录：Created On  ---> Created On 
+>>>>mapRegionBasic.mapRegion.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>mapRegionBasic.mapRegion.lastUpdatedTime 的更新记录：Modified On  ---> Modified On 
+>>>>mapRegionBasic.mapRegion.remark 的更新记录：Remarks  ---> Remarks 
+>>>>mapRegionBasic.mapRegion.op 的更新记录：Operate  ---> Operate 
+>>>>mapRegionBasic.mapRegion.op.edit 的更新记录：Edit  ---> Edit 
+>>>>mapRegionBasic.mapRegion.btn.new 的更新记录：New  ---> New 
+>>>>mapRegionBasic.mapRegion.btn.import 的更新记录：Import  ---> Import 
+>>>>mapRegionBasic.mapRegion.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>mapRegionBasic.mapRegion.btn.export 的更新记录：Export  ---> Export 
+>>>>mapRegionBasic.mapRegion.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>mapRegionBasic.mapRegion.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>mapRegionBasic.mapRegion.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>mapRegionBasic.mapRegion.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>mapRegionBasic.mapRegionEdit.info 的更新记录：Area Management  ---> Area Management 
+>>>>mapRegionBasic.mapRegionEdit.back 的更新记录：Return  ---> Return 
+>>>>mapRegionBasic.mapRegionEdit.submit 的更新记录：Submit  ---> Submit 

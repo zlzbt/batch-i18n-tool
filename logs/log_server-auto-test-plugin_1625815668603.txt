@@ -1,0 +1,13 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-auto-test-plugin\config\locale\en-US.js: 
+>>>>menu.rcs 的更新记录：RCS  ---> RCS 
+>>>>autoTest.menu 的更新记录：Autotest System  ---> Autotest System 
+>>>>autoTest.list.title 的更新记录：Autotest System  ---> Autotest System 
+>>>>autoTest.list.btn.run 的更新记录：Autotest System Start  ---> Autotest System Start 
+>>>>autoTest.list.btn.close 的更新记录：Autotest System Stop  ---> Autotest System Stop 
+>>>>autoTest.list.choiceScene 的更新记录：Scenario Selection  ---> Scenario Selection 
+>>>>autoTest.list.sceneOfDeliveryToPeople 的更新记录：Mock Goods 2 Person  ---> Mock Goods 2 Person 
+>>>>autoTest.list.sceneOfRollerHandling 的更新记录：Mock Roller  ---> Mock Roller 
+>>>>autoTest.list.sceneOfBinToPerson 的更新记录：Mock Workbin Relay (Incubation)  ---> Mock Workbin Relay (Incubation) 
+>>>>autoTest.list.waitTime 的更新记录：Waiting Time For Workstation Operation (Seconds)  ---> Waiting Time For Workstation Operation (Seconds) 
+>>>>autoTest.list.noVal.minValue 的更新记录：Min Waiting Time Cannot Be Null  ---> Min Waiting Time Cannot Be Null 
+>>>>autoTest.list.noVal.maxValue 的更新记录：Max Waiting Time Cannot Be Null  ---> Max Waiting Time Cannot Be Null 

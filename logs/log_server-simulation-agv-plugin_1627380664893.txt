@@ -1,0 +1,115 @@
+更新国际化文件地址: E:\Quicktcon\basic-platform\evo-simulation-web-dev\server-plugins\server-simulation-agv-plugin\config\locale\en-US.js: 
+>>>>menu.simulation 的更新记录：Simulation Management  ---> Simulation Management 
+>>>>simulationAgv.menu 的更新记录：Simulation Agv Management  ---> Simulation Agv Management 
+>>>>simulationAgv.menu.edit 的更新记录：Simulation Agv Management Edit  ---> Simulation Agv Management Edit 
+>>>>simulationAgvModel.menu 的更新记录：Simulation Agv Model Management  ---> Simulation Agv Model Management 
+>>>>simulationAgvModel.menu.edit 的更新记录：Simulation Agv Model Management Edit  ---> Simulation Agv Model Management Edit 
+>>>>simulationAgvConfig.menu 的更新记录：Simulation Agv Config Center  ---> Simulation Agv Config Center 
+>>>>simulationAgv.common.operateSuccessfully 的更新记录：Operation successful  ---> Operate Successfully 
+>>>>simulationAgv.common.UnknownReason 的更新记录：Unknown reason  ---> Unknown Reason 
+>>>>simulationAgv.list.title 的更新记录：Simulation Agv Management  ---> Simulation Agv Management 
+>>>>simulationAgv.list.powerOn 的更新记录：PowerOn  ---> Robot Start 
+>>>>simulationAgv.list.powerOff 的更新记录：PowerOff  ---> Robot Shutdown  
+>>>>simulationAgv.list.setFault 的更新记录：Set fault  ---> Set Fault 
+>>>>simulationAgv.list.clearFault 的更新记录：Clear fault  ---> Clear Fault 
+>>>>simulationAgv.list.syncRcs 的更新记录：Sync data  ---> Sync Data 
+>>>>simulationAgv.list.magnification 的更新记录：Magnification  ---> Magnification 
+>>>>simulationAgv.list.id 的更新记录：ID  ---> ID 
+>>>>simulationAgv.list.agvCode 的更新记录：Agv code  ---> Robot Code 
+>>>>simulationAgv.list.agvModel 的更新记录：Agv model  ---> Robot Type 
+>>>>simulationAgv.list.ip 的更新记录：IP address  ---> IP Address 
+>>>>simulationAgv.list.mainZoneCode 的更新记录：Main reservoir area code  ---> Main Zone Code 
+>>>>simulationAgv.list.validState 的更新记录：Valid state  ---> Data Status 
+>>>>simulationAgv.list.createdUser 的更新记录：Created user  ---> User Created 
+>>>>simulationAgv.list.createdTime 的更新记录：Created time  ---> Created On 
+>>>>simulationAgv.list.lastUpdatedUser 的更新记录：Editor  ---> User Modified 
+>>>>simulationAgv.list.lastUpdatedTime 的更新记录：Edit time  ---> Modified On 
+>>>>simulationAgv.list.agvModelCode 的更新记录：Agv model code  ---> Robot Type Code 
+>>>>simulationAgv.list.firstClassification 的更新记录：First classification  ---> Class I 
+>>>>simulationAgv.list.agvOperationArea 的更新记录：Agv operation area  ---> Robot Operation Zone Set 
+>>>>simulationAgv.list.zoneCode 的更新记录：Zone code  ---> Main Zone Code 
+>>>>simulationAgv.list.chargingPortType 的更新记录：Charging portType  ---> Charging Port Type 
+>>>>simulationAgv.list.walkingSurface 的更新记录：Walking surface  ---> Walking Face 
+>>>>simulationAgv.list.navigationMode 的更新记录：Navigation mode  ---> Navigation Mode 
+>>>>simulationAgv.list.agvPoint 的更新记录：Agv point  ---> Register Position 
+>>>>simulationAgv.list.agvPower 的更新记录：Agv power  ---> Agv Power 
+>>>>simulationAgv.list.onLoadStatus 的更新记录：Onload status  ---> Onload Status 
+>>>>simulationAgv.list.shelfCode 的更新记录：Rack code  ---> Rack Code 
+>>>>simulationAgv.list.bucketDirection 的更新记录：Rack face  ---> Rack Face 
+>>>>simulationAgv.list.operatingSystem 的更新记录：Operating system  ---> Operating System 
+>>>>simulationAgv.list.MacAddress 的更新记录：Mac address  ---> MAC Address 
+>>>>simulationAgv.list.op 的更新记录：Operation  ---> Operate 
+>>>>simulationAgv.list.op.edit 的更新记录：Edit  ---> Edit 
+>>>>simulationAgv.list.faultCode 的更新记录：Fault code  ---> Fault Code 
+>>>>simulationAgv.list.magnification05 的更新记录：Magnification 0.5x  ---> Magnification 0.5x 
+>>>>simulationAgv.list.magnification10 的更新记录：Magnification 1.0x  ---> Magnification 1.0x 
+>>>>simulationAgv.list.magnification20 的更新记录：Magnification 2.0x  ---> Magnification 2.0x 
+>>>>simulationAgv.list.magnification40 的更新记录：Magnification 4.0x  ---> Magnification 4.0x 
+>>>>simulationAgv.list.state 的更新记录：State  ---> Status 
+>>>>simulationAgv.edit.title 的更新记录：Simulation Agv Management Edit  ---> Simulation Agv Management Edit 
+>>>>simulationAgv.edit.agvCode 的更新记录：Agv code  ---> Robot Code 
+>>>>simulationAgv.edit.agvModelCode 的更新记录：Agv model code  ---> Robot Type Code 
+>>>>simulationAgv.edit.agvModelName 的更新记录：Agv model name  ---> Robot Type Name 
+>>>>simulationAgv.edit.agvPoint 的更新记录：Register position  ---> Register Position 
+>>>>simulationAgv.edit.agvPower 的更新记录：Agv power  ---> Agv Power 
+>>>>simulationAgv.edit.onLoadStatus 的更新记录：Onload status  ---> Onload Status 
+>>>>simulationAgv.edit.shelfCode 的更新记录：Rack code  ---> Rack Code 
+>>>>simulationAgv.edit.bucketDirection 的更新记录：Rack face  ---> Rack Face 
+>>>>simulationAgv.edit.submit 的更新记录：Submit  ---> Submit 
+>>>>simulationAgv.edit.back 的更新记录：Back  ---> Return 
+>>>>simulationAgv.edit.load 的更新记录：Load  ---> Load 
+>>>>simulationAgv.edit.unLoad 的更新记录：Unload  ---> Unload 
+>>>>simulationAgv.edit.heading 的更新记录：Agv direction  ---> Robot Direction 
+>>>>simulationAgv.modelList.title 的更新记录：Simulation Agv Model Management  ---> Simulation Agv Model Management 
+>>>>simulationAgv.modelList.agvModelCode 的更新记录：Agv model code  ---> Robot Type Code 
+>>>>simulationAgv.modelList.agvModelName 的更新记录：Agv model name  ---> Robot Type Name 
+>>>>simulationAgv.modelList.speed 的更新记录：Speed  ---> Speed 
+>>>>simulationAgv.modelList.acceleration 的更新记录：Acceleration  ---> Acceleration 
+>>>>simulationAgv.modelList.angularVelocity 的更新记录：Angular velocity  ---> Angular Velocity 
+>>>>simulationAgv.modelList.angularAcceleration 的更新记录：Angular acceleration  ---> Angular Acceleration 
+>>>>simulationAgv.modelList.liftSimulationTimeCost 的更新记录：Lift simulation time  ---> Lift Simulation Time 
+>>>>simulationAgv.modelList.putDownSimulationTimeCost 的更新记录：Putdown simulation time  ---> Putdown Simulation Time 
+>>>>simulationAgv.modelList.secondLiftSimulationTimeCost 的更新记录：Second lift simulation time  ---> Second Lift Simulation Time 
+>>>>simulationAgv.modelList.secondPutDownSimulationTimeCost 的更新记录：Second putdown simulation time  ---> Second Putdown Simulation Time 
+>>>>simulationAgv.modelList.pickUpTime 的更新记录：Pick up time  ---> Pick Up Time 
+>>>>simulationAgv.modelList.deliveryTime 的更新记录：Delivery time  ---> Delivery Time 
+>>>>simulationAgv.modelList.chargingTime 的更新记录：Charging time  ---> Charging Time 
+>>>>simulationAgv.modelList.noLoadPowerTime 的更新记录：No load power time  ---> No Load Power Time 
+>>>>simulationAgv.modelList.fullLoadPowerTime 的更新记录：Full load power time  ---> Full Load Power Time 
+>>>>simulationAgv.modelList.createdUser 的更新记录：Created user  ---> User Created 
+>>>>simulationAgv.modelList.createdTime 的更新记录：Created time  ---> Created On 
+>>>>simulationAgv.modelList.lastUpdatedUser 的更新记录：Editor  ---> User Modified 
+>>>>simulationAgv.modelList.lastUpdatedTime 的更新记录：Edit time  ---> Modified On 
+>>>>simulationAgv.modelList.op 的更新记录：Operation  ---> Operate 
+>>>>simulationAgv.modelList.op.edit 的更新记录：Edit  ---> Edit 
+>>>>simulationAgv.modelEdit.title 的更新记录：Simulation Agv Model Management Edit  ---> Simulation Agv Model Management Edit 
+>>>>simulationAgv.modelEdit.agvModelCode 的更新记录：Agv model code  ---> Robot Type Code 
+>>>>simulationAgv.modelEdit.agvModelName 的更新记录：Agv model name  ---> Robot Type Name 
+>>>>simulationAgv.modelEdit.speed 的更新记录：Speed  ---> Speed 
+>>>>simulationAgv.modelEdit.acceleration 的更新记录：Acceleration  ---> Acceleration 
+>>>>simulationAgv.modelEdit.angularVelocity 的更新记录：Angular velocity  ---> Angular Velocity 
+>>>>simulationAgv.modelEdit.angularAcceleration 的更新记录：Angular acceleration  ---> Angular Acceleration 
+>>>>simulationAgv.modelEdit.liftSimulationTimeCost 的更新记录：Lift simulation time  ---> Lift Simulation Time 
+>>>>simulationAgv.modelEdit.putDownSimulationTimeCost 的更新记录：Putdown simulation time  ---> Putdown Simulation Time 
+>>>>simulationAgv.modelEdit.secondLiftSimulationTimeCost 的更新记录：Second lift simulation time  ---> Second Lift Simulation Time 
+>>>>simulationAgv.modelEdit.secondPutDownSimulationTimeCost 的更新记录：Second putdown simulation time  ---> Second Putdown Simulation Time 
+>>>>simulationAgv.modelEdit.pickUpTime 的更新记录：Pick up time  ---> Pick Up Time 
+>>>>simulationAgv.modelEdit.deliveryTime 的更新记录：Delivery time  ---> Delivery Time 
+>>>>simulationAgv.modelEdit.chargingTime 的更新记录：Charging time  ---> Charging Time 
+>>>>simulationAgv.modelEdit.noLoadPowerTime 的更新记录：No load power time  ---> No Load Power Time 
+>>>>simulationAgv.modelEdit.fullLoadPowerTime 的更新记录：Full load power time  ---> Full Load Power Time 
+>>>>simulationAgv.modelEdit.createdUser 的更新记录：Created user  ---> User Created 
+>>>>simulationAgv.modelEdit.createdTime 的更新记录：Created time  ---> Created On 
+>>>>simulationAgv.modelEdit.lastUpdatedUser 的更新记录：Editor  ---> User Modified 
+>>>>simulationAgv.modelEdit.lastUpdatedTime 的更新记录：Edit time  ---> Modified On 
+>>>>simulationAgv.modelEdit.back 的更新记录：Back  ---> Return 
+>>>>simulationAgv.modelEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>simulationAgv.config.title 的更新记录：Simulation Agv Config Center  ---> Simulation Agv Config Center 
+>>>>simulationAgv.config.RefreshRate 的更新记录：Refresh rate  ---> Refresh Rate 
+>>>>simulationAgv.config.ErrorRate 的更新记录：Error rate  ---> Error Rate 
+>>>>simulationAgv.config.RecoveryTime 的更新记录：Recovery time  ---> Recovery Time 
+>>>>simulationAgv.config.PowerReduce 的更新记录：Power reduce  ---> Power Reduce 
+>>>>simulationAgv.config.RefreshIntervalTime 的更新记录：Refresh interval time  ---> Refresh Interval Time 
+>>>>simulationAgv.config.NormalFrameReportPeriod 的更新记录：Normal frame report period  ---> Normal Frame Report Period 
+>>>>simulationAgv.config.back 的更新记录：Back  ---> Return 
+>>>>simulationAgv.config.submit 的更新记录：Submit  ---> Submit 

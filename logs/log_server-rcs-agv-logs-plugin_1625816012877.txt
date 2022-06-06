@@ -1,0 +1,1 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-rcs-agv-logs-plugin\config\locale\en-US.js: 

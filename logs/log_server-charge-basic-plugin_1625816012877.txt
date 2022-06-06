@@ -1,0 +1,3 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-charge-basic-plugin\config\locale\en-US.js: 
+>>>>chargeBasic.menu.edit 的更新记录：Charger Management-Edit  ---> Charger Management-Edit 
+>>>>chargeBasic.chargeEdit.title 的更新记录：Charger Management-Edit  ---> Charger Management-Edit 

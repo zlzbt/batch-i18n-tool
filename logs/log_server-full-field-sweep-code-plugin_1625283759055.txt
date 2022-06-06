@@ -1,0 +1,68 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-full-field-sweep-code-plugin\config\locale\en-US.js: 
+>>>>fullFieldSweepCode.menu 的更新记录：Ground Code Validation  ---> Ground Code Validation 
+>>>>report.menu 的更新记录：View Report  ---> View Report 
+>>>>fullFieldSweepCode.common.operateSuccessfully 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>fullFieldSweepCode.list.title 的更新记录：Ground Code Validation  ---> Ground Code Validation 
+>>>>fullFieldSweepCode.list.taskTime 的更新记录：Job Duration  ---> Job Duration 
+>>>>fullFieldSweepCode.list.taskState 的更新记录：Job State  ---> Job State 
+>>>>fullFieldSweepCode.list.taskId 的更新记录：Job Id  ---> Job Id 
+>>>>fullFieldSweepCode.list.totalNumber 的更新记录：Total Qty  ---> Total Qty 
+>>>>fullFieldSweepCode.list.unverifiedNumber 的更新记录：Pending Amount  ---> Pending Amount 
+>>>>fullFieldSweepCode.list.validatedNumber 的更新记录：Validated Amount  ---> Validated Amount 
+>>>>fullFieldSweepCode.list.normalNumber 的更新记录：Abnormal Code Amount  ---> Abnormal Code Amount 
+>>>>fullFieldSweepCode.list.abnormalNumber 的更新记录：Abnormal Code Amount  ---> Abnormal Code Amount 
+>>>>fullFieldSweepCode.list.errorNumber 的更新记录：Mismatched Amount  ---> Mismatched Amount 
+>>>>fullFieldSweepCode.list.notNumber 的更新记录：No Code Amount  ---> No Code Amount 
+>>>>fullFieldSweepCode.list.wrongNumber 的更新记录：Direction Err Number  ---> Direction Err Number 
+>>>>fullFieldSweepCode.list.deviationNumber 的更新记录：Large Deviation Amount  ---> Large Deviation Amount 
+>>>>fullFieldSweepCode.list.distributionTime 的更新记录：Issuing Time  ---> Issuing Time 
+>>>>fullFieldSweepCode.list.op 的更新记录：Operate  ---> Operate 
+>>>>fullFieldSweepCode.list.report 的更新记录：View Report  ---> View Report 
+>>>>fullFieldSweepCode.list.export 的更新记录：Export Report  ---> Export Report 
+>>>>fullFieldSweepCode.list.cancelTask 的更新记录：Cancel Job  ---> Cancel Job 
+>>>>fullFieldSweepCode.list.verifyExceptionCode 的更新记录：Verify Exception Code  ---> Verify Exception Code 
+>>>>fullFieldSweepCode.list.verifyGroundCode 的更新记录：Validate Ground Code  ---> Validate Ground Code 
+>>>>fullFieldSweepCode.list.verifyGroundCode.form.agvNumber 的更新记录：Please Select The Number Of Verification Robots  ---> Please Select The Number Of Verification Robots 
+>>>>fullFieldSweepCode.list.verifyGroundCode.form.multipleVehicles 的更新记录：Multiple Robots For Verification  ---> Multiple Robots For Verification 
+>>>>fullFieldSweepCode.list.verifyGroundCode.form.oneVehicles 的更新记录：One Robot For Verification  ---> One Robot For Verification 
+>>>>fullFieldSweepCode.list.verifyGroundCode.form.randomVehicles 的更新记录：Randomly assign an online idle robot.  ---> Randomly assign an online idle robot. 
+>>>>fullFieldSweepCode.list.verifyGroundCode.form.designatedVehicles 的更新记录：Assign An Online Free Robot  ---> Assign An Online Free Robot 
+>>>>fullFieldSweepCode.list.verifyGroundCode.form.agvCode 的更新记录：Robot Code  ---> Robot Code 
+>>>>fullFieldSweepCode.list.pending 的更新记录：Pending  ---> Pending 
+>>>>fullFieldSweepCode.list.doing 的更新记录：Doing  ---> Doing 
+>>>>fullFieldSweepCode.list.cancel 的更新记录：Cancel  ---> Cancel 
+>>>>fullFieldSweepCode.list.done 的更新记录：Done  ---> Done 
+>>>>fullFieldSweepCode.report.title 的更新记录：View Report  ---> View Report 
+>>>>fullFieldSweepCode.report.export 的更新记录：Export Report  ---> Export Report 
+>>>>fullFieldSweepCode.report.verifyExceptionCode 的更新记录：Verify Exception Code  ---> Verify Exception Code 
+>>>>fullFieldSweepCode.report.back 的更新记录：Return  ---> Return 
+>>>>fullFieldSweepCode.report.reportTitle 的更新记录：Validate Ground Code Result  ---> Validate Ground Code Result 
+>>>>fullFieldSweepCode.report.taskState 的更新记录：Job State  ---> Job State 
+>>>>fullFieldSweepCode.report.taskId 的更新记录：Job Id  ---> Job Id 
+>>>>fullFieldSweepCode.report.totalNumber 的更新记录：Total Qty  ---> Total Qty 
+>>>>fullFieldSweepCode.report.unverifiedNumber 的更新记录：Pending Amount  ---> Pending Amount 
+>>>>fullFieldSweepCode.report.validatedNumber 的更新记录：Validated Amount  ---> Validated Amount 
+>>>>fullFieldSweepCode.report.normalNumber 的更新记录：Normal Code Amount  ---> Normal Code Amount 
+>>>>fullFieldSweepCode.report.abnormalNumber 的更新记录：Abnormal Code Amount  ---> Abnormal Code Amount 
+>>>>fullFieldSweepCode.report.errorNumber 的更新记录：Mismatched Amount  ---> Mismatched Amount 
+>>>>fullFieldSweepCode.report.notNumber 的更新记录：No Code Amount  ---> No Code Amount 
+>>>>fullFieldSweepCode.report.wrongNumber 的更新记录：Direction Err Number  ---> Direction Err Number 
+>>>>fullFieldSweepCode.report.deviationNumber 的更新记录：Large Deviation Amount  ---> Large Deviation Amount 
+>>>>fullFieldSweepCode.report.distributionTime 的更新记录：Issuing Time  ---> Issuing Time 
+>>>>fullFieldSweepCode.report.anomalyDetails 的更新记录：Anomaly Details  ---> Anomaly Details 
+>>>>fullFieldSweepCode.report.exceptionCodeNumber 的更新记录：Exception Codes Total Number  ---> Exception Codes Total Number 
+>>>>fullFieldSweepCode.report.pointCode 的更新记录：Point Code  ---> Point Code 
+>>>>fullFieldSweepCode.report.mapCoordinates 的更新记录：Map coordinates  ---> Map coordinates 
+>>>>fullFieldSweepCode.report.mapCode 的更新记录：Map Code  ---> Map Code 
+>>>>fullFieldSweepCode.report.actualReadCcode 的更新记录：Actual Read code  ---> Actual Read code 
+>>>>fullFieldSweepCode.report.wrongCodeTotalNumber 的更新记录：Direction Error Codes Total Number  ---> Direction Error Codes Total Number 
+>>>>fullFieldSweepCode.report.deviationCodeTotalNumber 的更新记录：Large Deviation Code Total Number  ---> Large Deviation Code Total Number 
+>>>>fullFieldSweepCode.report.notCodeTotalNumber 的更新记录：Not Code Total Number  ---> Not Code Total Number 
+>>>>fullFieldSweepCode.report.noError 的更新记录：There is no abnormality in this code scanning  ---> There is no abnormality in this code scanning 
+>>>>fullFieldSweepCode.report.verifyGroundCode 的更新记录：Validate Ground Code  ---> Validate Ground Code 
+>>>>fullFieldSweepCode.report.verifyGroundCode.form.agvNumber 的更新记录：Please Select The Number Of Verification Robots  ---> Please Select The Number Of Verification Robots 
+>>>>fullFieldSweepCode.report.verifyGroundCode.form.multipleVehicles 的更新记录：Multiple Robots For Verification  ---> Multiple Robots For Verification 
+>>>>fullFieldSweepCode.report.verifyGroundCode.form.oneVehicles 的更新记录：One Robot For Verification  ---> One Robot For Verification 
+>>>>fullFieldSweepCode.report.verifyGroundCode.form.randomVehicles 的更新记录：Randomly assign an online idle robot.  ---> Randomly assign an online idle robot. 
+>>>>fullFieldSweepCode.report.verifyGroundCode.form.designatedVehicles 的更新记录：Assign An Online Free Robot  ---> Assign An Online Free Robot 
+>>>>fullFieldSweepCode.report.verifyGroundCode.form.agvCode 的更新记录：Robot Code  ---> Robot Code 

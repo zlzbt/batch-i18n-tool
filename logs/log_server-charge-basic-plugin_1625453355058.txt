@@ -1,0 +1,48 @@
+更新国际化文件地址: E:\Quicktcon\evo-amr\evo-rcs-web-dev\2.8.2\server-plugins\server-charge-basic-plugin\config\locale\en-US.js: 
+>>>>chargeBasic.menu 的更新记录：Charger Management  ---> Charger Management 
+>>>>chargeBasic.menu.edit 的更新记录：Charger Management  ---> Charger Management 
+>>>>menu.robot 的更新记录：Robot  ---> Robot 
+>>>>chargeBasic.common.operateSuccessfully 的更新记录：Operate Successfully  ---> Operate Successfully 
+>>>>chargeBasic.common.UnknownReason 的更新记录：Unknown Reason  ---> Unknown Reason 
+>>>>chargeBasic.charge.title 的更新记录：Charger Management  ---> Charger Management 
+>>>>chargeBasic.charge.chargerCode 的更新记录：Charger Point Code  ---> Charger Point Code 
+>>>>chargeBasic.charge.chargerType 的更新记录：Charger Type  ---> Charger Type 
+>>>>chargeBasic.charge.enabled 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>chargeBasic.charge.chargerPortType 的更新记录：Charging Port Type  ---> Charging Port Type 
+>>>>chargeBasic.charge.chargerMode 的更新记录：Charging Mode  ---> Charging Mode 
+>>>>chargeBasic.charge.mapCodeAndVersion 的更新记录：Map Number Version  ---> Map Number Version 
+>>>>chargeBasic.charge.state 的更新记录：Valid Status  ---> Valid Status 
+>>>>chargeBasic.charge.createdUser 的更新记录：User Created  ---> User Created 
+>>>>chargeBasic.charge.createdTime 的更新记录：Created On  ---> Created On 
+>>>>chargeBasic.charge.lastUpdatedUser 的更新记录：User Modified  ---> User Modified 
+>>>>chargeBasic.charge.lastUpdatedTime 的更新记录：Modified on  ---> Modified On 
+>>>>chargeBasic.charge.remark 的更新记录：Remarks  ---> Remarks 
+>>>>chargeBasic.charge.ip 的更新记录：Charger IP Address  ---> Charger IP Address 
+>>>>chargeBasic.charge.vehicleAttitude 的更新记录：Vehicle Attitude  ---> Vehicle Attitude 
+>>>>chargeBasic.charge.agvHeading 的更新记录：Robot Docking Heading  ---> Robot Docking Heading 
+>>>>chargeBasic.charge.op 的更新记录：Operate  ---> Operate 
+>>>>chargeBasic.charge.op.edit 的更新记录：Edit  ---> Edit 
+>>>>chargeBasic.charge.btn.new 的更新记录：New  ---> New 
+>>>>chargeBasic.charge.btn.import 的更新记录：Import  ---> Import 
+>>>>chargeBasic.charge.btn.template 的更新记录：Download Import Template  ---> Download Import Template 
+>>>>chargeBasic.charge.btn.export 的更新记录：Export  ---> Export 
+>>>>chargeBasic.charge.btn.effective 的更新记录：Enable  ---> Enable 
+>>>>chargeBasic.charge.btn.invalid 的更新记录：Disable  ---> Disable 
+>>>>chargeBasic.charge.btn.delete 的更新记录：Delete  ---> Delete 
+>>>>chargeBasic.charge.btn.delete.confirm 的更新记录：Confirm Deletion?  ---> Confirm Deletion? 
+>>>>chargeBasic.chargeEdit.ip 的更新记录：Charger IP Address  ---> Charger IP Address 
+>>>>chargeBasic.chargeEdit.vehicleAttitude 的更新记录：Vehicle Attitude  ---> Vehicle Attitude 
+>>>>chargeBasic.chargeEdit.title 的更新记录：Edit  ---> Edit 
+>>>>chargeBasic.chargeEdit.chargerCode 的更新记录：Charger Point Code  ---> Charger Point Code 
+>>>>chargeBasic.chargeEdit.chargerCode.rules.max.message 的更新记录：Maximum length cannot exceed 21 digits  ---> Maximum length cannot exceed 21 digits 
+>>>>chargeBasic.chargeEdit.enabled 的更新记录：Enabled Status  ---> Enabled Status 
+>>>>chargeBasic.chargeEdit.chargerPortType 的更新记录：Charging Port Type  ---> Charging Port Type 
+>>>>chargeBasic.chargeEdit.chargerPortType.rules.max.message 的更新记录：Maximum length cannot exceed 22 digits  ---> Maximum length cannot exceed 22 digits 
+>>>>chargeBasic.chargeEdit.chargerMode 的更新记录：Charging Mode  ---> Charging Mode 
+>>>>chargeBasic.chargeEdit.chargerType 的更新记录：Charger Type  ---> Charger Type 
+>>>>chargeBasic.chargeEdit.chargerType.rules.max.message 的更新记录：Maximum length cannot exceed 23 digits  ---> Maximum length cannot exceed 23 digits 
+>>>>chargeBasic.chargeEdit.mapCodeAndVersion 的更新记录：Map Number Version  ---> Map Number Version 
+>>>>chargeBasic.chargeEdit.mapCodeAndVersion.rules.max.message 的更新记录：Maximum length cannot exceed 24 digits  ---> Maximum length cannot exceed 24 digits 
+>>>>chargeBasic.chargeEdit.back 的更新记录：Return  ---> Return 
+>>>>chargeBasic.chargeEdit.submit 的更新记录：Submit  ---> Submit 
+>>>>chargeBasic.chargeEdit.agvHeading 的更新记录：Robot Docking Heading  ---> Robot Docking Heading 

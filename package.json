@@ -1,0 +1,16 @@
+{
+  "name": "batch-i18n-tool",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Corrine Cao",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-format": "^1.0.1",
+    "node-xlsx": "^0.16.1"
+  },
+  "main": "index.js",
+  "description": ""
+}
